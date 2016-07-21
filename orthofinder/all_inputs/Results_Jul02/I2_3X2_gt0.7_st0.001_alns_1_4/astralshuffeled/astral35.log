@@ -1,0 +1,51 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 4.10.6
+Gene trees are treated as unrooted
+445 trees read from /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astralshuffeled/trees35.txt
+All outputted trees will be *arbitrarily* rooted at MincVW6_2
+
+======== Running the main analysis
+Number of taxa: 38 (38 species)
+Taxa: [MincVW6_2, Minc557R_2, MareHarA_2, MincL27_1, Minc557R_1, MincHarC_1, MincW1_1, MincA14_1, MincVW6_1, MincL9_1, MincL19_1, MjavVW5_1, MareL28_1, MincL15_1, MjavL57_1, MareHarA_1, MjavVW4_1, MareL32_1, MincL17_1, MentL30_1, MentL30_2, MfloJB5_2, MfloSJF1_2, MincA14_2, MincL27_2, MjavVW4_2, MareL32_2, MincHarC_2, MincL9_2, MincL19_2, MareL28_2, MincW1_2, MjavL57_2, MincL15_2, MjavVW5_2, MincL17_2, MfloSJF1_1, MfloJB5_1]
+Number of gene trees: 445
+445 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+Using tree-based weight calculation.
+Number of Default Clusters: 4755
+Number of quartet trees in the gene trees: 14406224
+calculating extra bipartitions to be added at level 1 ...
+Number of Clusters after addition by distance: 4755
+Adding to X using resolutions of greedy consensus ...
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+polytomy of size 5; rounds with additions with at least 0.01 support: 0; clusters: 4755
+Threshold 0.2:
+polytomy of size 6; rounds with additions with at least 0.01 support: 0; clusters: 4755
+polytomy of size 3; rounds with additions with at least 0.01 support: 0; clusters: 4755
+polytomy of size 5; rounds with additions with at least 0.01 support: 0; clusters: 4755
+Threshold 0.3333333333333333:
+polytomy of size 8; rounds with additions with at least 0.01 support: 0; clusters: 4755
+polytomy of size 5; rounds with additions with at least 0.01 support: 0; clusters: 4755
+polytomy of size 4; rounds with additions with at least 0.01 support: 0; clusters: 4755
+polytomy of size 3; rounds with additions with at least 0.01 support: 0; clusters: 4755
+polytomy of size 8; rounds with additions with at least 0.01 support: 0; clusters: 4755
+Number of Clusters after addition by greedy: 4755
+partitions formed in 1.935 secs
+Dynamic Programming starting after 1.935 secs
+Size of largest cluster: 38
+Total Number of elements weighted: 22647
+Normalized score (portion of input quartet trees satisfied): 0.8298416712109988
+Final optimization score: 11954885
+Optimal tree inferred in 14.893 secs.
+(MfloSJF1_1,(MfloJB5_1,(((MincA14_1,(MincL9_1,MincL19_1)),(Minc557R_1,(MincW1_1,(MincHarC_1,(MincL27_1,MincVW6_1))))),(((MareL28_1,(MareHarA_1,MareL32_1)),(MjavVW4_1,(MincL15_1,(MjavL57_1,(MjavVW5_1,MincL17_1))))),((MentL30_1,MentL30_2),(((MareL32_2,(MareHarA_2,MareL28_2)),(MjavVW4_2,(MincL15_2,(MjavVW5_2,(MjavL57_2,MincL17_2))))),((MfloJB5_2,MfloSJF1_2),((MincA14_2,(MincL9_2,MincL19_2)),(Minc557R_2,(MincHarC_2,(MincVW6_2,(MincL27_2,MincW1_2))))))))))));
+Quartet score is: 11954885
+Normalized quartet score is: 0.8298416712109988
+ASTRAL finished in 15.199 secs
