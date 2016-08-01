@@ -51,15 +51,15 @@ These were used for mitochondrial genome assembly, based on the first read trimm
   
 ## Key figures
 ### Mitochondrial tree
-[Mitochondrial tree conbined](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)
-[Mitochondrial tree rooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)
-[Mitochondrial tree unrooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)
+[Mitochondrial tree conbined](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)  
+[Mitochondrial tree rooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)  
+[Mitochondrial tree unrooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)  
 
 ### Nuclear tree
 [astral tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)  
 [supermatrix tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)   
 [strict consensus of the astral randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)  
-[[strict consensus of the supermatrix randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
+[strict consensus of the supermatrix randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
 
 ### coverage ratio
 [download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit.png)
