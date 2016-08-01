@@ -1,5 +1,110 @@
 # MIG-Phylogenomics
 
+## Read data
+
+The data is backed up on BioPC8. 
+Files, as recived from Laura are in :   
+`/media/amir/BACKUP/Read_data`  
+Slightly organised files are in:  
+`/media/amir/DATA/Read_data`   
+This is also mirrored on the synology drive, in:  
+`Amir/Read_data`   
+Quality trimmed read data can be found in all of the above and also in this location until 25/7/2018:
+  
+<iframe src="https://onedrive.live.com/embed?cid=21630C46C2D45B7F&resid=21630C46C2D45B7F%21133&authkey=AC2tYpTgWB54RbI" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+  
+
+### Raw paired read libraries 
+  
+Sample | Library | insert size | Used in analysis
+:--- |:---|:---:|:---:
+MincA14 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-021 | ? | +
+MareHarA | 150403_D00261_0236_AC6E37ANXX_8_IL-TP-021 | 550 | +
+MareHarA | 150403_D00261_0236_AC6E37ANXX_8_IL-TP-023 | ? | 
+MareHarA | 150521_D00200_0260_AC6V40ANXX_2_IL-TP-021 | ? | 
+MareHarA | 150521_D00200_0260_AC6V40ANXX_2_IL-TP-023 | ? | 
+MjavLD15 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-010 | ? | +
+MincL19 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-011 | ? | +
+MareL32 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-022 | ? | +
+MareL28 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-008 | ? | +
+MjavL57 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-001 | ? | +
+MjavVW4 | mjavanicaVW4_500 | 500 | +
+MjavVW4 | mjavanicaVW4_300 | 300 |
+MincW1 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-013 | 500 | +
+MincW1 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-005 | 300 | 
+MincVW6 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-007 | 500 | +  
+MincVW6 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-002 | 300 |  
+MincHarC | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-012 | 550 | +
+MincHarC | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-004 | 350 |
+Minc557R | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-006 | 550 | +
+MincL9 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-009 | ? | +
+MincL27 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-020 | ? | +
+MjavLD17 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-003 | ? | +
+MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-005 | ? | +
+MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-019 | ? | 
+MfloSJF1 | 160425_E00397_0014_AHLYG7CCXX_1_TP-D7-003 |  | 
+MfloSJF1 | 160426_K00166_0058_AH7WLVBBXX_8_TP-D7-005_TP-D5-003 |  | 
+
+  
+### Quality trimmed paired read file 
+These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in this link until 25/6/2018.
+  
+<iframe src="https://onedrive.live.com/embed?cid=21630C46C2D45B7F&resid=21630C46C2D45B7F%21133&authkey=AC2tYpTgWB54RbI" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+    
+### 25M read dubset of the first trimmed read file  
+These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset.
+  
+## Key figures
+### Mitochondrial tree
+![Mitochondrial tree conbined](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)
+
+![Mitochondrial tree rooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)
+
+![Mitochondrial tree unrooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)
+
+### Nuclear tree
+#### astral tree
+![astral tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)
+
+#### supermatrix tree
+![supermatrix tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)
+
+#### strict consensus of the astral randomization analysis
+![strict consensus of the astral randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)
+
+#### strict consensus of the supermatrix randomization analysis
+![strict consensus of the supermatrix randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
+
+### coverage ratio
+![ coverage ratio](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit.png)
+
+### intra-genome identity (blast)
+![intra-genome identity](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/intra_blast.png)
+
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/intra_blast.png)
+
+### gene conversion example
+![gene conversion example](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_2X2_gt0.85_st0.005_alns_flo2/OG0003714.png)
+[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_2X2_gt0.85_st0.005_alns_flo2/OG0003714.png)
+
+## Notebooks
+
 ### 0. Dependencies
 Notebook file name:  [`Dependencies.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Dependencies.ipynb)
 #### Related files:
