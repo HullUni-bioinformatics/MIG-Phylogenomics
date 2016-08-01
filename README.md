@@ -58,50 +58,50 @@ These were used for mitochondrial genome assembly, based on the first read trimm
 ### Mitochondrial tree
 ![Mitochondrial tree conbined](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)
 
 ![Mitochondrial tree rooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)
 
 ![Mitochondrial tree unrooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)
 
 ### Nuclear tree
 #### astral tree
 ![astral tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)
 
 #### supermatrix tree
 ![supermatrix tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)
 
 #### strict consensus of the astral randomization analysis
 ![strict consensus of the astral randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)
 
 #### strict consensus of the supermatrix randomization analysis
 ![strict consensus of the supermatrix randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
 
 ### coverage ratio
 ![ coverage ratio](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit.png)
 
 ### intra-genome identity (blast)
 ![intra-genome identity](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/intra_blast.png)
 
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/intra_blast.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/intra_blast.png)
 
 ### gene conversion example
 ![gene conversion example](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_2X2_gt0.85_st0.005_alns_flo2/OG0003714.png)
-[downloaded](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_2X2_gt0.85_st0.005_alns_flo2/OG0003714.png)
+[download](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_2X2_gt0.85_st0.005_alns_flo2/OG0003714.png)
 
 ## Notebooks
 
