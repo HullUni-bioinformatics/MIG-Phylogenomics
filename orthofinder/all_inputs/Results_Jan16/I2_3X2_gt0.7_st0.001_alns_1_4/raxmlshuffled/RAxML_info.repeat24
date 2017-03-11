@@ -1,0 +1,6142 @@
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 62377 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 26.32%
+
+RAxML rapid hill-climbing mode
+
+Using 533 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 230
+Name: OG0001163
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 1
+Alignment Patterns: 128
+Name: OG0001230
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 2
+Alignment Patterns: 183
+Name: OG0001267
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 3
+Alignment Patterns: 150
+Name: OG0001299
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 4
+Alignment Patterns: 116
+Name: OG0001335
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 5
+Alignment Patterns: 237
+Name: OG0001391
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 6
+Alignment Patterns: 82
+Name: OG0001468
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 7
+Alignment Patterns: 117
+Name: OG0001626
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 8
+Alignment Patterns: 92
+Name: OG0001894
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 9
+Alignment Patterns: 109
+Name: OG0001943
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 10
+Alignment Patterns: 143
+Name: OG0002163
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 11
+Alignment Patterns: 132
+Name: OG0002218
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 12
+Alignment Patterns: 160
+Name: OG0002293
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 13
+Alignment Patterns: 77
+Name: OG0002409
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 14
+Alignment Patterns: 242
+Name: OG0002471
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 15
+Alignment Patterns: 261
+Name: OG0002532
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 16
+Alignment Patterns: 45
+Name: OG0002787
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 17
+Alignment Patterns: 255
+Name: OG0002793
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 18
+Alignment Patterns: 166
+Name: OG0002843
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 19
+Alignment Patterns: 172
+Name: OG0002871
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 20
+Alignment Patterns: 131
+Name: OG0002938
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 21
+Alignment Patterns: 178
+Name: OG0003039
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 22
+Alignment Patterns: 93
+Name: OG0003170
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 23
+Alignment Patterns: 102
+Name: OG0003276
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 24
+Alignment Patterns: 112
+Name: OG0003397
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 25
+Alignment Patterns: 195
+Name: OG0003708
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 26
+Alignment Patterns: 104
+Name: OG0003759
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 27
+Alignment Patterns: 131
+Name: OG0004146
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 28
+Alignment Patterns: 194
+Name: OG0004219
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 29
+Alignment Patterns: 215
+Name: OG0004280
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 30
+Alignment Patterns: 260
+Name: OG0004304
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 31
+Alignment Patterns: 174
+Name: OG0004577
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 32
+Alignment Patterns: 110
+Name: OG0004770
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 33
+Alignment Patterns: 70
+Name: OG0004926
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 34
+Alignment Patterns: 97
+Name: OG0005079
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 35
+Alignment Patterns: 119
+Name: OG0005724
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 36
+Alignment Patterns: 106
+Name: OG0005738
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 37
+Alignment Patterns: 135
+Name: OG0000263
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 38
+Alignment Patterns: 68
+Name: OG0000337
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 39
+Alignment Patterns: 64
+Name: OG0000874
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 40
+Alignment Patterns: 251
+Name: OG0000900
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 41
+Alignment Patterns: 111
+Name: OG0000956
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 42
+Alignment Patterns: 195
+Name: OG0000972
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 43
+Alignment Patterns: 102
+Name: OG0000987
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 44
+Alignment Patterns: 152
+Name: OG0000988
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 45
+Alignment Patterns: 130
+Name: OG0000993
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 46
+Alignment Patterns: 144
+Name: OG0000995
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 47
+Alignment Patterns: 121
+Name: OG0000996
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 48
+Alignment Patterns: 180
+Name: OG0000998
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 49
+Alignment Patterns: 169
+Name: OG0001047
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 50
+Alignment Patterns: 87
+Name: OG0001052
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 51
+Alignment Patterns: 44
+Name: OG0001053
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 52
+Alignment Patterns: 64
+Name: OG0001062
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 53
+Alignment Patterns: 56
+Name: OG0001100
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 54
+Alignment Patterns: 66
+Name: OG0001146
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 55
+Alignment Patterns: 105
+Name: OG0001180
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 56
+Alignment Patterns: 152
+Name: OG0001182
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 57
+Alignment Patterns: 155
+Name: OG0001191
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 58
+Alignment Patterns: 90
+Name: OG0001203
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 59
+Alignment Patterns: 42
+Name: OG0001206
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 60
+Alignment Patterns: 169
+Name: OG0001207
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 61
+Alignment Patterns: 110
+Name: OG0001210
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 62
+Alignment Patterns: 45
+Name: OG0001214
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 63
+Alignment Patterns: 117
+Name: OG0001237
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 64
+Alignment Patterns: 118
+Name: OG0001238
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 65
+Alignment Patterns: 91
+Name: OG0001248
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 66
+Alignment Patterns: 44
+Name: OG0001250
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 67
+Alignment Patterns: 128
+Name: OG0001258
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 68
+Alignment Patterns: 123
+Name: OG0001266
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 69
+Alignment Patterns: 68
+Name: OG0001283
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 70
+Alignment Patterns: 46
+Name: OG0001287
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 71
+Alignment Patterns: 87
+Name: OG0001302
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 72
+Alignment Patterns: 41
+Name: OG0001303
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 73
+Alignment Patterns: 100
+Name: OG0001306
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 74
+Alignment Patterns: 51
+Name: OG0001307
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 75
+Alignment Patterns: 140
+Name: OG0001319
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 76
+Alignment Patterns: 82
+Name: OG0001327
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 77
+Alignment Patterns: 74
+Name: OG0001328
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 78
+Alignment Patterns: 119
+Name: OG0001338
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 79
+Alignment Patterns: 158
+Name: OG0001341
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 80
+Alignment Patterns: 56
+Name: OG0001354
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 81
+Alignment Patterns: 107
+Name: OG0001359
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 82
+Alignment Patterns: 191
+Name: OG0001375
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 83
+Alignment Patterns: 97
+Name: OG0001390
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 84
+Alignment Patterns: 138
+Name: OG0001393
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 85
+Alignment Patterns: 102
+Name: OG0001401
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 86
+Alignment Patterns: 171
+Name: OG0001407
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 87
+Alignment Patterns: 113
+Name: OG0001408
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 88
+Alignment Patterns: 122
+Name: OG0001432
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 89
+Alignment Patterns: 355
+Name: OG0001436
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 90
+Alignment Patterns: 163
+Name: OG0001437
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 91
+Alignment Patterns: 77
+Name: OG0001446
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 92
+Alignment Patterns: 122
+Name: OG0001447
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 93
+Alignment Patterns: 84
+Name: OG0001448
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 94
+Alignment Patterns: 145
+Name: OG0001449
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 95
+Alignment Patterns: 241
+Name: OG0001457
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 96
+Alignment Patterns: 107
+Name: OG0001458
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 97
+Alignment Patterns: 62
+Name: OG0001459
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 98
+Alignment Patterns: 250
+Name: OG0001465
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 99
+Alignment Patterns: 68
+Name: OG0001471
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 100
+Alignment Patterns: 152
+Name: OG0001473
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 101
+Alignment Patterns: 83
+Name: OG0001477
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 102
+Alignment Patterns: 53
+Name: OG0001480
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 103
+Alignment Patterns: 144
+Name: OG0001481
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 104
+Alignment Patterns: 156
+Name: OG0001491
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 105
+Alignment Patterns: 39
+Name: OG0001493
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 106
+Alignment Patterns: 94
+Name: OG0001494
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 107
+Alignment Patterns: 125
+Name: OG0001501
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 108
+Alignment Patterns: 143
+Name: OG0001502
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 109
+Alignment Patterns: 100
+Name: OG0001503
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 110
+Alignment Patterns: 95
+Name: OG0001506
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 111
+Alignment Patterns: 152
+Name: OG0001510
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 112
+Alignment Patterns: 71
+Name: OG0001514
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 113
+Alignment Patterns: 148
+Name: OG0001516
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 114
+Alignment Patterns: 33
+Name: OG0001519
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 115
+Alignment Patterns: 194
+Name: OG0001528
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 116
+Alignment Patterns: 94
+Name: OG0001539
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 117
+Alignment Patterns: 207
+Name: OG0001541
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 118
+Alignment Patterns: 176
+Name: OG0001550
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 119
+Alignment Patterns: 120
+Name: OG0001569
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 120
+Alignment Patterns: 63
+Name: OG0001575
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 121
+Alignment Patterns: 84
+Name: OG0001576
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 122
+Alignment Patterns: 111
+Name: OG0001578
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 123
+Alignment Patterns: 75
+Name: OG0001587
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 124
+Alignment Patterns: 193
+Name: OG0001598
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 125
+Alignment Patterns: 144
+Name: OG0001599
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 126
+Alignment Patterns: 153
+Name: OG0001602
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 127
+Alignment Patterns: 176
+Name: OG0001606
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 128
+Alignment Patterns: 94
+Name: OG0001609
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 129
+Alignment Patterns: 119
+Name: OG0001611
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 130
+Alignment Patterns: 167
+Name: OG0001612
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 131
+Alignment Patterns: 93
+Name: OG0001617
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 132
+Alignment Patterns: 119
+Name: OG0001622
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 133
+Alignment Patterns: 118
+Name: OG0001625
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 134
+Alignment Patterns: 94
+Name: OG0001629
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 135
+Alignment Patterns: 51
+Name: OG0001630
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 136
+Alignment Patterns: 51
+Name: OG0001638
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 137
+Alignment Patterns: 109
+Name: OG0001645
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 138
+Alignment Patterns: 58
+Name: OG0001647
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 139
+Alignment Patterns: 82
+Name: OG0001656
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 140
+Alignment Patterns: 166
+Name: OG0001667
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 141
+Alignment Patterns: 172
+Name: OG0001673
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 142
+Alignment Patterns: 107
+Name: OG0001675
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 143
+Alignment Patterns: 47
+Name: OG0001705
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 144
+Alignment Patterns: 112
+Name: OG0001714
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 145
+Alignment Patterns: 53
+Name: OG0001718
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 146
+Alignment Patterns: 74
+Name: OG0001719
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 147
+Alignment Patterns: 88
+Name: OG0001737
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 148
+Alignment Patterns: 405
+Name: OG0001743
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 149
+Alignment Patterns: 106
+Name: OG0001744
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 150
+Alignment Patterns: 51
+Name: OG0001746
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 151
+Alignment Patterns: 72
+Name: OG0001776
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 152
+Alignment Patterns: 59
+Name: OG0001795
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 153
+Alignment Patterns: 25
+Name: OG0001798
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 154
+Alignment Patterns: 116
+Name: OG0001803
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 155
+Alignment Patterns: 120
+Name: OG0001805
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 156
+Alignment Patterns: 75
+Name: OG0001818
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 157
+Alignment Patterns: 39
+Name: OG0001831
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 158
+Alignment Patterns: 92
+Name: OG0001832
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 159
+Alignment Patterns: 87
+Name: OG0001840
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 160
+Alignment Patterns: 70
+Name: OG0001849
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 161
+Alignment Patterns: 172
+Name: OG0001851
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 162
+Alignment Patterns: 258
+Name: OG0001852
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 163
+Alignment Patterns: 89
+Name: OG0001855
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 164
+Alignment Patterns: 129
+Name: OG0001859
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 165
+Alignment Patterns: 81
+Name: OG0001861
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 166
+Alignment Patterns: 69
+Name: OG0001863
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 167
+Alignment Patterns: 63
+Name: OG0001867
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 168
+Alignment Patterns: 160
+Name: OG0001879
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 169
+Alignment Patterns: 175
+Name: OG0001893
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 170
+Alignment Patterns: 89
+Name: OG0001911
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 171
+Alignment Patterns: 56
+Name: OG0001916
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 172
+Alignment Patterns: 195
+Name: OG0001921
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 173
+Alignment Patterns: 122
+Name: OG0001929
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 174
+Alignment Patterns: 337
+Name: OG0001934
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 175
+Alignment Patterns: 88
+Name: OG0001935
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 176
+Alignment Patterns: 90
+Name: OG0001945
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 177
+Alignment Patterns: 99
+Name: OG0001953
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 178
+Alignment Patterns: 126
+Name: OG0001958
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 179
+Alignment Patterns: 213
+Name: OG0001960
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 180
+Alignment Patterns: 139
+Name: OG0001964
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 181
+Alignment Patterns: 78
+Name: OG0001977
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 182
+Alignment Patterns: 130
+Name: OG0001979
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 183
+Alignment Patterns: 72
+Name: OG0001991
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 184
+Alignment Patterns: 60
+Name: OG0001992
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 185
+Alignment Patterns: 86
+Name: OG0002009
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 186
+Alignment Patterns: 217
+Name: OG0002019
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 187
+Alignment Patterns: 64
+Name: OG0002020
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 188
+Alignment Patterns: 180
+Name: OG0002029
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 189
+Alignment Patterns: 82
+Name: OG0002034
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 190
+Alignment Patterns: 149
+Name: OG0002038
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 191
+Alignment Patterns: 146
+Name: OG0002039
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 192
+Alignment Patterns: 71
+Name: OG0002050
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 193
+Alignment Patterns: 204
+Name: OG0002053
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 194
+Alignment Patterns: 97
+Name: OG0002054
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 195
+Alignment Patterns: 76
+Name: OG0002065
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 196
+Alignment Patterns: 161
+Name: OG0002071
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 197
+Alignment Patterns: 116
+Name: OG0002086
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 198
+Alignment Patterns: 39
+Name: OG0002089
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 199
+Alignment Patterns: 96
+Name: OG0002092
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 200
+Alignment Patterns: 43
+Name: OG0002095
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 201
+Alignment Patterns: 81
+Name: OG0002099
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 202
+Alignment Patterns: 138
+Name: OG0002108
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 203
+Alignment Patterns: 69
+Name: OG0002120
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 204
+Alignment Patterns: 122
+Name: OG0002128
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 205
+Alignment Patterns: 88
+Name: OG0002137
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 206
+Alignment Patterns: 114
+Name: OG0002142
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 207
+Alignment Patterns: 107
+Name: OG0002160
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 208
+Alignment Patterns: 40
+Name: OG0002168
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 209
+Alignment Patterns: 70
+Name: OG0002171
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 210
+Alignment Patterns: 197
+Name: OG0002177
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 211
+Alignment Patterns: 139
+Name: OG0002185
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 212
+Alignment Patterns: 88
+Name: OG0002190
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 213
+Alignment Patterns: 69
+Name: OG0002191
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 214
+Alignment Patterns: 46
+Name: OG0002192
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 215
+Alignment Patterns: 58
+Name: OG0002202
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 216
+Alignment Patterns: 232
+Name: OG0002204
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 217
+Alignment Patterns: 86
+Name: OG0002205
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 218
+Alignment Patterns: 46
+Name: OG0002208
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 219
+Alignment Patterns: 113
+Name: OG0002209
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 220
+Alignment Patterns: 124
+Name: OG0002222
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 221
+Alignment Patterns: 109
+Name: OG0002226
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 222
+Alignment Patterns: 130
+Name: OG0002244
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 223
+Alignment Patterns: 57
+Name: OG0002248
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 224
+Alignment Patterns: 117
+Name: OG0002251
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 225
+Alignment Patterns: 117
+Name: OG0002254
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 226
+Alignment Patterns: 65
+Name: OG0002255
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 227
+Alignment Patterns: 121
+Name: OG0002259
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 228
+Alignment Patterns: 106
+Name: OG0002262
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 229
+Alignment Patterns: 104
+Name: OG0002269
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 230
+Alignment Patterns: 56
+Name: OG0002271
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 231
+Alignment Patterns: 120
+Name: OG0002283
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 232
+Alignment Patterns: 200
+Name: OG0002286
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 233
+Alignment Patterns: 85
+Name: OG0002295
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 234
+Alignment Patterns: 108
+Name: OG0002299
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 235
+Alignment Patterns: 120
+Name: OG0002305
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 236
+Alignment Patterns: 56
+Name: OG0002309
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 237
+Alignment Patterns: 103
+Name: OG0002318
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 238
+Alignment Patterns: 38
+Name: OG0002331
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 239
+Alignment Patterns: 87
+Name: OG0002332
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 240
+Alignment Patterns: 136
+Name: OG0002341
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 241
+Alignment Patterns: 203
+Name: OG0002346
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 242
+Alignment Patterns: 132
+Name: OG0002349
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 243
+Alignment Patterns: 190
+Name: OG0002353
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 244
+Alignment Patterns: 94
+Name: OG0002355
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 245
+Alignment Patterns: 103
+Name: OG0002363
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 246
+Alignment Patterns: 111
+Name: OG0002372
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 247
+Alignment Patterns: 90
+Name: OG0002376
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 248
+Alignment Patterns: 94
+Name: OG0002387
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 249
+Alignment Patterns: 248
+Name: OG0002424
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 250
+Alignment Patterns: 109
+Name: OG0002428
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 251
+Alignment Patterns: 214
+Name: OG0002435
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 252
+Alignment Patterns: 150
+Name: OG0002444
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 253
+Alignment Patterns: 179
+Name: OG0002452
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 254
+Alignment Patterns: 44
+Name: OG0002454
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 255
+Alignment Patterns: 116
+Name: OG0002461
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 256
+Alignment Patterns: 47
+Name: OG0002470
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 257
+Alignment Patterns: 116
+Name: OG0002474
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 258
+Alignment Patterns: 89
+Name: OG0002475
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 259
+Alignment Patterns: 115
+Name: OG0002490
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 260
+Alignment Patterns: 55
+Name: OG0002497
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 261
+Alignment Patterns: 90
+Name: OG0002499
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 262
+Alignment Patterns: 111
+Name: OG0002513
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 263
+Alignment Patterns: 163
+Name: OG0002514
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 264
+Alignment Patterns: 65
+Name: OG0002515
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 265
+Alignment Patterns: 89
+Name: OG0002521
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 266
+Alignment Patterns: 142
+Name: OG0002545
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 267
+Alignment Patterns: 48
+Name: OG0002558
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 268
+Alignment Patterns: 94
+Name: OG0002568
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 269
+Alignment Patterns: 86
+Name: OG0002586
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 270
+Alignment Patterns: 142
+Name: OG0002587
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 271
+Alignment Patterns: 106
+Name: OG0002593
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 272
+Alignment Patterns: 116
+Name: OG0002600
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 273
+Alignment Patterns: 134
+Name: OG0002603
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 274
+Alignment Patterns: 68
+Name: OG0002610
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 275
+Alignment Patterns: 109
+Name: OG0002611
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 276
+Alignment Patterns: 179
+Name: OG0002615
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 277
+Alignment Patterns: 98
+Name: OG0002626
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 278
+Alignment Patterns: 104
+Name: OG0002649
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 279
+Alignment Patterns: 102
+Name: OG0002664
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 280
+Alignment Patterns: 113
+Name: OG0002665
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 281
+Alignment Patterns: 166
+Name: OG0002673
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 282
+Alignment Patterns: 139
+Name: OG0002675
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 283
+Alignment Patterns: 122
+Name: OG0002684
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 284
+Alignment Patterns: 82
+Name: OG0002695
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 285
+Alignment Patterns: 106
+Name: OG0002716
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 286
+Alignment Patterns: 126
+Name: OG0002719
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 287
+Alignment Patterns: 115
+Name: OG0002725
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 288
+Alignment Patterns: 80
+Name: OG0002733
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 289
+Alignment Patterns: 127
+Name: OG0002741
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 290
+Alignment Patterns: 110
+Name: OG0002745
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 291
+Alignment Patterns: 288
+Name: OG0002770
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 292
+Alignment Patterns: 162
+Name: OG0002789
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 293
+Alignment Patterns: 109
+Name: OG0002790
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 294
+Alignment Patterns: 102
+Name: OG0002794
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 295
+Alignment Patterns: 109
+Name: OG0002797
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 296
+Alignment Patterns: 108
+Name: OG0002798
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 297
+Alignment Patterns: 99
+Name: OG0002802
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 298
+Alignment Patterns: 117
+Name: OG0002804
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 299
+Alignment Patterns: 164
+Name: OG0002811
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 300
+Alignment Patterns: 103
+Name: OG0002812
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 301
+Alignment Patterns: 48
+Name: OG0002814
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 302
+Alignment Patterns: 56
+Name: OG0002819
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 303
+Alignment Patterns: 89
+Name: OG0002824
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 304
+Alignment Patterns: 180
+Name: OG0002825
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 305
+Alignment Patterns: 67
+Name: OG0002828
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 306
+Alignment Patterns: 86
+Name: OG0002845
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 307
+Alignment Patterns: 93
+Name: OG0002852
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 308
+Alignment Patterns: 106
+Name: OG0002864
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 309
+Alignment Patterns: 130
+Name: OG0002867
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 310
+Alignment Patterns: 233
+Name: OG0002868
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 311
+Alignment Patterns: 278
+Name: OG0002883
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 312
+Alignment Patterns: 214
+Name: OG0002888
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 313
+Alignment Patterns: 216
+Name: OG0002901
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 314
+Alignment Patterns: 106
+Name: OG0002907
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 315
+Alignment Patterns: 141
+Name: OG0002910
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 316
+Alignment Patterns: 39
+Name: OG0002926
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 317
+Alignment Patterns: 169
+Name: OG0002929
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 318
+Alignment Patterns: 72
+Name: OG0002934
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 319
+Alignment Patterns: 158
+Name: OG0002935
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 320
+Alignment Patterns: 111
+Name: OG0002950
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 321
+Alignment Patterns: 57
+Name: OG0002953
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 322
+Alignment Patterns: 59
+Name: OG0002954
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 323
+Alignment Patterns: 165
+Name: OG0002963
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 324
+Alignment Patterns: 139
+Name: OG0002968
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 325
+Alignment Patterns: 176
+Name: OG0002978
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 326
+Alignment Patterns: 210
+Name: OG0002998
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 327
+Alignment Patterns: 51
+Name: OG0003005
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 328
+Alignment Patterns: 151
+Name: OG0003020
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 329
+Alignment Patterns: 84
+Name: OG0003023
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 330
+Alignment Patterns: 30
+Name: OG0003048
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 331
+Alignment Patterns: 325
+Name: OG0003049
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 332
+Alignment Patterns: 107
+Name: OG0003072
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 333
+Alignment Patterns: 94
+Name: OG0003074
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 334
+Alignment Patterns: 156
+Name: OG0003079
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 335
+Alignment Patterns: 144
+Name: OG0003091
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 336
+Alignment Patterns: 273
+Name: OG0003093
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 337
+Alignment Patterns: 295
+Name: OG0003115
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 338
+Alignment Patterns: 73
+Name: OG0003117
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 339
+Alignment Patterns: 112
+Name: OG0003122
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 340
+Alignment Patterns: 57
+Name: OG0003133
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 341
+Alignment Patterns: 108
+Name: OG0003136
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 342
+Alignment Patterns: 189
+Name: OG0003141
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 343
+Alignment Patterns: 96
+Name: OG0003151
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 344
+Alignment Patterns: 53
+Name: OG0003158
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 345
+Alignment Patterns: 74
+Name: OG0003161
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 346
+Alignment Patterns: 58
+Name: OG0003165
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 347
+Alignment Patterns: 93
+Name: OG0003166
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 348
+Alignment Patterns: 204
+Name: OG0003176
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 349
+Alignment Patterns: 44
+Name: OG0003191
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 350
+Alignment Patterns: 270
+Name: OG0003195
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 351
+Alignment Patterns: 98
+Name: OG0003202
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 352
+Alignment Patterns: 90
+Name: OG0003206
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 353
+Alignment Patterns: 88
+Name: OG0003208
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 354
+Alignment Patterns: 31
+Name: OG0003211
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 355
+Alignment Patterns: 106
+Name: OG0003214
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 356
+Alignment Patterns: 68
+Name: OG0003218
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 357
+Alignment Patterns: 70
+Name: OG0003222
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 358
+Alignment Patterns: 34
+Name: OG0003223
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 359
+Alignment Patterns: 69
+Name: OG0003233
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 360
+Alignment Patterns: 38
+Name: OG0003253
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 361
+Alignment Patterns: 90
+Name: OG0003258
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 362
+Alignment Patterns: 172
+Name: OG0003260
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 363
+Alignment Patterns: 77
+Name: OG0003269
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 364
+Alignment Patterns: 171
+Name: OG0003272
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 365
+Alignment Patterns: 168
+Name: OG0003273
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 366
+Alignment Patterns: 28
+Name: OG0003274
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 367
+Alignment Patterns: 101
+Name: OG0003277
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 368
+Alignment Patterns: 130
+Name: OG0003281
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 369
+Alignment Patterns: 283
+Name: OG0003293
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 370
+Alignment Patterns: 84
+Name: OG0003294
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 371
+Alignment Patterns: 172
+Name: OG0003298
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 372
+Alignment Patterns: 107
+Name: OG0003300
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 373
+Alignment Patterns: 91
+Name: OG0003304
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 374
+Alignment Patterns: 254
+Name: OG0003317
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 375
+Alignment Patterns: 63
+Name: OG0003355
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 376
+Alignment Patterns: 60
+Name: OG0003359
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 377
+Alignment Patterns: 67
+Name: OG0003365
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 378
+Alignment Patterns: 259
+Name: OG0003372
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 379
+Alignment Patterns: 175
+Name: OG0003375
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 380
+Alignment Patterns: 112
+Name: OG0003381
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 381
+Alignment Patterns: 55
+Name: OG0003386
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 382
+Alignment Patterns: 122
+Name: OG0003394
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 383
+Alignment Patterns: 56
+Name: OG0003398
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 384
+Alignment Patterns: 92
+Name: OG0003407
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 385
+Alignment Patterns: 45
+Name: OG0003411
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 386
+Alignment Patterns: 157
+Name: OG0003446
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 387
+Alignment Patterns: 126
+Name: OG0003447
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 388
+Alignment Patterns: 121
+Name: OG0003461
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 389
+Alignment Patterns: 111
+Name: OG0003465
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 390
+Alignment Patterns: 65
+Name: OG0003471
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 391
+Alignment Patterns: 87
+Name: OG0003479
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 392
+Alignment Patterns: 57
+Name: OG0003486
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 393
+Alignment Patterns: 106
+Name: OG0003488
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 394
+Alignment Patterns: 105
+Name: OG0003501
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 395
+Alignment Patterns: 48
+Name: OG0003502
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 396
+Alignment Patterns: 97
+Name: OG0003508
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 397
+Alignment Patterns: 110
+Name: OG0003511
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 398
+Alignment Patterns: 174
+Name: OG0003541
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 399
+Alignment Patterns: 232
+Name: OG0003547
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 400
+Alignment Patterns: 234
+Name: OG0003558
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 401
+Alignment Patterns: 125
+Name: OG0003578
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 402
+Alignment Patterns: 73
+Name: OG0003587
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 403
+Alignment Patterns: 136
+Name: OG0003602
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 404
+Alignment Patterns: 64
+Name: OG0003641
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 405
+Alignment Patterns: 84
+Name: OG0003646
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 406
+Alignment Patterns: 54
+Name: OG0003649
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 407
+Alignment Patterns: 68
+Name: OG0003659
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 408
+Alignment Patterns: 74
+Name: OG0003666
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 409
+Alignment Patterns: 177
+Name: OG0003669
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 410
+Alignment Patterns: 270
+Name: OG0003717
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 411
+Alignment Patterns: 95
+Name: OG0003726
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 412
+Alignment Patterns: 221
+Name: OG0003737
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 413
+Alignment Patterns: 64
+Name: OG0003740
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 414
+Alignment Patterns: 32
+Name: OG0003749
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 415
+Alignment Patterns: 170
+Name: OG0003753
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 416
+Alignment Patterns: 68
+Name: OG0003758
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 417
+Alignment Patterns: 88
+Name: OG0003766
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 418
+Alignment Patterns: 43
+Name: OG0003769
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 419
+Alignment Patterns: 97
+Name: OG0003777
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 420
+Alignment Patterns: 141
+Name: OG0003794
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 421
+Alignment Patterns: 82
+Name: OG0003796
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 422
+Alignment Patterns: 217
+Name: OG0003806
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 423
+Alignment Patterns: 81
+Name: OG0003813
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 424
+Alignment Patterns: 86
+Name: OG0003817
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 425
+Alignment Patterns: 38
+Name: OG0003823
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 426
+Alignment Patterns: 69
+Name: OG0003833
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 427
+Alignment Patterns: 46
+Name: OG0003852
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 428
+Alignment Patterns: 109
+Name: OG0003859
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 429
+Alignment Patterns: 57
+Name: OG0003860
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 430
+Alignment Patterns: 101
+Name: OG0003877
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 431
+Alignment Patterns: 31
+Name: OG0003884
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 432
+Alignment Patterns: 61
+Name: OG0003889
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 433
+Alignment Patterns: 74
+Name: OG0003898
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 434
+Alignment Patterns: 74
+Name: OG0003899
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 435
+Alignment Patterns: 55
+Name: OG0003905
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 436
+Alignment Patterns: 56
+Name: OG0003923
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 437
+Alignment Patterns: 94
+Name: OG0003930
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 438
+Alignment Patterns: 60
+Name: OG0003943
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 439
+Alignment Patterns: 77
+Name: OG0003948
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 440
+Alignment Patterns: 127
+Name: OG0003957
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 441
+Alignment Patterns: 41
+Name: OG0003971
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 442
+Alignment Patterns: 104
+Name: OG0003983
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 443
+Alignment Patterns: 184
+Name: OG0003990
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 444
+Alignment Patterns: 57
+Name: OG0004004
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 445
+Alignment Patterns: 71
+Name: OG0004013
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 446
+Alignment Patterns: 110
+Name: OG0004015
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 447
+Alignment Patterns: 188
+Name: OG0004021
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 448
+Alignment Patterns: 30
+Name: OG0004038
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 449
+Alignment Patterns: 199
+Name: OG0004050
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 450
+Alignment Patterns: 97
+Name: OG0004053
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 451
+Alignment Patterns: 210
+Name: OG0004080
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 452
+Alignment Patterns: 69
+Name: OG0004084
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 453
+Alignment Patterns: 46
+Name: OG0004096
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 454
+Alignment Patterns: 36
+Name: OG0004150
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 455
+Alignment Patterns: 57
+Name: OG0004151
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 456
+Alignment Patterns: 89
+Name: OG0004164
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 457
+Alignment Patterns: 127
+Name: OG0004169
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 458
+Alignment Patterns: 36
+Name: OG0004170
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 459
+Alignment Patterns: 164
+Name: OG0004176
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 460
+Alignment Patterns: 54
+Name: OG0004188
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 461
+Alignment Patterns: 160
+Name: OG0004191
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 462
+Alignment Patterns: 46
+Name: OG0004199
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 463
+Alignment Patterns: 71
+Name: OG0004248
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 464
+Alignment Patterns: 81
+Name: OG0004260
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 465
+Alignment Patterns: 75
+Name: OG0004271
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 466
+Alignment Patterns: 191
+Name: OG0004273
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 467
+Alignment Patterns: 104
+Name: OG0004311
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 468
+Alignment Patterns: 71
+Name: OG0004316
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 469
+Alignment Patterns: 215
+Name: OG0004317
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 470
+Alignment Patterns: 141
+Name: OG0004323
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 471
+Alignment Patterns: 81
+Name: OG0004334
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 472
+Alignment Patterns: 79
+Name: OG0004339
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 473
+Alignment Patterns: 103
+Name: OG0004352
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 474
+Alignment Patterns: 229
+Name: OG0004365
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 475
+Alignment Patterns: 123
+Name: OG0004366
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 476
+Alignment Patterns: 300
+Name: OG0004386
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 477
+Alignment Patterns: 71
+Name: OG0004403
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 478
+Alignment Patterns: 79
+Name: OG0004466
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 479
+Alignment Patterns: 213
+Name: OG0004506
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 480
+Alignment Patterns: 66
+Name: OG0004526
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 481
+Alignment Patterns: 35
+Name: OG0004530
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 482
+Alignment Patterns: 119
+Name: OG0004593
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 483
+Alignment Patterns: 159
+Name: OG0004603
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 484
+Alignment Patterns: 167
+Name: OG0004624
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 485
+Alignment Patterns: 28
+Name: OG0004648
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 486
+Alignment Patterns: 81
+Name: OG0004657
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 487
+Alignment Patterns: 151
+Name: OG0004751
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 488
+Alignment Patterns: 102
+Name: OG0004754
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 489
+Alignment Patterns: 60
+Name: OG0004771
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 490
+Alignment Patterns: 118
+Name: OG0004774
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 491
+Alignment Patterns: 80
+Name: OG0004777
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 492
+Alignment Patterns: 77
+Name: OG0004799
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 493
+Alignment Patterns: 201
+Name: OG0004843
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 494
+Alignment Patterns: 171
+Name: OG0004879
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 495
+Alignment Patterns: 107
+Name: OG0004931
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 496
+Alignment Patterns: 149
+Name: OG0004980
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 497
+Alignment Patterns: 87
+Name: OG0005001
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 498
+Alignment Patterns: 82
+Name: OG0005052
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 499
+Alignment Patterns: 148
+Name: OG0005053
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 500
+Alignment Patterns: 39
+Name: OG0005147
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 501
+Alignment Patterns: 106
+Name: OG0005177
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 502
+Alignment Patterns: 129
+Name: OG0005185
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 503
+Alignment Patterns: 106
+Name: OG0005266
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 504
+Alignment Patterns: 123
+Name: OG0005325
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 505
+Alignment Patterns: 52
+Name: OG0005336
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 506
+Alignment Patterns: 131
+Name: OG0005358
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 507
+Alignment Patterns: 167
+Name: OG0005372
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 508
+Alignment Patterns: 175
+Name: OG0005428
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 509
+Alignment Patterns: 163
+Name: OG0005460
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 510
+Alignment Patterns: 221
+Name: OG0005506
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 511
+Alignment Patterns: 119
+Name: OG0005544
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 512
+Alignment Patterns: 194
+Name: OG0005602
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 513
+Alignment Patterns: 66
+Name: OG0005698
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 514
+Alignment Patterns: 96
+Name: OG0005700
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 515
+Alignment Patterns: 140
+Name: OG0005978
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 516
+Alignment Patterns: 97
+Name: OG0005987
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 517
+Alignment Patterns: 116
+Name: OG0006024
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 518
+Alignment Patterns: 80
+Name: OG0006034
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 519
+Alignment Patterns: 178
+Name: OG0006115
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 520
+Alignment Patterns: 177
+Name: OG0006154
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 521
+Alignment Patterns: 325
+Name: OG0006336
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 522
+Alignment Patterns: 77
+Name: OG0006385
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 523
+Alignment Patterns: 94
+Name: OG0006403
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 524
+Alignment Patterns: 266
+Name: OG0006420
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 525
+Alignment Patterns: 30
+Name: OG0006421
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 526
+Alignment Patterns: 71
+Name: OG0006444
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 527
+Alignment Patterns: 159
+Name: OG0006458
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 528
+Alignment Patterns: 217
+Name: OG0007059
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 529
+Alignment Patterns: 100
+Name: OG0007066
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 530
+Alignment Patterns: 48
+Name: OG0007422
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 531
+Alignment Patterns: 80
+Name: OG0007489
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+Partition: 532
+Alignment Patterns: 118
+Name: OG0007866
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -T 13 -s ./orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxmlshuffled/shuffled24.fasta -n repeat24 -m GTRGAMMA -q ./orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/merged_clusters.parts -p 123 
+
+
+Partition: 0 with name: OG0001163
+Base frequencies: 0.288 0.152 0.219 0.340 
+
+Partition: 1 with name: OG0001230
+Base frequencies: 0.318 0.195 0.169 0.318 
+
+Partition: 2 with name: OG0001267
+Base frequencies: 0.359 0.192 0.203 0.246 
+
+Partition: 3 with name: OG0001299
+Base frequencies: 0.384 0.118 0.168 0.331 
+
+Partition: 4 with name: OG0001335
+Base frequencies: 0.379 0.118 0.134 0.368 
+
+Partition: 5 with name: OG0001391
+Base frequencies: 0.301 0.175 0.223 0.301 
+
+Partition: 6 with name: OG0001468
+Base frequencies: 0.321 0.164 0.273 0.242 
+
+Partition: 7 with name: OG0001626
+Base frequencies: 0.310 0.164 0.190 0.337 
+
+Partition: 8 with name: OG0001894
+Base frequencies: 0.333 0.139 0.222 0.306 
+
+Partition: 9 with name: OG0001943
+Base frequencies: 0.475 0.104 0.272 0.149 
+
+Partition: 10 with name: OG0002163
+Base frequencies: 0.358 0.157 0.169 0.316 
+
+Partition: 11 with name: OG0002218
+Base frequencies: 0.352 0.237 0.127 0.283 
+
+Partition: 12 with name: OG0002293
+Base frequencies: 0.345 0.201 0.205 0.248 
+
+Partition: 13 with name: OG0002409
+Base frequencies: 0.331 0.128 0.213 0.328 
+
+Partition: 14 with name: OG0002471
+Base frequencies: 0.419 0.088 0.207 0.287 
+
+Partition: 15 with name: OG0002532
+Base frequencies: 0.290 0.108 0.247 0.354 
+
+Partition: 16 with name: OG0002787
+Base frequencies: 0.375 0.125 0.176 0.325 
+
+Partition: 17 with name: OG0002793
+Base frequencies: 0.393 0.157 0.217 0.233 
+
+Partition: 18 with name: OG0002843
+Base frequencies: 0.353 0.183 0.220 0.243 
+
+Partition: 19 with name: OG0002871
+Base frequencies: 0.320 0.153 0.201 0.326 
+
+Partition: 20 with name: OG0002938
+Base frequencies: 0.379 0.108 0.229 0.285 
+
+Partition: 21 with name: OG0003039
+Base frequencies: 0.405 0.132 0.185 0.278 
+
+Partition: 22 with name: OG0003170
+Base frequencies: 0.432 0.102 0.139 0.327 
+
+Partition: 23 with name: OG0003276
+Base frequencies: 0.401 0.077 0.175 0.347 
+
+Partition: 24 with name: OG0003397
+Base frequencies: 0.433 0.120 0.158 0.289 
+
+Partition: 25 with name: OG0003708
+Base frequencies: 0.467 0.101 0.191 0.241 
+
+Partition: 26 with name: OG0003759
+Base frequencies: 0.393 0.145 0.173 0.289 
+
+Partition: 27 with name: OG0004146
+Base frequencies: 0.324 0.163 0.183 0.330 
+
+Partition: 28 with name: OG0004219
+Base frequencies: 0.375 0.113 0.218 0.295 
+
+Partition: 29 with name: OG0004280
+Base frequencies: 0.312 0.153 0.213 0.322 
+
+Partition: 30 with name: OG0004304
+Base frequencies: 0.381 0.127 0.202 0.289 
+
+Partition: 31 with name: OG0004577
+Base frequencies: 0.362 0.120 0.195 0.323 
+
+Partition: 32 with name: OG0004770
+Base frequencies: 0.363 0.126 0.209 0.301 
+
+Partition: 33 with name: OG0004926
+Base frequencies: 0.316 0.138 0.216 0.329 
+
+Partition: 34 with name: OG0005079
+Base frequencies: 0.353 0.203 0.209 0.235 
+
+Partition: 35 with name: OG0005724
+Base frequencies: 0.415 0.084 0.199 0.302 
+
+Partition: 36 with name: OG0005738
+Base frequencies: 0.340 0.151 0.178 0.331 
+
+Partition: 37 with name: OG0000263
+Base frequencies: 0.329 0.128 0.174 0.368 
+
+Partition: 38 with name: OG0000337
+Base frequencies: 0.317 0.168 0.225 0.289 
+
+Partition: 39 with name: OG0000874
+Base frequencies: 0.400 0.133 0.220 0.247 
+
+Partition: 40 with name: OG0000900
+Base frequencies: 0.249 0.192 0.234 0.326 
+
+Partition: 41 with name: OG0000956
+Base frequencies: 0.293 0.227 0.253 0.227 
+
+Partition: 42 with name: OG0000972
+Base frequencies: 0.283 0.237 0.253 0.227 
+
+Partition: 43 with name: OG0000987
+Base frequencies: 0.360 0.134 0.154 0.352 
+
+Partition: 44 with name: OG0000988
+Base frequencies: 0.307 0.128 0.203 0.361 
+
+Partition: 45 with name: OG0000993
+Base frequencies: 0.396 0.126 0.176 0.302 
+
+Partition: 46 with name: OG0000995
+Base frequencies: 0.332 0.129 0.210 0.329 
+
+Partition: 47 with name: OG0000996
+Base frequencies: 0.329 0.150 0.201 0.320 
+
+Partition: 48 with name: OG0000998
+Base frequencies: 0.369 0.167 0.175 0.288 
+
+Partition: 49 with name: OG0001047
+Base frequencies: 0.373 0.174 0.155 0.297 
+
+Partition: 50 with name: OG0001052
+Base frequencies: 0.350 0.121 0.197 0.332 
+
+Partition: 51 with name: OG0001053
+Base frequencies: 0.271 0.175 0.243 0.311 
+
+Partition: 52 with name: OG0001062
+Base frequencies: 0.343 0.193 0.206 0.259 
+
+Partition: 53 with name: OG0001100
+Base frequencies: 0.374 0.158 0.170 0.298 
+
+Partition: 54 with name: OG0001146
+Base frequencies: 0.360 0.119 0.259 0.263 
+
+Partition: 55 with name: OG0001180
+Base frequencies: 0.361 0.149 0.224 0.266 
+
+Partition: 56 with name: OG0001182
+Base frequencies: 0.348 0.183 0.186 0.283 
+
+Partition: 57 with name: OG0001191
+Base frequencies: 0.317 0.149 0.180 0.355 
+
+Partition: 58 with name: OG0001203
+Base frequencies: 0.378 0.180 0.171 0.271 
+
+Partition: 59 with name: OG0001206
+Base frequencies: 0.300 0.152 0.244 0.305 
+
+Partition: 60 with name: OG0001207
+Base frequencies: 0.331 0.224 0.176 0.270 
+
+Partition: 61 with name: OG0001210
+Base frequencies: 0.355 0.150 0.161 0.335 
+
+Partition: 62 with name: OG0001214
+Base frequencies: 0.363 0.236 0.212 0.188 
+
+Partition: 63 with name: OG0001237
+Base frequencies: 0.365 0.167 0.182 0.285 
+
+Partition: 64 with name: OG0001238
+Base frequencies: 0.330 0.183 0.201 0.286 
+
+Partition: 65 with name: OG0001248
+Base frequencies: 0.412 0.110 0.189 0.288 
+
+Partition: 66 with name: OG0001250
+Base frequencies: 0.339 0.119 0.226 0.315 
+
+Partition: 67 with name: OG0001258
+Base frequencies: 0.312 0.200 0.193 0.295 
+
+Partition: 68 with name: OG0001266
+Base frequencies: 0.296 0.170 0.237 0.297 
+
+Partition: 69 with name: OG0001283
+Base frequencies: 0.344 0.103 0.199 0.354 
+
+Partition: 70 with name: OG0001287
+Base frequencies: 0.352 0.198 0.164 0.286 
+
+Partition: 71 with name: OG0001302
+Base frequencies: 0.331 0.217 0.232 0.219 
+
+Partition: 72 with name: OG0001303
+Base frequencies: 0.331 0.190 0.208 0.271 
+
+Partition: 73 with name: OG0001306
+Base frequencies: 0.367 0.166 0.193 0.273 
+
+Partition: 74 with name: OG0001307
+Base frequencies: 0.350 0.188 0.223 0.240 
+
+Partition: 75 with name: OG0001319
+Base frequencies: 0.311 0.159 0.233 0.298 
+
+Partition: 76 with name: OG0001327
+Base frequencies: 0.323 0.181 0.201 0.295 
+
+Partition: 77 with name: OG0001328
+Base frequencies: 0.368 0.157 0.202 0.273 
+
+Partition: 78 with name: OG0001338
+Base frequencies: 0.291 0.148 0.189 0.371 
+
+Partition: 79 with name: OG0001341
+Base frequencies: 0.356 0.146 0.213 0.285 
+
+Partition: 80 with name: OG0001354
+Base frequencies: 0.315 0.127 0.227 0.332 
+
+Partition: 81 with name: OG0001359
+Base frequencies: 0.321 0.153 0.210 0.316 
+
+Partition: 82 with name: OG0001375
+Base frequencies: 0.308 0.181 0.236 0.276 
+
+Partition: 83 with name: OG0001390
+Base frequencies: 0.350 0.158 0.166 0.325 
+
+Partition: 84 with name: OG0001393
+Base frequencies: 0.333 0.146 0.239 0.282 
+
+Partition: 85 with name: OG0001401
+Base frequencies: 0.281 0.199 0.222 0.299 
+
+Partition: 86 with name: OG0001407
+Base frequencies: 0.336 0.133 0.205 0.325 
+
+Partition: 87 with name: OG0001408
+Base frequencies: 0.397 0.173 0.187 0.242 
+
+Partition: 88 with name: OG0001432
+Base frequencies: 0.306 0.162 0.216 0.316 
+
+Partition: 89 with name: OG0001436
+Base frequencies: 0.316 0.211 0.206 0.268 
+
+Partition: 90 with name: OG0001437
+Base frequencies: 0.308 0.158 0.244 0.290 
+
+Partition: 91 with name: OG0001446
+Base frequencies: 0.343 0.214 0.179 0.264 
+
+Partition: 92 with name: OG0001447
+Base frequencies: 0.316 0.140 0.231 0.313 
+
+Partition: 93 with name: OG0001448
+Base frequencies: 0.291 0.143 0.182 0.385 
+
+Partition: 94 with name: OG0001449
+Base frequencies: 0.344 0.160 0.209 0.287 
+
+Partition: 95 with name: OG0001457
+Base frequencies: 0.366 0.187 0.178 0.269 
+
+Partition: 96 with name: OG0001458
+Base frequencies: 0.398 0.121 0.164 0.317 
+
+Partition: 97 with name: OG0001459
+Base frequencies: 0.347 0.162 0.223 0.268 
+
+Partition: 98 with name: OG0001465
+Base frequencies: 0.375 0.125 0.205 0.296 
+
+Partition: 99 with name: OG0001471
+Base frequencies: 0.384 0.142 0.197 0.278 
+
+Partition: 100 with name: OG0001473
+Base frequencies: 0.318 0.180 0.300 0.202 
+
+Partition: 101 with name: OG0001477
+Base frequencies: 0.320 0.185 0.197 0.298 
+
+Partition: 102 with name: OG0001480
+Base frequencies: 0.418 0.123 0.201 0.258 
+
+Partition: 103 with name: OG0001481
+Base frequencies: 0.368 0.145 0.159 0.327 
+
+Partition: 104 with name: OG0001491
+Base frequencies: 0.319 0.177 0.233 0.271 
+
+Partition: 105 with name: OG0001493
+Base frequencies: 0.371 0.116 0.161 0.351 
+
+Partition: 106 with name: OG0001494
+Base frequencies: 0.305 0.169 0.220 0.306 
+
+Partition: 107 with name: OG0001501
+Base frequencies: 0.299 0.186 0.181 0.335 
+
+Partition: 108 with name: OG0001502
+Base frequencies: 0.398 0.143 0.187 0.272 
+
+Partition: 109 with name: OG0001503
+Base frequencies: 0.344 0.193 0.191 0.272 
+
+Partition: 110 with name: OG0001506
+Base frequencies: 0.342 0.130 0.193 0.336 
+
+Partition: 111 with name: OG0001510
+Base frequencies: 0.379 0.107 0.195 0.320 
+
+Partition: 112 with name: OG0001514
+Base frequencies: 0.430 0.120 0.210 0.239 
+
+Partition: 113 with name: OG0001516
+Base frequencies: 0.339 0.153 0.181 0.328 
+
+Partition: 114 with name: OG0001519
+Base frequencies: 0.333 0.188 0.242 0.237 
+
+Partition: 115 with name: OG0001528
+Base frequencies: 0.350 0.192 0.198 0.259 
+
+Partition: 116 with name: OG0001539
+Base frequencies: 0.309 0.254 0.177 0.259 
+
+Partition: 117 with name: OG0001541
+Base frequencies: 0.351 0.154 0.220 0.275 
+
+Partition: 118 with name: OG0001550
+Base frequencies: 0.313 0.152 0.237 0.297 
+
+Partition: 119 with name: OG0001569
+Base frequencies: 0.303 0.185 0.201 0.312 
+
+Partition: 120 with name: OG0001575
+Base frequencies: 0.367 0.106 0.210 0.316 
+
+Partition: 121 with name: OG0001576
+Base frequencies: 0.336 0.210 0.189 0.264 
+
+Partition: 122 with name: OG0001578
+Base frequencies: 0.319 0.187 0.200 0.294 
+
+Partition: 123 with name: OG0001587
+Base frequencies: 0.301 0.214 0.217 0.267 
+
+Partition: 124 with name: OG0001598
+Base frequencies: 0.391 0.139 0.191 0.279 
+
+Partition: 125 with name: OG0001599
+Base frequencies: 0.348 0.163 0.194 0.295 
+
+Partition: 126 with name: OG0001602
+Base frequencies: 0.324 0.153 0.191 0.333 
+
+Partition: 127 with name: OG0001606
+Base frequencies: 0.320 0.174 0.176 0.330 
+
+Partition: 128 with name: OG0001609
+Base frequencies: 0.312 0.165 0.222 0.302 
+
+Partition: 129 with name: OG0001611
+Base frequencies: 0.349 0.168 0.199 0.284 
+
+Partition: 130 with name: OG0001612
+Base frequencies: 0.379 0.130 0.184 0.307 
+
+Partition: 131 with name: OG0001617
+Base frequencies: 0.317 0.152 0.172 0.359 
+
+Partition: 132 with name: OG0001622
+Base frequencies: 0.342 0.200 0.191 0.267 
+
+Partition: 133 with name: OG0001625
+Base frequencies: 0.297 0.167 0.237 0.299 
+
+Partition: 134 with name: OG0001629
+Base frequencies: 0.401 0.131 0.201 0.268 
+
+Partition: 135 with name: OG0001630
+Base frequencies: 0.343 0.179 0.217 0.261 
+
+Partition: 136 with name: OG0001638
+Base frequencies: 0.343 0.156 0.155 0.346 
+
+Partition: 137 with name: OG0001645
+Base frequencies: 0.267 0.186 0.275 0.272 
+
+Partition: 138 with name: OG0001647
+Base frequencies: 0.300 0.160 0.225 0.314 
+
+Partition: 139 with name: OG0001656
+Base frequencies: 0.300 0.162 0.224 0.314 
+
+Partition: 140 with name: OG0001667
+Base frequencies: 0.334 0.167 0.205 0.294 
+
+Partition: 141 with name: OG0001673
+Base frequencies: 0.362 0.121 0.196 0.321 
+
+Partition: 142 with name: OG0001675
+Base frequencies: 0.363 0.161 0.210 0.266 
+
+Partition: 143 with name: OG0001705
+Base frequencies: 0.349 0.179 0.232 0.240 
+
+Partition: 144 with name: OG0001714
+Base frequencies: 0.351 0.149 0.197 0.302 
+
+Partition: 145 with name: OG0001718
+Base frequencies: 0.326 0.171 0.170 0.334 
+
+Partition: 146 with name: OG0001719
+Base frequencies: 0.321 0.275 0.195 0.209 
+
+Partition: 147 with name: OG0001737
+Base frequencies: 0.296 0.170 0.224 0.310 
+
+Partition: 148 with name: OG0001743
+Base frequencies: 0.353 0.204 0.176 0.267 
+
+Partition: 149 with name: OG0001744
+Base frequencies: 0.344 0.122 0.208 0.327 
+
+Partition: 150 with name: OG0001746
+Base frequencies: 0.346 0.155 0.185 0.314 
+
+Partition: 151 with name: OG0001776
+Base frequencies: 0.410 0.179 0.244 0.167 
+
+Partition: 152 with name: OG0001795
+Base frequencies: 0.265 0.228 0.182 0.325 
+
+Partition: 153 with name: OG0001798
+Base frequencies: 0.413 0.185 0.139 0.263 
+
+Partition: 154 with name: OG0001803
+Base frequencies: 0.309 0.159 0.226 0.306 
+
+Partition: 155 with name: OG0001805
+Base frequencies: 0.354 0.173 0.187 0.285 
+
+Partition: 156 with name: OG0001818
+Base frequencies: 0.306 0.159 0.248 0.287 
+
+Partition: 157 with name: OG0001831
+Base frequencies: 0.313 0.191 0.235 0.261 
+
+Partition: 158 with name: OG0001832
+Base frequencies: 0.337 0.138 0.209 0.316 
+
+Partition: 159 with name: OG0001840
+Base frequencies: 0.312 0.156 0.218 0.315 
+
+Partition: 160 with name: OG0001849
+Base frequencies: 0.319 0.151 0.201 0.329 
+
+Partition: 161 with name: OG0001851
+Base frequencies: 0.362 0.142 0.186 0.310 
+
+Partition: 162 with name: OG0001852
+Base frequencies: 0.357 0.141 0.177 0.325 
+
+Partition: 163 with name: OG0001855
+Base frequencies: 0.318 0.177 0.202 0.304 
+
+Partition: 164 with name: OG0001859
+Base frequencies: 0.297 0.166 0.270 0.267 
+
+Partition: 165 with name: OG0001861
+Base frequencies: 0.338 0.169 0.189 0.304 
+
+Partition: 166 with name: OG0001863
+Base frequencies: 0.304 0.171 0.218 0.307 
+
+Partition: 167 with name: OG0001867
+Base frequencies: 0.334 0.252 0.221 0.192 
+
+Partition: 168 with name: OG0001879
+Base frequencies: 0.363 0.143 0.189 0.304 
+
+Partition: 169 with name: OG0001893
+Base frequencies: 0.399 0.135 0.216 0.249 
+
+Partition: 170 with name: OG0001911
+Base frequencies: 0.386 0.138 0.166 0.310 
+
+Partition: 171 with name: OG0001916
+Base frequencies: 0.394 0.123 0.177 0.306 
+
+Partition: 172 with name: OG0001921
+Base frequencies: 0.309 0.157 0.226 0.308 
+
+Partition: 173 with name: OG0001929
+Base frequencies: 0.331 0.147 0.192 0.330 
+
+Partition: 174 with name: OG0001934
+Base frequencies: 0.293 0.187 0.209 0.312 
+
+Partition: 175 with name: OG0001935
+Base frequencies: 0.313 0.204 0.163 0.320 
+
+Partition: 176 with name: OG0001945
+Base frequencies: 0.365 0.125 0.214 0.296 
+
+Partition: 177 with name: OG0001953
+Base frequencies: 0.339 0.178 0.174 0.310 
+
+Partition: 178 with name: OG0001958
+Base frequencies: 0.433 0.112 0.174 0.282 
+
+Partition: 179 with name: OG0001960
+Base frequencies: 0.329 0.166 0.194 0.311 
+
+Partition: 180 with name: OG0001964
+Base frequencies: 0.395 0.165 0.159 0.281 
+
+Partition: 181 with name: OG0001977
+Base frequencies: 0.270 0.176 0.252 0.302 
+
+Partition: 182 with name: OG0001979
+Base frequencies: 0.335 0.155 0.203 0.307 
+
+Partition: 183 with name: OG0001991
+Base frequencies: 0.297 0.196 0.177 0.330 
+
+Partition: 184 with name: OG0001992
+Base frequencies: 0.321 0.138 0.265 0.277 
+
+Partition: 185 with name: OG0002009
+Base frequencies: 0.375 0.200 0.207 0.218 
+
+Partition: 186 with name: OG0002019
+Base frequencies: 0.333 0.145 0.218 0.303 
+
+Partition: 187 with name: OG0002020
+Base frequencies: 0.320 0.199 0.231 0.251 
+
+Partition: 188 with name: OG0002029
+Base frequencies: 0.317 0.188 0.201 0.294 
+
+Partition: 189 with name: OG0002034
+Base frequencies: 0.367 0.115 0.161 0.357 
+
+Partition: 190 with name: OG0002038
+Base frequencies: 0.357 0.131 0.229 0.283 
+
+Partition: 191 with name: OG0002039
+Base frequencies: 0.302 0.175 0.216 0.308 
+
+Partition: 192 with name: OG0002050
+Base frequencies: 0.301 0.154 0.234 0.312 
+
+Partition: 193 with name: OG0002053
+Base frequencies: 0.303 0.168 0.233 0.296 
+
+Partition: 194 with name: OG0002054
+Base frequencies: 0.368 0.144 0.167 0.322 
+
+Partition: 195 with name: OG0002065
+Base frequencies: 0.347 0.123 0.170 0.360 
+
+Partition: 196 with name: OG0002071
+Base frequencies: 0.373 0.138 0.197 0.291 
+
+Partition: 197 with name: OG0002086
+Base frequencies: 0.307 0.141 0.190 0.361 
+
+Partition: 198 with name: OG0002089
+Base frequencies: 0.294 0.184 0.185 0.336 
+
+Partition: 199 with name: OG0002092
+Base frequencies: 0.358 0.188 0.176 0.278 
+
+Partition: 200 with name: OG0002095
+Base frequencies: 0.305 0.150 0.248 0.297 
+
+Partition: 201 with name: OG0002099
+Base frequencies: 0.358 0.148 0.189 0.305 
+
+Partition: 202 with name: OG0002108
+Base frequencies: 0.347 0.154 0.174 0.325 
+
+Partition: 203 with name: OG0002120
+Base frequencies: 0.316 0.151 0.186 0.346 
+
+Partition: 204 with name: OG0002128
+Base frequencies: 0.406 0.144 0.167 0.283 
+
+Partition: 205 with name: OG0002137
+Base frequencies: 0.350 0.182 0.162 0.306 
+
+Partition: 206 with name: OG0002142
+Base frequencies: 0.410 0.126 0.218 0.246 
+
+Partition: 207 with name: OG0002160
+Base frequencies: 0.372 0.150 0.190 0.287 
+
+Partition: 208 with name: OG0002168
+Base frequencies: 0.376 0.148 0.214 0.262 
+
+Partition: 209 with name: OG0002171
+Base frequencies: 0.457 0.140 0.148 0.255 
+
+Partition: 210 with name: OG0002177
+Base frequencies: 0.330 0.180 0.240 0.250 
+
+Partition: 211 with name: OG0002185
+Base frequencies: 0.341 0.152 0.196 0.311 
+
+Partition: 212 with name: OG0002190
+Base frequencies: 0.342 0.175 0.175 0.308 
+
+Partition: 213 with name: OG0002191
+Base frequencies: 0.298 0.165 0.205 0.332 
+
+Partition: 214 with name: OG0002192
+Base frequencies: 0.350 0.157 0.183 0.310 
+
+Partition: 215 with name: OG0002202
+Base frequencies: 0.445 0.086 0.169 0.300 
+
+Partition: 216 with name: OG0002204
+Base frequencies: 0.379 0.167 0.173 0.281 
+
+Partition: 217 with name: OG0002205
+Base frequencies: 0.371 0.169 0.198 0.261 
+
+Partition: 218 with name: OG0002208
+Base frequencies: 0.270 0.167 0.258 0.305 
+
+Partition: 219 with name: OG0002209
+Base frequencies: 0.307 0.181 0.243 0.269 
+
+Partition: 220 with name: OG0002222
+Base frequencies: 0.355 0.130 0.179 0.337 
+
+Partition: 221 with name: OG0002226
+Base frequencies: 0.279 0.220 0.203 0.297 
+
+Partition: 222 with name: OG0002244
+Base frequencies: 0.332 0.155 0.192 0.321 
+
+Partition: 223 with name: OG0002248
+Base frequencies: 0.360 0.122 0.200 0.318 
+
+Partition: 224 with name: OG0002251
+Base frequencies: 0.336 0.177 0.214 0.273 
+
+Partition: 225 with name: OG0002254
+Base frequencies: 0.306 0.184 0.172 0.338 
+
+Partition: 226 with name: OG0002255
+Base frequencies: 0.331 0.148 0.182 0.339 
+
+Partition: 227 with name: OG0002259
+Base frequencies: 0.355 0.122 0.187 0.336 
+
+Partition: 228 with name: OG0002262
+Base frequencies: 0.326 0.151 0.180 0.344 
+
+Partition: 229 with name: OG0002269
+Base frequencies: 0.368 0.175 0.148 0.309 
+
+Partition: 230 with name: OG0002271
+Base frequencies: 0.285 0.179 0.212 0.324 
+
+Partition: 231 with name: OG0002283
+Base frequencies: 0.378 0.188 0.148 0.286 
+
+Partition: 232 with name: OG0002286
+Base frequencies: 0.388 0.161 0.194 0.257 
+
+Partition: 233 with name: OG0002295
+Base frequencies: 0.359 0.159 0.153 0.329 
+
+Partition: 234 with name: OG0002299
+Base frequencies: 0.432 0.086 0.192 0.291 
+
+Partition: 235 with name: OG0002305
+Base frequencies: 0.342 0.141 0.170 0.347 
+
+Partition: 236 with name: OG0002309
+Base frequencies: 0.379 0.115 0.188 0.317 
+
+Partition: 237 with name: OG0002318
+Base frequencies: 0.365 0.183 0.160 0.292 
+
+Partition: 238 with name: OG0002331
+Base frequencies: 0.337 0.178 0.241 0.244 
+
+Partition: 239 with name: OG0002332
+Base frequencies: 0.283 0.156 0.211 0.349 
+
+Partition: 240 with name: OG0002341
+Base frequencies: 0.276 0.175 0.205 0.344 
+
+Partition: 241 with name: OG0002346
+Base frequencies: 0.325 0.177 0.172 0.327 
+
+Partition: 242 with name: OG0002349
+Base frequencies: 0.302 0.191 0.199 0.308 
+
+Partition: 243 with name: OG0002353
+Base frequencies: 0.332 0.169 0.209 0.290 
+
+Partition: 244 with name: OG0002355
+Base frequencies: 0.339 0.181 0.183 0.297 
+
+Partition: 245 with name: OG0002363
+Base frequencies: 0.385 0.121 0.188 0.306 
+
+Partition: 246 with name: OG0002372
+Base frequencies: 0.325 0.172 0.239 0.265 
+
+Partition: 247 with name: OG0002376
+Base frequencies: 0.335 0.134 0.169 0.362 
+
+Partition: 248 with name: OG0002387
+Base frequencies: 0.351 0.124 0.193 0.332 
+
+Partition: 249 with name: OG0002424
+Base frequencies: 0.303 0.163 0.188 0.345 
+
+Partition: 250 with name: OG0002428
+Base frequencies: 0.334 0.156 0.295 0.215 
+
+Partition: 251 with name: OG0002435
+Base frequencies: 0.315 0.156 0.223 0.305 
+
+Partition: 252 with name: OG0002444
+Base frequencies: 0.365 0.196 0.208 0.231 
+
+Partition: 253 with name: OG0002452
+Base frequencies: 0.359 0.151 0.169 0.322 
+
+Partition: 254 with name: OG0002454
+Base frequencies: 0.342 0.193 0.175 0.290 
+
+Partition: 255 with name: OG0002461
+Base frequencies: 0.376 0.144 0.154 0.327 
+
+Partition: 256 with name: OG0002470
+Base frequencies: 0.303 0.136 0.232 0.330 
+
+Partition: 257 with name: OG0002474
+Base frequencies: 0.338 0.156 0.174 0.332 
+
+Partition: 258 with name: OG0002475
+Base frequencies: 0.331 0.184 0.241 0.244 
+
+Partition: 259 with name: OG0002490
+Base frequencies: 0.360 0.119 0.199 0.322 
+
+Partition: 260 with name: OG0002497
+Base frequencies: 0.431 0.142 0.190 0.237 
+
+Partition: 261 with name: OG0002499
+Base frequencies: 0.369 0.154 0.211 0.266 
+
+Partition: 262 with name: OG0002513
+Base frequencies: 0.326 0.223 0.192 0.259 
+
+Partition: 263 with name: OG0002514
+Base frequencies: 0.410 0.136 0.214 0.239 
+
+Partition: 264 with name: OG0002515
+Base frequencies: 0.319 0.145 0.215 0.321 
+
+Partition: 265 with name: OG0002521
+Base frequencies: 0.307 0.153 0.186 0.354 
+
+Partition: 266 with name: OG0002545
+Base frequencies: 0.310 0.175 0.186 0.330 
+
+Partition: 267 with name: OG0002558
+Base frequencies: 0.347 0.173 0.151 0.330 
+
+Partition: 268 with name: OG0002568
+Base frequencies: 0.248 0.236 0.260 0.257 
+
+Partition: 269 with name: OG0002586
+Base frequencies: 0.290 0.179 0.201 0.331 
+
+Partition: 270 with name: OG0002587
+Base frequencies: 0.390 0.139 0.169 0.302 
+
+Partition: 271 with name: OG0002593
+Base frequencies: 0.367 0.158 0.196 0.279 
+
+Partition: 272 with name: OG0002600
+Base frequencies: 0.264 0.142 0.197 0.398 
+
+Partition: 273 with name: OG0002603
+Base frequencies: 0.343 0.176 0.202 0.279 
+
+Partition: 274 with name: OG0002610
+Base frequencies: 0.310 0.149 0.217 0.324 
+
+Partition: 275 with name: OG0002611
+Base frequencies: 0.293 0.175 0.187 0.346 
+
+Partition: 276 with name: OG0002615
+Base frequencies: 0.372 0.130 0.145 0.353 
+
+Partition: 277 with name: OG0002626
+Base frequencies: 0.255 0.204 0.185 0.356 
+
+Partition: 278 with name: OG0002649
+Base frequencies: 0.295 0.162 0.171 0.372 
+
+Partition: 279 with name: OG0002664
+Base frequencies: 0.277 0.172 0.200 0.350 
+
+Partition: 280 with name: OG0002665
+Base frequencies: 0.320 0.151 0.194 0.335 
+
+Partition: 281 with name: OG0002673
+Base frequencies: 0.358 0.183 0.192 0.267 
+
+Partition: 282 with name: OG0002675
+Base frequencies: 0.278 0.177 0.211 0.334 
+
+Partition: 283 with name: OG0002684
+Base frequencies: 0.326 0.146 0.195 0.334 
+
+Partition: 284 with name: OG0002695
+Base frequencies: 0.325 0.179 0.222 0.274 
+
+Partition: 285 with name: OG0002716
+Base frequencies: 0.303 0.211 0.292 0.193 
+
+Partition: 286 with name: OG0002719
+Base frequencies: 0.323 0.176 0.201 0.300 
+
+Partition: 287 with name: OG0002725
+Base frequencies: 0.305 0.176 0.203 0.316 
+
+Partition: 288 with name: OG0002733
+Base frequencies: 0.262 0.193 0.225 0.319 
+
+Partition: 289 with name: OG0002741
+Base frequencies: 0.323 0.168 0.186 0.324 
+
+Partition: 290 with name: OG0002745
+Base frequencies: 0.382 0.137 0.214 0.267 
+
+Partition: 291 with name: OG0002770
+Base frequencies: 0.348 0.152 0.205 0.296 
+
+Partition: 292 with name: OG0002789
+Base frequencies: 0.303 0.179 0.220 0.298 
+
+Partition: 293 with name: OG0002790
+Base frequencies: 0.336 0.180 0.251 0.233 
+
+Partition: 294 with name: OG0002794
+Base frequencies: 0.367 0.154 0.158 0.321 
+
+Partition: 295 with name: OG0002797
+Base frequencies: 0.341 0.220 0.165 0.274 
+
+Partition: 296 with name: OG0002798
+Base frequencies: 0.384 0.172 0.189 0.255 
+
+Partition: 297 with name: OG0002802
+Base frequencies: 0.344 0.146 0.209 0.301 
+
+Partition: 298 with name: OG0002804
+Base frequencies: 0.396 0.137 0.221 0.246 
+
+Partition: 299 with name: OG0002811
+Base frequencies: 0.313 0.189 0.206 0.292 
+
+Partition: 300 with name: OG0002812
+Base frequencies: 0.378 0.183 0.192 0.247 
+
+Partition: 301 with name: OG0002814
+Base frequencies: 0.304 0.203 0.156 0.337 
+
+Partition: 302 with name: OG0002819
+Base frequencies: 0.311 0.181 0.232 0.276 
+
+Partition: 303 with name: OG0002824
+Base frequencies: 0.342 0.145 0.162 0.352 
+
+Partition: 304 with name: OG0002825
+Base frequencies: 0.355 0.179 0.205 0.261 
+
+Partition: 305 with name: OG0002828
+Base frequencies: 0.299 0.146 0.225 0.330 
+
+Partition: 306 with name: OG0002845
+Base frequencies: 0.426 0.110 0.182 0.282 
+
+Partition: 307 with name: OG0002852
+Base frequencies: 0.294 0.242 0.178 0.286 
+
+Partition: 308 with name: OG0002864
+Base frequencies: 0.340 0.152 0.187 0.321 
+
+Partition: 309 with name: OG0002867
+Base frequencies: 0.316 0.174 0.198 0.311 
+
+Partition: 310 with name: OG0002868
+Base frequencies: 0.316 0.155 0.209 0.320 
+
+Partition: 311 with name: OG0002883
+Base frequencies: 0.316 0.188 0.233 0.262 
+
+Partition: 312 with name: OG0002888
+Base frequencies: 0.339 0.151 0.189 0.321 
+
+Partition: 313 with name: OG0002901
+Base frequencies: 0.369 0.195 0.161 0.275 
+
+Partition: 314 with name: OG0002907
+Base frequencies: 0.342 0.130 0.172 0.355 
+
+Partition: 315 with name: OG0002910
+Base frequencies: 0.364 0.125 0.160 0.351 
+
+Partition: 316 with name: OG0002926
+Base frequencies: 0.322 0.134 0.176 0.369 
+
+Partition: 317 with name: OG0002929
+Base frequencies: 0.331 0.140 0.196 0.333 
+
+Partition: 318 with name: OG0002934
+Base frequencies: 0.266 0.168 0.204 0.363 
+
+Partition: 319 with name: OG0002935
+Base frequencies: 0.410 0.081 0.217 0.292 
+
+Partition: 320 with name: OG0002950
+Base frequencies: 0.285 0.176 0.237 0.302 
+
+Partition: 321 with name: OG0002953
+Base frequencies: 0.442 0.104 0.149 0.305 
+
+Partition: 322 with name: OG0002954
+Base frequencies: 0.310 0.134 0.186 0.370 
+
+Partition: 323 with name: OG0002963
+Base frequencies: 0.315 0.150 0.216 0.319 
+
+Partition: 324 with name: OG0002968
+Base frequencies: 0.326 0.145 0.200 0.329 
+
+Partition: 325 with name: OG0002978
+Base frequencies: 0.311 0.185 0.156 0.348 
+
+Partition: 326 with name: OG0002998
+Base frequencies: 0.353 0.173 0.186 0.288 
+
+Partition: 327 with name: OG0003005
+Base frequencies: 0.259 0.191 0.212 0.339 
+
+Partition: 328 with name: OG0003020
+Base frequencies: 0.356 0.157 0.179 0.307 
+
+Partition: 329 with name: OG0003023
+Base frequencies: 0.343 0.150 0.155 0.352 
+
+Partition: 330 with name: OG0003048
+Base frequencies: 0.346 0.208 0.175 0.271 
+
+Partition: 331 with name: OG0003049
+Base frequencies: 0.317 0.163 0.179 0.342 
+
+Partition: 332 with name: OG0003072
+Base frequencies: 0.445 0.115 0.204 0.236 
+
+Partition: 333 with name: OG0003074
+Base frequencies: 0.341 0.179 0.162 0.318 
+
+Partition: 334 with name: OG0003079
+Base frequencies: 0.311 0.213 0.188 0.288 
+
+Partition: 335 with name: OG0003091
+Base frequencies: 0.332 0.138 0.159 0.371 
+
+Partition: 336 with name: OG0003093
+Base frequencies: 0.368 0.189 0.178 0.266 
+
+Partition: 337 with name: OG0003115
+Base frequencies: 0.309 0.183 0.166 0.341 
+
+Partition: 338 with name: OG0003117
+Base frequencies: 0.395 0.150 0.157 0.297 
+
+Partition: 339 with name: OG0003122
+Base frequencies: 0.356 0.174 0.197 0.273 
+
+Partition: 340 with name: OG0003133
+Base frequencies: 0.310 0.161 0.230 0.298 
+
+Partition: 341 with name: OG0003136
+Base frequencies: 0.369 0.134 0.176 0.321 
+
+Partition: 342 with name: OG0003141
+Base frequencies: 0.322 0.182 0.196 0.300 
+
+Partition: 343 with name: OG0003151
+Base frequencies: 0.298 0.150 0.181 0.371 
+
+Partition: 344 with name: OG0003158
+Base frequencies: 0.336 0.123 0.184 0.357 
+
+Partition: 345 with name: OG0003161
+Base frequencies: 0.354 0.108 0.186 0.353 
+
+Partition: 346 with name: OG0003165
+Base frequencies: 0.337 0.198 0.209 0.255 
+
+Partition: 347 with name: OG0003166
+Base frequencies: 0.363 0.128 0.150 0.359 
+
+Partition: 348 with name: OG0003176
+Base frequencies: 0.325 0.176 0.171 0.328 
+
+Partition: 349 with name: OG0003191
+Base frequencies: 0.480 0.089 0.155 0.277 
+
+Partition: 350 with name: OG0003195
+Base frequencies: 0.345 0.172 0.220 0.263 
+
+Partition: 351 with name: OG0003202
+Base frequencies: 0.330 0.131 0.205 0.334 
+
+Partition: 352 with name: OG0003206
+Base frequencies: 0.310 0.194 0.187 0.309 
+
+Partition: 353 with name: OG0003208
+Base frequencies: 0.309 0.158 0.224 0.310 
+
+Partition: 354 with name: OG0003211
+Base frequencies: 0.268 0.183 0.254 0.295 
+
+Partition: 355 with name: OG0003214
+Base frequencies: 0.415 0.184 0.165 0.236 
+
+Partition: 356 with name: OG0003218
+Base frequencies: 0.364 0.129 0.183 0.325 
+
+Partition: 357 with name: OG0003222
+Base frequencies: 0.288 0.177 0.199 0.336 
+
+Partition: 358 with name: OG0003223
+Base frequencies: 0.328 0.178 0.191 0.302 
+
+Partition: 359 with name: OG0003233
+Base frequencies: 0.407 0.147 0.159 0.287 
+
+Partition: 360 with name: OG0003253
+Base frequencies: 0.335 0.165 0.203 0.297 
+
+Partition: 361 with name: OG0003258
+Base frequencies: 0.400 0.098 0.193 0.309 
+
+Partition: 362 with name: OG0003260
+Base frequencies: 0.281 0.166 0.230 0.323 
+
+Partition: 363 with name: OG0003269
+Base frequencies: 0.352 0.215 0.157 0.276 
+
+Partition: 364 with name: OG0003272
+Base frequencies: 0.393 0.137 0.207 0.263 
+
+Partition: 365 with name: OG0003273
+Base frequencies: 0.354 0.110 0.188 0.348 
+
+Partition: 366 with name: OG0003274
+Base frequencies: 0.386 0.125 0.202 0.287 
+
+Partition: 367 with name: OG0003277
+Base frequencies: 0.340 0.186 0.194 0.280 
+
+Partition: 368 with name: OG0003281
+Base frequencies: 0.371 0.124 0.187 0.318 
+
+Partition: 369 with name: OG0003293
+Base frequencies: 0.310 0.171 0.202 0.318 
+
+Partition: 370 with name: OG0003294
+Base frequencies: 0.340 0.181 0.158 0.320 
+
+Partition: 371 with name: OG0003298
+Base frequencies: 0.299 0.182 0.208 0.312 
+
+Partition: 372 with name: OG0003300
+Base frequencies: 0.335 0.167 0.191 0.307 
+
+Partition: 373 with name: OG0003304
+Base frequencies: 0.307 0.159 0.208 0.326 
+
+Partition: 374 with name: OG0003317
+Base frequencies: 0.339 0.142 0.204 0.315 
+
+Partition: 375 with name: OG0003355
+Base frequencies: 0.412 0.144 0.175 0.269 
+
+Partition: 376 with name: OG0003359
+Base frequencies: 0.291 0.162 0.210 0.337 
+
+Partition: 377 with name: OG0003365
+Base frequencies: 0.252 0.198 0.210 0.340 
+
+Partition: 378 with name: OG0003372
+Base frequencies: 0.308 0.165 0.161 0.366 
+
+Partition: 379 with name: OG0003375
+Base frequencies: 0.337 0.176 0.181 0.306 
+
+Partition: 380 with name: OG0003381
+Base frequencies: 0.314 0.172 0.226 0.289 
+
+Partition: 381 with name: OG0003386
+Base frequencies: 0.326 0.161 0.180 0.332 
+
+Partition: 382 with name: OG0003394
+Base frequencies: 0.315 0.180 0.213 0.292 
+
+Partition: 383 with name: OG0003398
+Base frequencies: 0.319 0.140 0.264 0.276 
+
+Partition: 384 with name: OG0003407
+Base frequencies: 0.406 0.120 0.181 0.293 
+
+Partition: 385 with name: OG0003411
+Base frequencies: 0.382 0.145 0.203 0.269 
+
+Partition: 386 with name: OG0003446
+Base frequencies: 0.329 0.183 0.202 0.286 
+
+Partition: 387 with name: OG0003447
+Base frequencies: 0.318 0.158 0.188 0.336 
+
+Partition: 388 with name: OG0003461
+Base frequencies: 0.317 0.148 0.192 0.342 
+
+Partition: 389 with name: OG0003465
+Base frequencies: 0.324 0.178 0.226 0.272 
+
+Partition: 390 with name: OG0003471
+Base frequencies: 0.408 0.128 0.248 0.216 
+
+Partition: 391 with name: OG0003479
+Base frequencies: 0.345 0.134 0.190 0.331 
+
+Partition: 392 with name: OG0003486
+Base frequencies: 0.268 0.214 0.218 0.300 
+
+Partition: 393 with name: OG0003488
+Base frequencies: 0.303 0.159 0.183 0.355 
+
+Partition: 394 with name: OG0003501
+Base frequencies: 0.277 0.179 0.251 0.293 
+
+Partition: 395 with name: OG0003502
+Base frequencies: 0.343 0.116 0.178 0.363 
+
+Partition: 396 with name: OG0003508
+Base frequencies: 0.355 0.184 0.212 0.248 
+
+Partition: 397 with name: OG0003511
+Base frequencies: 0.395 0.116 0.208 0.281 
+
+Partition: 398 with name: OG0003541
+Base frequencies: 0.360 0.194 0.174 0.272 
+
+Partition: 399 with name: OG0003547
+Base frequencies: 0.457 0.099 0.184 0.260 
+
+Partition: 400 with name: OG0003558
+Base frequencies: 0.362 0.172 0.223 0.243 
+
+Partition: 401 with name: OG0003578
+Base frequencies: 0.336 0.132 0.203 0.328 
+
+Partition: 402 with name: OG0003587
+Base frequencies: 0.273 0.144 0.196 0.387 
+
+Partition: 403 with name: OG0003602
+Base frequencies: 0.306 0.223 0.214 0.257 
+
+Partition: 404 with name: OG0003641
+Base frequencies: 0.282 0.189 0.230 0.300 
+
+Partition: 405 with name: OG0003646
+Base frequencies: 0.314 0.158 0.178 0.350 
+
+Partition: 406 with name: OG0003649
+Base frequencies: 0.377 0.151 0.217 0.255 
+
+Partition: 407 with name: OG0003659
+Base frequencies: 0.319 0.153 0.220 0.307 
+
+Partition: 408 with name: OG0003666
+Base frequencies: 0.261 0.145 0.198 0.396 
+
+Partition: 409 with name: OG0003669
+Base frequencies: 0.342 0.144 0.183 0.331 
+
+Partition: 410 with name: OG0003717
+Base frequencies: 0.438 0.114 0.174 0.274 
+
+Partition: 411 with name: OG0003726
+Base frequencies: 0.342 0.175 0.166 0.317 
+
+Partition: 412 with name: OG0003737
+Base frequencies: 0.357 0.141 0.213 0.288 
+
+Partition: 413 with name: OG0003740
+Base frequencies: 0.246 0.176 0.230 0.349 
+
+Partition: 414 with name: OG0003749
+Base frequencies: 0.288 0.246 0.148 0.318 
+
+Partition: 415 with name: OG0003753
+Base frequencies: 0.358 0.163 0.174 0.305 
+
+Partition: 416 with name: OG0003758
+Base frequencies: 0.338 0.154 0.230 0.278 
+
+Partition: 417 with name: OG0003766
+Base frequencies: 0.324 0.150 0.197 0.329 
+
+Partition: 418 with name: OG0003769
+Base frequencies: 0.346 0.149 0.250 0.255 
+
+Partition: 419 with name: OG0003777
+Base frequencies: 0.333 0.204 0.183 0.281 
+
+Partition: 420 with name: OG0003794
+Base frequencies: 0.316 0.152 0.211 0.320 
+
+Partition: 421 with name: OG0003796
+Base frequencies: 0.396 0.116 0.195 0.293 
+
+Partition: 422 with name: OG0003806
+Base frequencies: 0.402 0.117 0.149 0.332 
+
+Partition: 423 with name: OG0003813
+Base frequencies: 0.304 0.162 0.227 0.307 
+
+Partition: 424 with name: OG0003817
+Base frequencies: 0.319 0.175 0.198 0.309 
+
+Partition: 425 with name: OG0003823
+Base frequencies: 0.388 0.137 0.172 0.302 
+
+Partition: 426 with name: OG0003833
+Base frequencies: 0.295 0.175 0.169 0.361 
+
+Partition: 427 with name: OG0003852
+Base frequencies: 0.315 0.162 0.166 0.357 
+
+Partition: 428 with name: OG0003859
+Base frequencies: 0.392 0.141 0.194 0.273 
+
+Partition: 429 with name: OG0003860
+Base frequencies: 0.320 0.205 0.216 0.259 
+
+Partition: 430 with name: OG0003877
+Base frequencies: 0.318 0.172 0.247 0.263 
+
+Partition: 431 with name: OG0003884
+Base frequencies: 0.328 0.198 0.226 0.248 
+
+Partition: 432 with name: OG0003889
+Base frequencies: 0.268 0.170 0.196 0.366 
+
+Partition: 433 with name: OG0003898
+Base frequencies: 0.265 0.251 0.279 0.204 
+
+Partition: 434 with name: OG0003899
+Base frequencies: 0.260 0.199 0.241 0.299 
+
+Partition: 435 with name: OG0003905
+Base frequencies: 0.225 0.148 0.273 0.354 
+
+Partition: 436 with name: OG0003923
+Base frequencies: 0.346 0.154 0.216 0.285 
+
+Partition: 437 with name: OG0003930
+Base frequencies: 0.379 0.144 0.161 0.315 
+
+Partition: 438 with name: OG0003943
+Base frequencies: 0.341 0.184 0.201 0.274 
+
+Partition: 439 with name: OG0003948
+Base frequencies: 0.328 0.144 0.251 0.277 
+
+Partition: 440 with name: OG0003957
+Base frequencies: 0.413 0.122 0.222 0.243 
+
+Partition: 441 with name: OG0003971
+Base frequencies: 0.370 0.159 0.200 0.271 
+
+Partition: 442 with name: OG0003983
+Base frequencies: 0.302 0.140 0.214 0.344 
+
+Partition: 443 with name: OG0003990
+Base frequencies: 0.402 0.134 0.175 0.289 
+
+Partition: 444 with name: OG0004004
+Base frequencies: 0.299 0.144 0.246 0.312 
+
+Partition: 445 with name: OG0004013
+Base frequencies: 0.354 0.154 0.242 0.250 
+
+Partition: 446 with name: OG0004015
+Base frequencies: 0.287 0.143 0.211 0.359 
+
+Partition: 447 with name: OG0004021
+Base frequencies: 0.419 0.092 0.215 0.274 
+
+Partition: 448 with name: OG0004038
+Base frequencies: 0.375 0.138 0.244 0.243 
+
+Partition: 449 with name: OG0004050
+Base frequencies: 0.339 0.130 0.174 0.357 
+
+Partition: 450 with name: OG0004053
+Base frequencies: 0.406 0.156 0.181 0.257 
+
+Partition: 451 with name: OG0004080
+Base frequencies: 0.391 0.149 0.166 0.295 
+
+Partition: 452 with name: OG0004084
+Base frequencies: 0.249 0.172 0.215 0.364 
+
+Partition: 453 with name: OG0004096
+Base frequencies: 0.251 0.199 0.211 0.339 
+
+Partition: 454 with name: OG0004150
+Base frequencies: 0.298 0.203 0.234 0.266 
+
+Partition: 455 with name: OG0004151
+Base frequencies: 0.287 0.233 0.154 0.326 
+
+Partition: 456 with name: OG0004164
+Base frequencies: 0.378 0.131 0.135 0.357 
+
+Partition: 457 with name: OG0004169
+Base frequencies: 0.291 0.189 0.235 0.286 
+
+Partition: 458 with name: OG0004170
+Base frequencies: 0.431 0.120 0.205 0.244 
+
+Partition: 459 with name: OG0004176
+Base frequencies: 0.326 0.160 0.173 0.341 
+
+Partition: 460 with name: OG0004188
+Base frequencies: 0.320 0.160 0.187 0.333 
+
+Partition: 461 with name: OG0004191
+Base frequencies: 0.327 0.162 0.197 0.313 
+
+Partition: 462 with name: OG0004199
+Base frequencies: 0.296 0.172 0.183 0.349 
+
+Partition: 463 with name: OG0004248
+Base frequencies: 0.316 0.175 0.148 0.361 
+
+Partition: 464 with name: OG0004260
+Base frequencies: 0.375 0.133 0.183 0.309 
+
+Partition: 465 with name: OG0004271
+Base frequencies: 0.332 0.146 0.224 0.298 
+
+Partition: 466 with name: OG0004273
+Base frequencies: 0.339 0.164 0.191 0.306 
+
+Partition: 467 with name: OG0004311
+Base frequencies: 0.262 0.149 0.199 0.391 
+
+Partition: 468 with name: OG0004316
+Base frequencies: 0.304 0.197 0.228 0.271 
+
+Partition: 469 with name: OG0004317
+Base frequencies: 0.332 0.179 0.174 0.314 
+
+Partition: 470 with name: OG0004323
+Base frequencies: 0.351 0.202 0.162 0.286 
+
+Partition: 471 with name: OG0004334
+Base frequencies: 0.373 0.131 0.204 0.292 
+
+Partition: 472 with name: OG0004339
+Base frequencies: 0.312 0.220 0.204 0.264 
+
+Partition: 473 with name: OG0004352
+Base frequencies: 0.296 0.175 0.195 0.334 
+
+Partition: 474 with name: OG0004365
+Base frequencies: 0.347 0.163 0.175 0.315 
+
+Partition: 475 with name: OG0004366
+Base frequencies: 0.307 0.173 0.229 0.292 
+
+Partition: 476 with name: OG0004386
+Base frequencies: 0.298 0.160 0.205 0.337 
+
+Partition: 477 with name: OG0004403
+Base frequencies: 0.342 0.142 0.177 0.339 
+
+Partition: 478 with name: OG0004466
+Base frequencies: 0.302 0.222 0.219 0.258 
+
+Partition: 479 with name: OG0004506
+Base frequencies: 0.401 0.128 0.195 0.275 
+
+Partition: 480 with name: OG0004526
+Base frequencies: 0.320 0.145 0.231 0.304 
+
+Partition: 481 with name: OG0004530
+Base frequencies: 0.346 0.124 0.206 0.324 
+
+Partition: 482 with name: OG0004593
+Base frequencies: 0.323 0.160 0.180 0.337 
+
+Partition: 483 with name: OG0004603
+Base frequencies: 0.410 0.112 0.180 0.299 
+
+Partition: 484 with name: OG0004624
+Base frequencies: 0.285 0.174 0.215 0.326 
+
+Partition: 485 with name: OG0004648
+Base frequencies: 0.324 0.229 0.184 0.263 
+
+Partition: 486 with name: OG0004657
+Base frequencies: 0.309 0.144 0.207 0.340 
+
+Partition: 487 with name: OG0004751
+Base frequencies: 0.300 0.178 0.208 0.313 
+
+Partition: 488 with name: OG0004754
+Base frequencies: 0.279 0.171 0.212 0.338 
+
+Partition: 489 with name: OG0004771
+Base frequencies: 0.341 0.157 0.188 0.314 
+
+Partition: 490 with name: OG0004774
+Base frequencies: 0.365 0.161 0.162 0.313 
+
+Partition: 491 with name: OG0004777
+Base frequencies: 0.329 0.166 0.208 0.296 
+
+Partition: 492 with name: OG0004799
+Base frequencies: 0.316 0.191 0.183 0.310 
+
+Partition: 493 with name: OG0004843
+Base frequencies: 0.321 0.175 0.202 0.302 
+
+Partition: 494 with name: OG0004879
+Base frequencies: 0.392 0.140 0.232 0.236 
+
+Partition: 495 with name: OG0004931
+Base frequencies: 0.307 0.155 0.225 0.312 
+
+Partition: 496 with name: OG0004980
+Base frequencies: 0.335 0.159 0.187 0.320 
+
+Partition: 497 with name: OG0005001
+Base frequencies: 0.322 0.189 0.197 0.292 
+
+Partition: 498 with name: OG0005052
+Base frequencies: 0.373 0.157 0.192 0.277 
+
+Partition: 499 with name: OG0005053
+Base frequencies: 0.351 0.163 0.214 0.271 
+
+Partition: 500 with name: OG0005147
+Base frequencies: 0.454 0.177 0.158 0.211 
+
+Partition: 501 with name: OG0005177
+Base frequencies: 0.300 0.159 0.196 0.345 
+
+Partition: 502 with name: OG0005185
+Base frequencies: 0.332 0.126 0.172 0.370 
+
+Partition: 503 with name: OG0005266
+Base frequencies: 0.349 0.186 0.204 0.261 
+
+Partition: 504 with name: OG0005325
+Base frequencies: 0.352 0.133 0.190 0.325 
+
+Partition: 505 with name: OG0005336
+Base frequencies: 0.312 0.131 0.161 0.395 
+
+Partition: 506 with name: OG0005358
+Base frequencies: 0.323 0.162 0.195 0.320 
+
+Partition: 507 with name: OG0005372
+Base frequencies: 0.335 0.167 0.194 0.304 
+
+Partition: 508 with name: OG0005428
+Base frequencies: 0.312 0.208 0.195 0.285 
+
+Partition: 509 with name: OG0005460
+Base frequencies: 0.306 0.153 0.188 0.353 
+
+Partition: 510 with name: OG0005506
+Base frequencies: 0.337 0.155 0.192 0.315 
+
+Partition: 511 with name: OG0005544
+Base frequencies: 0.346 0.160 0.174 0.321 
+
+Partition: 512 with name: OG0005602
+Base frequencies: 0.331 0.200 0.155 0.313 
+
+Partition: 513 with name: OG0005698
+Base frequencies: 0.368 0.143 0.166 0.324 
+
+Partition: 514 with name: OG0005700
+Base frequencies: 0.346 0.142 0.194 0.318 
+
+Partition: 515 with name: OG0005978
+Base frequencies: 0.359 0.135 0.168 0.338 
+
+Partition: 516 with name: OG0005987
+Base frequencies: 0.329 0.135 0.205 0.331 
+
+Partition: 517 with name: OG0006024
+Base frequencies: 0.329 0.207 0.205 0.258 
+
+Partition: 518 with name: OG0006034
+Base frequencies: 0.402 0.196 0.132 0.270 
+
+Partition: 519 with name: OG0006115
+Base frequencies: 0.338 0.147 0.184 0.331 
+
+Partition: 520 with name: OG0006154
+Base frequencies: 0.298 0.209 0.191 0.302 
+
+Partition: 521 with name: OG0006336
+Base frequencies: 0.314 0.164 0.194 0.328 
+
+Partition: 522 with name: OG0006385
+Base frequencies: 0.335 0.179 0.210 0.277 
+
+Partition: 523 with name: OG0006403
+Base frequencies: 0.372 0.179 0.230 0.219 
+
+Partition: 524 with name: OG0006420
+Base frequencies: 0.309 0.182 0.254 0.256 
+
+Partition: 525 with name: OG0006421
+Base frequencies: 0.360 0.197 0.224 0.219 
+
+Partition: 526 with name: OG0006444
+Base frequencies: 0.355 0.136 0.233 0.275 
+
+Partition: 527 with name: OG0006458
+Base frequencies: 0.359 0.146 0.193 0.301 
+
+Partition: 528 with name: OG0007059
+Base frequencies: 0.332 0.167 0.201 0.300 
+
+Partition: 529 with name: OG0007066
+Base frequencies: 0.330 0.168 0.173 0.330 
+
+Partition: 530 with name: OG0007422
+Base frequencies: 0.292 0.178 0.240 0.290 
+
+Partition: 531 with name: OG0007489
+Base frequencies: 0.316 0.173 0.155 0.356 
+
+Partition: 532 with name: OG0007866
+Base frequencies: 0.340 0.151 0.156 0.352 
+
+
+WARNING the alpha parameter with a value of 13.438477 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 25.766878 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 50.098147 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 99.550207 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 192.988686 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 396.938293 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 854.123264 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0]: Time 384.697736 GAMMA-based likelihood -1219153.047244, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 1.365073 3.009394 1.263785 0.551063 3.557679 1.000000 alpha[1]: 0.178755 rates[1] ac ag at cg ct gt: 1.253346 4.647581 1.572239 0.574713 2.251027 1.000000 alpha[2]: 0.020000 rates[2] ac ag at cg ct gt: 0.933025 4.114544 1.178367 0.410745 3.981862 1.000000 alpha[3]: 0.444306 rates[3] ac ag at cg ct gt: 0.555633 2.092205 0.724712 0.231050 1.743206 1.000000 alpha[4]: 0.020000 rates[4] ac ag at cg ct gt: 0.976920 4.376611 1.480525 0.000100 1.237269 1.000000 alpha[5]: 0.625576 rates[5] ac ag at cg ct gt: 1.126130 1.949893 1.036174 0.811037 2.360109 1.000000 alpha[6]: 0.139716 rates[6] ac ag at cg ct gt: 1.737498 7.097137 2.267808 1.629634 3.245203 1.000000 alpha[7]: 0.020000 rates[7] ac ag at cg ct gt: 0.113083 6.100229 2.211192 1.201835 2.207659 1.000000 alpha[8]: 0.020000 rates[8] ac ag at cg ct gt: 0.775064 3.122289 2.211706 0.389506 2.957221 1.000000 alpha[9]: 0.020000 rates[9] ac ag at cg ct gt: 1.428725 2.347605 1.903888 0.756821 5.327296 1.000000 alpha[10]: 0.020000 rates[10] ac ag at cg ct gt: 3.280515 5.396980 2.391093 0.472153 5.336212 1.000000 alpha[11]: 0.252414 rates[11] ac ag at cg ct gt: 0.345017 2.972175 1.128991 0.375729 1.314559 1.000000 alpha[12]: 0.269235 rates[12] ac ag at cg ct gt: 0.942007 1.711120 1.139386 0.630683 1.227595 1.000000 alpha[13]: 0.374771 rates[13] ac ag at cg ct gt: 3.344556 4.543951 4.343179 0.000100 4.834624 1.000000 alpha[14]: 0.326949 rates[14] ac ag at cg ct gt: 1.315460 2.329620 0.903761 1.398118 3.270848 1.000000 alpha[15]: 0.436086 rates[15] ac ag at cg ct gt: 2.604841 4.121550 2.236585 1.097242 4.786458 1.000000 alpha[16]: 0.020000 rates[16] ac ag at cg ct gt: 0.442128 2.972356 1.310628 1.054043 1.303136 1.000000 alpha[17]: 0.020000 rates[17] ac ag at cg ct gt: 1.101043 4.197428 1.472637 1.000471 2.921690 1.000000 alpha[18]: 0.402618 rates[18] ac ag at cg ct gt: 1.391479 2.027987 1.905645 0.998117 1.994977 1.000000 alpha[19]: 0.105767 rates[19] ac ag at cg ct gt: 0.846352 2.847236 1.066943 0.575201 3.500213 1.000000 alpha[20]: 0.334547 rates[20] ac ag at cg ct gt: 1.899136 1.972491 1.727481 1.246359 0.832541 1.000000 alpha[21]: 0.165114 rates[21] ac ag at cg ct gt: 0.832345 3.168386 1.198448 1.223616 2.443247 1.000000 alpha[22]: 0.020000 rates[22] ac ag at cg ct gt: 0.927136 7.832020 3.062471 0.725210 5.774782 1.000000 alpha[23]: 0.517338 rates[23] ac ag at cg ct gt: 2.168994 5.681206 1.559471 1.615125 2.148366 1.000000 alpha[24]: 0.020000 rates[24] ac ag at cg ct gt: 0.655025 2.254677 0.924794 0.693774 1.813297 1.000000 alpha[25]: 0.020000 rates[25] ac ag at cg ct gt: 1.649465 2.521141 2.294095 2.301209 4.728006 1.000000 alpha[26]: 0.604969 rates[26] ac ag at cg ct gt: 0.514393 2.279086 1.572496 0.787623 2.547573 1.000000 alpha[27]: 0.020000 rates[27] ac ag at cg ct gt: 1.671915 3.307723 1.782717 0.933318 2.204337 1.000000 alpha[28]: 0.342194 rates[28] ac ag at cg ct gt: 1.104866 2.804806 1.440685 0.936728 2.488463 1.000000 alpha[29]: 0.020000 rates[29] ac ag at cg ct gt: 1.107012 2.433136 0.964670 0.468137 2.548858 1.000000 alpha[30]: 0.020000 rates[30] ac ag at cg ct gt: 1.382575 2.708420 0.851247 0.569398 2.569071 1.000000 alpha[31]: 0.190879 rates[31] ac ag at cg ct gt: 0.991355 3.344160 1.325253 1.295343 3.028240 1.000000 alpha[32]: 0.114844 rates[32] ac ag at cg ct gt: 1.173557 3.588496 2.159583 0.695948 3.759078 1.000000 alpha[33]: 0.020000 rates[33] ac ag at cg ct gt: 0.286701 1.948329 1.476641 0.000100 1.596832 1.000000 alpha[34]: 0.020000 rates[34] ac ag at cg ct gt: 0.497187 1.751329 1.147375 0.370234 1.775863 1.000000 alpha[35]: 0.125586 rates[35] ac ag at cg ct gt: 1.123144 2.573636 0.799945 0.795675 3.359029 1.000000 alpha[36]: 0.020000 rates[36] ac ag at cg ct gt: 0.943847 9.214864 4.628465 0.240167 2.929443 1.000000 alpha[37]: 0.020000 rates[37] ac ag at cg ct gt: 0.660355 2.319796 0.841343 0.937164 1.651026 1.000000 alpha[38]: 0.020000 rates[38] ac ag at cg ct gt: 0.369390 6.432274 1.416618 0.538545 6.247795 1.000000 alpha[39]: 0.020000 rates[39] ac ag at cg ct gt: 0.193148 3.679872 0.447973 0.391283 2.004141 1.000000 alpha[40]: 0.020000 rates[40] ac ag at cg ct gt: 1.013223 3.656513 0.950048 0.313341 1.349517 1.000000 alpha[41]: 0.020000 rates[41] ac ag at cg ct gt: 1.065470 4.888157 1.587923 0.383884 5.664999 1.000000 alpha[42]: 0.020000 rates[42] ac ag at cg ct gt: 1.436720 4.537224 3.256013 0.481201 4.988738 1.000000 alpha[43]: 0.020000 rates[43] ac ag at cg ct gt: 2.153474 10.190207 1.782506 0.570411 4.405455 1.000000 alpha[44]: 0.020000 rates[44] ac ag at cg ct gt: 0.763630 2.236915 1.402445 1.044770 4.355846 1.000000 alpha[45]: 0.264059 rates[45] ac ag at cg ct gt: 1.380935 4.492799 1.190371 0.000100 7.102454 1.000000 alpha[46]: 0.020000 rates[46] ac ag at cg ct gt: 4.179494 11.748904 3.661698 0.221234 3.238884 1.000000 alpha[47]: 0.020000 rates[47] ac ag at cg ct gt: 3.161587 20.444395 1.914460 0.000100 8.383924 1.000000 alpha[48]: 0.020000 rates[48] ac ag at cg ct gt: 1.327333 6.912504 2.425416 1.168878 3.322279 1.000000 alpha[49]: 0.214703 rates[49] ac ag at cg ct gt: 0.685596 2.347049 1.020612 0.587475 1.203369 1.000000 alpha[50]: 0.020000 rates[50] ac ag at cg ct gt: 12.091855 65.496197 5.549495 0.000100 43.483997 1.000000 alpha[51]: 0.020000 rates[51] ac ag at cg ct gt: 1.182989 4.458526 0.842153 0.000100 5.013834 1.000000 alpha[52]: 0.020000 rates[52] ac ag at cg ct gt: 2.315281 13.876553 4.313695 0.000100 7.534669 1.000000 alpha[53]: 0.020000 rates[53] ac ag at cg ct gt: 1.313835 1.807484 0.549061 0.143760 1.274295 1.000000 alpha[54]: 0.020000 rates[54] ac ag at cg ct gt: 2.605445 8.169952 2.989338 0.000100 5.322860 1.000000 alpha[55]: 0.020000 rates[55] ac ag at cg ct gt: 1.822481 6.458411 1.885316 1.420252 3.018985 1.000000 alpha[56]: 0.020000 rates[56] ac ag at cg ct gt: 0.430624 4.482287 0.920084 0.738102 3.088120 1.000000 alpha[57]: 0.020000 rates[57] ac ag at cg ct gt: 1.364949 5.408208 1.749214 0.900257 3.345123 1.000000 alpha[58]: 0.020000 rates[58] ac ag at cg ct gt: 0.522710 4.654997 2.282342 2.136976 4.384336 1.000000 alpha[59]: 0.020000 rates[59] ac ag at cg ct gt: 0.771413 3.707040 2.091596 2.069442 5.079991 1.000000 alpha[60]: 0.265325 rates[60] ac ag at cg ct gt: 0.681569 3.082899 0.509647 0.407374 1.603567 1.000000 alpha[61]: 0.020000 rates[61] ac ag at cg ct gt: 0.666822 3.530776 0.756382 0.162712 1.179624 1.000000 alpha[62]: 0.020000 rates[62] ac ag at cg ct gt: 1.323978 4.119906 1.223656 2.506894 5.963959 1.000000 alpha[63]: 0.020000 rates[63] ac ag at cg ct gt: 1.539188 6.038196 1.305562 0.974756 7.075328 1.000000 alpha[64]: 0.020000 rates[64] ac ag at cg ct gt: 0.869391 14.199344 8.145659 0.000100 7.557094 1.000000 alpha[65]: 0.020000 rates[65] ac ag at cg ct gt: 4.191432 6.433453 1.729536 0.693194 8.189942 1.000000 alpha[66]: 0.020000 rates[66] ac ag at cg ct gt: 8.191249 15.382544 7.944446 0.000100 41.087567 1.000000 alpha[67]: 0.020000 rates[67] ac ag at cg ct gt: 1.334591 7.259590 1.081983 0.020597 3.200278 1.000000 alpha[68]: 0.020000 rates[68] ac ag at cg ct gt: 1.683842 6.661058 2.252917 0.750172 6.413506 1.000000 alpha[69]: 1.459044 rates[69] ac ag at cg ct gt: 0.532236 1.149438 1.061391 1.880323 2.427601 1.000000 alpha[70]: 0.020000 rates[70] ac ag at cg ct gt: 1.591190 53.443264 7.504538 0.000100 11.720372 1.000000 alpha[71]: 0.084714 rates[71] ac ag at cg ct gt: 0.659324 6.711185 2.347949 0.478123 3.336499 1.000000 alpha[72]: 0.020000 rates[72] ac ag at cg ct gt: 0.000100 0.600989 0.484294 0.000100 2.684854 1.000000 alpha[73]: 0.020000 rates[73] ac ag at cg ct gt: 0.258503 10.466254 2.016814 0.562360 3.171039 1.000000 alpha[74]: 0.020000 rates[74] ac ag at cg ct gt: 1.472605 2.465287 0.917555 0.960706 4.453941 1.000000 alpha[75]: 0.020000 rates[75] ac ag at cg ct gt: 0.985759 5.373117 2.460599 0.344155 2.801179 1.000000 alpha[76]: 0.637096 rates[76] ac ag at cg ct gt: 1.526693 4.081956 1.849173 0.282521 1.707077 1.000000 alpha[77]: 0.020000 rates[77] ac ag at cg ct gt: 0.138377 2.197476 0.491256 0.148813 1.086999 1.000000 alpha[78]: 0.392195 rates[78] ac ag at cg ct gt: 1.064166 3.302786 0.889596 0.842987 2.168296 1.000000 alpha[79]: 0.242558 rates[79] ac ag at cg ct gt: 0.485858 3.216727 0.963414 0.541273 3.712620 1.000000 alpha[80]: 0.020000 rates[80] ac ag at cg ct gt: 0.198999 1.762392 0.214848 0.357702 3.038414 1.000000 alpha[81]: 0.020000 rates[81] ac ag at cg ct gt: 3.072943 8.492140 2.873257 0.766899 4.577422 1.000000 alpha[82]: 0.020000 rates[82] ac ag at cg ct gt: 1.014769 3.816152 1.168409 0.499169 4.037608 1.000000 alpha[83]: 0.020000 rates[83] ac ag at cg ct gt: 5.175956 17.286002 5.519396 5.769163 25.956305 1.000000 alpha[84]: 0.020000 rates[84] ac ag at cg ct gt: 1.188019 3.706164 0.968956 0.836014 3.131893 1.000000 alpha[85]: 0.020000 rates[85] ac ag at cg ct gt: 0.711656 6.644089 1.521132 0.000100 4.055194 1.000000 alpha[86]: 0.057759 rates[86] ac ag at cg ct gt: 1.595817 10.896072 3.083369 1.733408 10.581463 1.000000 alpha[87]: 0.020000 rates[87] ac ag at cg ct gt: 1.343257 5.206152 2.735953 0.000100 2.249058 1.000000 alpha[88]: 0.020000 rates[88] ac ag at cg ct gt: 0.498580 3.370515 1.119597 0.246368 2.386479 1.000000 alpha[89]: 0.020000 rates[89] ac ag at cg ct gt: 1.269864 4.000848 1.156934 0.510013 3.355542 1.000000 alpha[90]: 0.020000 rates[90] ac ag at cg ct gt: 1.156755 2.751146 0.982849 0.391608 3.173895 1.000000 alpha[91]: 0.119881 rates[91] ac ag at cg ct gt: 1.101008 4.405699 0.613071 0.214237 3.157960 1.000000 alpha[92]: 0.154449 rates[92] ac ag at cg ct gt: 0.600542 2.347226 0.860174 0.326281 1.973209 1.000000 alpha[93]: 0.020000 rates[93] ac ag at cg ct gt: 5.604269 7.027973 5.550630 0.000100 2.976334 1.000000 alpha[94]: 0.020000 rates[94] ac ag at cg ct gt: 1.010251 2.109039 1.440769 0.304881 1.569350 1.000000 alpha[95]: 0.020000 rates[95] ac ag at cg ct gt: 1.170793 4.143943 1.240776 0.522901 3.873577 1.000000 alpha[96]: 0.020000 rates[96] ac ag at cg ct gt: 0.623596 4.481478 1.001507 0.729047 3.705944 1.000000 alpha[97]: 0.020000 rates[97] ac ag at cg ct gt: 0.192157 1.636500 0.000100 0.000100 2.087002 1.000000 alpha[98]: 0.020000 rates[98] ac ag at cg ct gt: 0.930110 2.804434 0.949567 0.698375 3.606037 1.000000 alpha[99]: 0.020000 rates[99] ac ag at cg ct gt: 0.749656 3.217713 0.987525 0.250448 3.675818 1.000000 alpha[100]: 0.020000 rates[100] ac ag at cg ct gt: 0.549455 1.996972 1.045900 0.075729 2.242220 1.000000 alpha[101]: 0.020000 rates[101] ac ag at cg ct gt: 5.511186 14.890236 4.215706 1.949646 10.640785 1.000000 alpha[102]: 0.020000 rates[102] ac ag at cg ct gt: 0.609826 1.832035 0.260656 0.511309 0.436712 1.000000 alpha[103]: 0.020000 rates[103] ac ag at cg ct gt: 1.951671 7.170550 1.895763 2.203764 7.904616 1.000000 alpha[104]: 0.828552 rates[104] ac ag at cg ct gt: 1.671665 1.863206 1.209132 1.090890 2.560983 1.000000 alpha[105]: 0.020000 rates[105] ac ag at cg ct gt: 0.000100 11.270678 0.678235 0.000100 0.915739 1.000000 alpha[106]: 0.020000 rates[106] ac ag at cg ct gt: 1.088227 3.437117 0.343536 0.319570 5.654742 1.000000 alpha[107]: 0.020000 rates[107] ac ag at cg ct gt: 0.037904 4.588135 1.084144 0.476492 4.372175 1.000000 alpha[108]: 0.020000 rates[108] ac ag at cg ct gt: 2.132661 3.534680 1.129309 0.392837 1.577311 1.000000 alpha[109]: 0.020000 rates[109] ac ag at cg ct gt: 0.464962 1.579601 0.390585 0.327693 2.289140 1.000000 alpha[110]: 0.020000 rates[110] ac ag at cg ct gt: 1.420988 8.631641 0.626995 1.045642 13.064776 1.000000 alpha[111]: 0.020000 rates[111] ac ag at cg ct gt: 1.643421 8.783077 2.009842 1.375511 8.391190 1.000000 alpha[112]: 0.020000 rates[112] ac ag at cg ct gt: 2.365378 17.082154 4.997492 2.712880 15.305847 1.000000 alpha[113]: 0.020000 rates[113] ac ag at cg ct gt: 1.096128 4.103050 1.593689 0.500580 2.844860 1.000000 alpha[114]: 0.020000 rates[114] ac ag at cg ct gt: 0.683520 8.809368 0.189746 0.670604 1.123873 1.000000 alpha[115]: 0.020000 rates[115] ac ag at cg ct gt: 1.517264 6.686924 3.250783 0.424363 8.394505 1.000000 alpha[116]: 0.020000 rates[116] ac ag at cg ct gt: 1.039034 5.276895 2.480172 0.398297 1.965871 1.000000 alpha[117]: 0.249341 rates[117] ac ag at cg ct gt: 0.888058 1.959143 1.533831 0.345330 1.812174 1.000000 alpha[118]: 0.020000 rates[118] ac ag at cg ct gt: 1.593371 7.843999 2.309639 0.241927 5.180184 1.000000 alpha[119]: 0.020000 rates[119] ac ag at cg ct gt: 1.133034 6.101914 1.391122 0.648733 4.129653 1.000000 alpha[120]: 0.020000 rates[120] ac ag at cg ct gt: 3.499833 8.511393 2.033308 0.000100 38.276579 1.000000 alpha[121]: 0.108956 rates[121] ac ag at cg ct gt: 0.463328 1.186005 0.702547 0.106236 0.902675 1.000000 alpha[122]: 0.020000 rates[122] ac ag at cg ct gt: 0.742096 2.825103 1.044396 0.239960 1.810065 1.000000 alpha[123]: 0.020000 rates[123] ac ag at cg ct gt: 1.105857 2.048713 3.386684 0.309099 3.534252 1.000000 alpha[124]: 1.908116 rates[124] ac ag at cg ct gt: 1.352893 3.072380 1.439518 1.045298 2.450109 1.000000 alpha[125]: 0.020000 rates[125] ac ag at cg ct gt: 0.513748 3.517584 1.047357 0.117061 2.716707 1.000000 alpha[126]: 0.067930 rates[126] ac ag at cg ct gt: 0.709065 2.725052 0.911557 1.244417 2.940368 1.000000 alpha[127]: 0.182807 rates[127] ac ag at cg ct gt: 0.948006 5.620878 2.483783 0.703049 2.726855 1.000000 alpha[128]: 0.020000 rates[128] ac ag at cg ct gt: 1.746686 3.593749 1.270757 0.000100 2.140802 1.000000 alpha[129]: 0.020000 rates[129] ac ag at cg ct gt: 1.710251 3.261254 0.785283 0.000100 3.101034 1.000000 alpha[130]: 0.020000 rates[130] ac ag at cg ct gt: 1.318004 6.098536 1.357810 0.997241 1.846919 1.000000 alpha[131]: 0.020000 rates[131] ac ag at cg ct gt: 1.470043 7.663732 1.552996 0.981119 2.219830 1.000000 alpha[132]: 0.020000 rates[132] ac ag at cg ct gt: 2.618929 12.693523 7.028320 2.183714 12.608786 1.000000 alpha[133]: 0.020000 rates[133] ac ag at cg ct gt: 1.893206 4.431410 2.218765 1.424876 3.783359 1.000000 alpha[134]: 0.020000 rates[134] ac ag at cg ct gt: 0.686353 5.456007 0.637863 0.000100 1.754990 1.000000 alpha[135]: 0.020000 rates[135] ac ag at cg ct gt: 0.171615 3.881186 0.900793 0.000100 1.327754 1.000000 alpha[136]: 0.020000 rates[136] ac ag at cg ct gt: 25.317519 26.332576 1.997011 0.000100 34.018656 1.000000 alpha[137]: 0.020000 rates[137] ac ag at cg ct gt: 0.875671 3.280995 1.198296 0.067414 2.971866 1.000000 alpha[138]: 0.020000 rates[138] ac ag at cg ct gt: 1.108179 7.707404 1.294257 0.651730 3.924292 1.000000 alpha[139]: 0.020000 rates[139] ac ag at cg ct gt: 0.347089 15.109181 7.462231 0.756434 7.674506 1.000000 alpha[140]: 0.215945 rates[140] ac ag at cg ct gt: 0.959084 3.355115 1.210007 0.989986 3.004544 1.000000 alpha[141]: 0.020000 rates[141] ac ag at cg ct gt: 0.534304 3.315040 1.213064 0.332195 1.983559 1.000000 alpha[142]: 0.020000 rates[142] ac ag at cg ct gt: 0.103736 2.807595 0.762202 0.077512 1.890624 1.000000 alpha[143]: 0.020000 rates[143] ac ag at cg ct gt: 0.540668 4.204645 2.819239 0.000100 2.597192 1.000000 alpha[144]: 0.020000 rates[144] ac ag at cg ct gt: 0.680461 2.892312 1.023528 0.763423 4.084261 1.000000 alpha[145]: 0.020000 rates[145] ac ag at cg ct gt: 1.194030 4.820549 1.948569 1.212161 5.718758 1.000000 alpha[146]: 0.020000 rates[146] ac ag at cg ct gt: 1.225505 7.685036 3.855831 0.000100 6.959650 1.000000 alpha[147]: 0.020000 rates[147] ac ag at cg ct gt: 0.000100 1.317954 0.904687 0.437457 3.232851 1.000000 alpha[148]: 0.020000 rates[148] ac ag at cg ct gt: 1.173126 3.874166 1.704588 0.348486 2.966796 1.000000 alpha[149]: 0.136516 rates[149] ac ag at cg ct gt: 3.023166 7.507604 3.334822 0.000100 5.547059 1.000000 alpha[150]: 0.020000 rates[150] ac ag at cg ct gt: 0.000100 4.689446 2.995148 0.000100 4.409452 1.000000 alpha[151]: 0.020000 rates[151] ac ag at cg ct gt: 0.780995 2.704235 0.555317 0.356266 4.648328 1.000000 alpha[152]: 0.020000 rates[152] ac ag at cg ct gt: 4.294612 108.972292 8.536386 0.000100 13.766676 1.000000 alpha[153]: 0.020000 rates[153] ac ag at cg ct gt: 0.151807 0.701830 0.309345 0.000100 0.838457 1.000000 alpha[154]: 0.020000 rates[154] ac ag at cg ct gt: 1.422247 4.889378 1.910657 0.406931 3.213153 1.000000 alpha[155]: 0.020000 rates[155] ac ag at cg ct gt: 1.023590 1.580965 1.361876 0.306018 1.714171 1.000000 alpha[156]: 0.599434 rates[156] ac ag at cg ct gt: 4.675031 14.652986 4.718283 0.000100 7.042370 1.000000 alpha[157]: 0.020000 rates[157] ac ag at cg ct gt: 0.000100 2.846651 2.508460 0.000100 5.573051 1.000000 alpha[158]: 0.020000 rates[158] ac ag at cg ct gt: 1.759956 6.566015 3.186917 0.362679 4.309498 1.000000 alpha[159]: 0.020000 rates[159] ac ag at cg ct gt: 0.699937 3.506675 0.602650 0.268855 5.648937 1.000000 alpha[160]: 0.020000 rates[160] ac ag at cg ct gt: 3.842378 9.075430 1.303450 2.524005 12.367989 1.000000 alpha[161]: 0.020000 rates[161] ac ag at cg ct gt: 0.890922 2.801137 1.322555 0.150079 3.812070 1.000000 alpha[162]: 0.020000 rates[162] ac ag at cg ct gt: 1.036296 3.392378 0.765520 0.097778 1.938186 1.000000 alpha[163]: 0.020000 rates[163] ac ag at cg ct gt: 1.698378 5.384775 0.696894 0.000100 4.319698 1.000000 alpha[164]: 0.020000 rates[164] ac ag at cg ct gt: 0.889276 6.603423 1.576701 1.015475 6.923611 1.000000 alpha[165]: 0.020000 rates[165] ac ag at cg ct gt: 1.761581 15.738189 6.509827 0.820588 15.674814 1.000000 alpha[166]: 0.020000 rates[166] ac ag at cg ct gt: 0.924765 4.180901 1.537060 0.279790 2.506209 1.000000 alpha[167]: 0.020000 rates[167] ac ag at cg ct gt: 5.325239 14.564029 11.888288 1.451759 11.890988 1.000000 alpha[168]: 0.020000 rates[168] ac ag at cg ct gt: 2.483904 10.068158 3.649515 1.521601 7.277307 1.000000 alpha[169]: 0.020000 rates[169] ac ag at cg ct gt: 0.722818 2.541454 0.592194 0.238713 2.839455 1.000000 alpha[170]: 0.020000 rates[170] ac ag at cg ct gt: 4.608003 49.604772 4.464087 7.218777 36.045194 1.000000 alpha[171]: 0.020000 rates[171] ac ag at cg ct gt: 0.841589 17.800041 2.717914 4.197532 23.418624 1.000000 alpha[172]: 0.020000 rates[172] ac ag at cg ct gt: 1.127690 2.886980 1.134540 0.224394 3.183428 1.000000 alpha[173]: 0.020000 rates[173] ac ag at cg ct gt: 6.683059 29.245434 6.359928 2.873024 14.314148 1.000000 alpha[174]: 0.147561 rates[174] ac ag at cg ct gt: 1.432098 4.074247 1.637464 0.503669 3.655447 1.000000 alpha[175]: 0.020000 rates[175] ac ag at cg ct gt: 0.522730 2.642316 0.572068 0.147458 2.101885 1.000000 alpha[176]: 0.020000 rates[176] ac ag at cg ct gt: 0.570700 6.248088 0.670769 1.900244 6.146008 1.000000 alpha[177]: 0.143136 rates[177] ac ag at cg ct gt: 0.679096 2.661820 1.342833 0.370381 1.102195 1.000000 alpha[178]: 0.020000 rates[178] ac ag at cg ct gt: 2.669202 19.983157 2.922465 0.000100 14.303827 1.000000 alpha[179]: 0.020000 rates[179] ac ag at cg ct gt: 0.965252 2.709635 1.115804 0.659059 2.634478 1.000000 alpha[180]: 0.020000 rates[180] ac ag at cg ct gt: 1.251639 5.464117 0.813442 0.423105 1.524450 1.000000 alpha[181]: 0.020000 rates[181] ac ag at cg ct gt: 1.423679 5.389969 2.268423 0.226580 3.034587 1.000000 alpha[182]: 0.020000 rates[182] ac ag at cg ct gt: 0.995122 3.735616 1.571816 0.433319 2.119537 1.000000 alpha[183]: 0.020000 rates[183] ac ag at cg ct gt: 0.268570 6.585438 0.750377 0.887198 4.035198 1.000000 alpha[184]: 0.159497 rates[184] ac ag at cg ct gt: 3.146942 3.328821 3.928848 0.000100 2.906674 1.000000 alpha[185]: 0.020000 rates[185] ac ag at cg ct gt: 0.674294 1.714935 0.802179 0.335176 1.892767 1.000000 alpha[186]: 0.020000 rates[186] ac ag at cg ct gt: 1.426950 4.395628 1.329882 0.583393 5.273435 1.000000 alpha[187]: 0.020000 rates[187] ac ag at cg ct gt: 1.077526 4.584308 2.617327 0.323397 7.480187 1.000000 alpha[188]: 0.020000 rates[188] ac ag at cg ct gt: 0.881612 5.425387 1.541417 0.436391 2.923273 1.000000 alpha[189]: 0.020000 rates[189] ac ag at cg ct gt: 3.887628 10.604570 1.945815 0.000100 7.187297 1.000000 alpha[190]: 0.020000 rates[190] ac ag at cg ct gt: 1.246678 5.693030 1.859480 0.666219 5.852761 1.000000 alpha[191]: 0.067228 rates[191] ac ag at cg ct gt: 0.783779 4.458938 1.010106 0.474125 3.332270 1.000000 alpha[192]: 0.020000 rates[192] ac ag at cg ct gt: 0.750269 4.484089 1.693082 0.000100 3.429042 1.000000 alpha[193]: 0.020000 rates[193] ac ag at cg ct gt: 1.125926 4.725955 1.759522 0.622152 3.833528 1.000000 alpha[194]: 0.020000 rates[194] ac ag at cg ct gt: 1.058695 4.354916 1.971724 0.624791 3.753819 1.000000 alpha[195]: 0.020000 rates[195] ac ag at cg ct gt: 0.075652 1.959108 0.218178 0.311581 1.463734 1.000000 alpha[196]: 0.020000 rates[196] ac ag at cg ct gt: 0.829727 5.573034 2.396931 0.225047 5.494998 1.000000 alpha[197]: 0.020000 rates[197] ac ag at cg ct gt: 6.793808 58.031229 5.574526 0.000100 17.678062 1.000000 alpha[198]: 0.020000 rates[198] ac ag at cg ct gt: 0.927383 0.954135 1.511976 0.805080 2.717220 1.000000 alpha[199]: 0.020000 rates[199] ac ag at cg ct gt: 0.994839 11.038135 3.366545 0.985292 2.725821 1.000000 alpha[200]: 0.020000 rates[200] ac ag at cg ct gt: 1.299149 3.445958 3.080871 0.783998 8.614358 1.000000 alpha[201]: 0.020000 rates[201] ac ag at cg ct gt: 0.872521 2.952198 1.101727 0.448873 1.778528 1.000000 alpha[202]: 0.020000 rates[202] ac ag at cg ct gt: 0.426101 4.242575 0.626048 1.010748 2.856869 1.000000 alpha[203]: 0.020000 rates[203] ac ag at cg ct gt: 1.584791 1.908359 0.512349 0.000100 2.072033 1.000000 alpha[204]: 0.020000 rates[204] ac ag at cg ct gt: 0.663761 3.079167 0.455238 0.486969 3.459956 1.000000 alpha[205]: 0.020000 rates[205] ac ag at cg ct gt: 1.245206 8.430511 0.849808 1.430116 3.125530 1.000000 alpha[206]: 0.020000 rates[206] ac ag at cg ct gt: 2.563219 9.771904 1.999603 0.000100 16.304356 1.000000 alpha[207]: 0.020000 rates[207] ac ag at cg ct gt: 0.580944 2.742953 1.103334 0.000100 1.832158 1.000000 alpha[208]: 0.020000 rates[208] ac ag at cg ct gt: 13.184799 10.656923 22.432314 0.000100 35.534888 1.000000 alpha[209]: 0.020000 rates[209] ac ag at cg ct gt: 0.638685 1.806914 1.273135 0.000100 5.543856 1.000000 alpha[210]: 0.020000 rates[210] ac ag at cg ct gt: 2.088176 4.316025 2.121891 0.749925 2.853191 1.000000 alpha[211]: 0.020000 rates[211] ac ag at cg ct gt: 0.885532 5.031205 1.666416 0.000100 4.163373 1.000000 alpha[212]: 0.020000 rates[212] ac ag at cg ct gt: 0.436371 4.586145 0.841397 0.471274 1.686065 1.000000 alpha[213]: 0.020000 rates[213] ac ag at cg ct gt: 1.066543 4.898639 2.951421 0.332667 4.725132 1.000000 alpha[214]: 0.020000 rates[214] ac ag at cg ct gt: 1.292847 5.625839 1.711703 0.559447 4.582700 1.000000 alpha[215]: 0.020000 rates[215] ac ag at cg ct gt: 0.414624 8.747576 1.750276 2.728271 8.534424 1.000000 alpha[216]: 0.020000 rates[216] ac ag at cg ct gt: 1.331019 3.505227 1.120291 0.926873 3.445251 1.000000 alpha[217]: 0.020000 rates[217] ac ag at cg ct gt: 1.855488 1.939421 1.147700 0.841592 0.786194 1.000000 alpha[218]: 0.020000 rates[218] ac ag at cg ct gt: 2.520033 2.555270 4.968524 2.770955 6.478429 1.000000 alpha[219]: 0.284904 rates[219] ac ag at cg ct gt: 2.446959 4.511527 2.700952 1.247420 3.152233 1.000000 alpha[220]: 0.020000 rates[220] ac ag at cg ct gt: 0.180205 4.872452 1.406077 0.129323 4.486369 1.000000 alpha[221]: 0.020000 rates[221] ac ag at cg ct gt: 0.482919 2.881238 0.896942 0.265890 1.652039 1.000000 alpha[222]: 0.020000 rates[222] ac ag at cg ct gt: 1.429693 2.117337 0.996847 0.522838 2.747087 1.000000 alpha[223]: 0.020000 rates[223] ac ag at cg ct gt: 5.383967 11.460472 1.436292 3.649133 4.417476 1.000000 alpha[224]: 0.087416 rates[224] ac ag at cg ct gt: 0.969922 3.035605 1.533723 0.116808 1.594802 1.000000 alpha[225]: 0.020000 rates[225] ac ag at cg ct gt: 0.691252 3.622354 1.097328 0.000100 2.348961 1.000000 alpha[226]: 0.370439 rates[226] ac ag at cg ct gt: 0.345512 0.627060 0.756151 0.318331 1.056262 1.000000 alpha[227]: 0.020000 rates[227] ac ag at cg ct gt: 1.755844 4.967404 0.763252 0.161278 4.598096 1.000000 alpha[228]: 0.056816 rates[228] ac ag at cg ct gt: 0.638703 4.463711 0.776879 2.123657 6.867520 1.000000 alpha[229]: 0.115519 rates[229] ac ag at cg ct gt: 0.593479 3.723524 0.659072 0.318142 1.827564 1.000000 alpha[230]: 0.020000 rates[230] ac ag at cg ct gt: 8.426669 28.847454 2.069404 0.609753 22.023867 1.000000 alpha[231]: 0.020000 rates[231] ac ag at cg ct gt: 0.591654 4.693229 1.075168 0.257505 1.985927 1.000000 alpha[232]: 0.051743 rates[232] ac ag at cg ct gt: 1.761539 4.743130 2.653533 2.103852 4.563687 1.000000 alpha[233]: 0.146826 rates[233] ac ag at cg ct gt: 1.700664 5.148182 1.753679 0.503917 5.994853 1.000000 alpha[234]: 0.299369 rates[234] ac ag at cg ct gt: 1.545556 3.160053 1.448905 1.039075 4.930217 1.000000 alpha[235]: 0.020000 rates[235] ac ag at cg ct gt: 0.728519 2.933513 0.704108 0.237296 0.750423 1.000000 alpha[236]: 0.020000 rates[236] ac ag at cg ct gt: 8.213695 86.727168 4.718754 0.000100 10.895964 1.000000 alpha[237]: 0.020000 rates[237] ac ag at cg ct gt: 0.348438 1.410424 0.672845 0.000100 1.540024 1.000000 alpha[238]: 0.020000 rates[238] ac ag at cg ct gt: 0.652614 2.908870 1.159046 1.178516 7.024856 1.000000 alpha[239]: 0.020000 rates[239] ac ag at cg ct gt: 1.952377 9.964340 1.554220 0.393187 4.261187 1.000000 alpha[240]: 0.020000 rates[240] ac ag at cg ct gt: 1.489995 5.024935 1.665110 0.307223 3.310027 1.000000 alpha[241]: 0.020000 rates[241] ac ag at cg ct gt: 1.777280 6.080101 3.041536 1.151269 4.147044 1.000000 alpha[242]: 0.020000 rates[242] ac ag at cg ct gt: 1.170350 6.363985 2.209015 1.385043 3.548608 1.000000 alpha[243]: 0.020000 rates[243] ac ag at cg ct gt: 1.587751 6.339803 2.495722 1.131395 5.267945 1.000000 alpha[244]: 0.020000 rates[244] ac ag at cg ct gt: 0.824203 3.507168 1.838815 0.775775 4.758215 1.000000 alpha[245]: 0.020000 rates[245] ac ag at cg ct gt: 1.081859 3.801372 0.857929 1.191141 5.565792 1.000000 alpha[246]: 0.020000 rates[246] ac ag at cg ct gt: 1.201062 3.571813 1.075651 0.165085 5.689472 1.000000 alpha[247]: 0.020000 rates[247] ac ag at cg ct gt: 2.022050 5.731312 4.684619 1.448375 6.649396 1.000000 alpha[248]: 0.550381 rates[248] ac ag at cg ct gt: 0.664113 2.495762 0.838763 0.000100 2.519122 1.000000 alpha[249]: 0.020000 rates[249] ac ag at cg ct gt: 1.434615 5.768481 1.588119 0.769886 4.092790 1.000000 alpha[250]: 0.020000 rates[250] ac ag at cg ct gt: 1.849564 4.011151 2.744529 0.342522 2.284188 1.000000 alpha[251]: 0.020000 rates[251] ac ag at cg ct gt: 3.676562 8.078435 2.962702 0.113014 14.574641 1.000000 alpha[252]: 0.113834 rates[252] ac ag at cg ct gt: 1.565982 3.935443 1.773581 0.700790 3.259611 1.000000 alpha[253]: 0.020000 rates[253] ac ag at cg ct gt: 0.603397 5.175348 0.937814 1.042612 2.038810 1.000000 alpha[254]: 0.020000 rates[254] ac ag at cg ct gt: 0.163527 1.609156 1.010924 0.000100 1.363153 1.000000 alpha[255]: 0.343730 rates[255] ac ag at cg ct gt: 1.008187 3.099031 0.882506 0.149374 1.758202 1.000000 alpha[256]: 0.020000 rates[256] ac ag at cg ct gt: 13.933517 8.520474 3.977123 0.000100 38.448884 1.000000 alpha[257]: 0.020000 rates[257] ac ag at cg ct gt: 1.253571 3.646046 1.060130 0.700970 4.080081 1.000000 alpha[258]: 0.020000 rates[258] ac ag at cg ct gt: 0.896820 3.401633 1.077551 0.000100 3.645793 1.000000 alpha[259]: 0.232422 rates[259] ac ag at cg ct gt: 1.022667 4.787549 1.553539 0.000100 5.433269 1.000000 alpha[260]: 0.020000 rates[260] ac ag at cg ct gt: 0.681388 6.623127 2.766179 0.738136 3.974176 1.000000 alpha[261]: 0.020000 rates[261] ac ag at cg ct gt: 0.423809 2.544857 0.578426 0.064896 2.316128 1.000000 alpha[262]: 0.020000 rates[262] ac ag at cg ct gt: 1.414267 13.924436 3.586900 1.033887 4.275248 1.000000 alpha[263]: 0.020000 rates[263] ac ag at cg ct gt: 0.728566 3.414205 0.752623 0.300463 4.296233 1.000000 alpha[264]: 0.020000 rates[264] ac ag at cg ct gt: 1.847530 5.701565 1.847115 0.000100 7.664986 1.000000 alpha[265]: 0.020000 rates[265] ac ag at cg ct gt: 1.566461 6.520621 2.231781 0.000100 6.665775 1.000000 alpha[266]: 0.020000 rates[266] ac ag at cg ct gt: 1.619897 4.610922 0.678996 0.961848 2.965189 1.000000 alpha[267]: 0.020000 rates[267] ac ag at cg ct gt: 3.684414 17.985100 7.306849 5.536078 26.370002 1.000000 alpha[268]: 0.020000 rates[268] ac ag at cg ct gt: 0.980763 3.384386 1.872359 0.111583 2.695931 1.000000 alpha[269]: 0.020000 rates[269] ac ag at cg ct gt: 0.385227 5.571397 1.818921 0.706041 4.138371 1.000000 alpha[270]: 0.020000 rates[270] ac ag at cg ct gt: 1.396467 5.624210 1.565094 0.813825 4.744777 1.000000 alpha[271]: 0.020000 rates[271] ac ag at cg ct gt: 2.873164 5.604669 0.564122 0.520091 4.501582 1.000000 alpha[272]: 0.020000 rates[272] ac ag at cg ct gt: 3.355321 4.231283 1.523070 0.000100 3.290333 1.000000 alpha[273]: 0.215908 rates[273] ac ag at cg ct gt: 0.778852 2.154880 1.193866 1.348782 2.914972 1.000000 alpha[274]: 0.020000 rates[274] ac ag at cg ct gt: 1.251419 4.403859 0.464110 0.504548 5.186883 1.000000 alpha[275]: 0.020000 rates[275] ac ag at cg ct gt: 1.756336 6.155751 1.446871 0.785797 6.197970 1.000000 alpha[276]: 0.020000 rates[276] ac ag at cg ct gt: 1.447919 5.563013 0.809985 0.978512 3.218731 1.000000 alpha[277]: 0.056260 rates[277] ac ag at cg ct gt: 1.446441 7.605021 2.296294 0.922793 3.509125 1.000000 alpha[278]: 0.020000 rates[278] ac ag at cg ct gt: 0.328757 3.553257 1.336008 0.000100 2.049902 1.000000 alpha[279]: 0.020000 rates[279] ac ag at cg ct gt: 0.820436 2.439100 1.104680 0.585802 2.673153 1.000000 alpha[280]: 0.020000 rates[280] ac ag at cg ct gt: 0.771585 8.758666 5.581616 0.522195 6.939934 1.000000 alpha[281]: 0.020000 rates[281] ac ag at cg ct gt: 1.448437 6.564490 1.759610 0.700453 7.284320 1.000000 alpha[282]: 0.020000 rates[282] ac ag at cg ct gt: 0.849225 4.277887 0.833423 0.573774 5.616691 1.000000 alpha[283]: 0.020000 rates[283] ac ag at cg ct gt: 1.630759 7.713711 1.800941 0.713864 5.353743 1.000000 alpha[284]: 0.020000 rates[284] ac ag at cg ct gt: 0.615624 3.045104 2.264200 0.690951 3.144844 1.000000 alpha[285]: 0.020000 rates[285] ac ag at cg ct gt: 1.862786 2.912321 3.606307 0.519564 3.417406 1.000000 alpha[286]: 0.020000 rates[286] ac ag at cg ct gt: 1.186955 2.187123 1.039271 0.384055 3.499092 1.000000 alpha[287]: 0.020000 rates[287] ac ag at cg ct gt: 1.536192 4.554422 1.348002 0.490893 5.857694 1.000000 alpha[288]: 0.020000 rates[288] ac ag at cg ct gt: 1.657491 3.648363 1.273765 0.515793 2.572107 1.000000 alpha[289]: 0.020000 rates[289] ac ag at cg ct gt: 0.355944 3.015915 0.919795 0.042236 1.834854 1.000000 alpha[290]: 0.020000 rates[290] ac ag at cg ct gt: 1.185112 3.784170 1.527326 0.000100 5.474982 1.000000 alpha[291]: 0.020000 rates[291] ac ag at cg ct gt: 0.681847 4.018740 1.205860 0.486283 4.145297 1.000000 alpha[292]: 3.231951 rates[292] ac ag at cg ct gt: 1.936449 9.357436 3.610007 1.024567 6.700385 1.000000 alpha[293]: 0.020000 rates[293] ac ag at cg ct gt: 0.379875 5.451479 4.031218 0.000100 3.864742 1.000000 alpha[294]: 0.178211 rates[294] ac ag at cg ct gt: 3.839036 8.729406 2.261383 0.328896 4.391485 1.000000 alpha[295]: 0.442341 rates[295] ac ag at cg ct gt: 0.541056 1.671387 1.649406 0.094155 0.617983 1.000000 alpha[296]: 0.020000 rates[296] ac ag at cg ct gt: 2.079234 7.868857 1.410206 0.375312 4.823758 1.000000 alpha[297]: 0.020000 rates[297] ac ag at cg ct gt: 0.209466 2.906656 0.974623 0.781462 2.957229 1.000000 alpha[298]: 0.020000 rates[298] ac ag at cg ct gt: 3.216637 13.377766 3.238132 2.620354 7.206739 1.000000 alpha[299]: 0.020000 rates[299] ac ag at cg ct gt: 0.758783 3.601167 0.534822 0.235264 2.650529 1.000000 alpha[300]: 0.020000 rates[300] ac ag at cg ct gt: 1.184830 4.956609 3.323469 0.254522 2.749409 1.000000 alpha[301]: 0.020000 rates[301] ac ag at cg ct gt: 6.849766 100.990229 1.420309 0.000100 7.026225 1.000000 alpha[302]: 0.020000 rates[302] ac ag at cg ct gt: 0.332503 7.446042 2.352746 0.000100 0.680207 1.000000 alpha[303]: 0.020000 rates[303] ac ag at cg ct gt: 0.448128 2.827968 0.990355 0.178947 2.292552 1.000000 alpha[304]: 0.020000 rates[304] ac ag at cg ct gt: 0.603768 3.814184 0.825665 0.405438 3.826351 1.000000 alpha[305]: 0.020000 rates[305] ac ag at cg ct gt: 2.117487 5.906681 2.960080 1.438791 13.774981 1.000000 alpha[306]: 0.020000 rates[306] ac ag at cg ct gt: 0.977437 5.143709 1.211348 0.000100 3.539633 1.000000 alpha[307]: 0.235955 rates[307] ac ag at cg ct gt: 2.563546 4.876753 3.803630 1.196783 3.963175 1.000000 alpha[308]: 0.020000 rates[308] ac ag at cg ct gt: 0.890602 3.580308 1.168689 0.931582 4.481382 1.000000 alpha[309]: 0.020000 rates[309] ac ag at cg ct gt: 2.856929 6.288932 1.548928 0.000100 4.772366 1.000000 alpha[310]: 0.020000 rates[310] ac ag at cg ct gt: 0.658664 4.024379 1.610488 0.459959 3.435281 1.000000 alpha[311]: 0.020000 rates[311] ac ag at cg ct gt: 0.595564 5.331006 1.341151 0.660079 3.649133 1.000000 alpha[312]: 0.020000 rates[312] ac ag at cg ct gt: 0.549108 2.967448 0.781139 0.552938 2.260202 1.000000 alpha[313]: 0.098438 rates[313] ac ag at cg ct gt: 0.656869 5.525764 1.739137 0.467466 3.718138 1.000000 alpha[314]: 0.020000 rates[314] ac ag at cg ct gt: 0.516599 5.070281 0.597466 1.476464 3.146338 1.000000 alpha[315]: 0.020000 rates[315] ac ag at cg ct gt: 2.447682 7.838218 2.198180 0.698390 4.177593 1.000000 alpha[316]: 0.020000 rates[316] ac ag at cg ct gt: 0.000100 4.565896 0.900103 0.000100 2.342451 1.000000 alpha[317]: 0.020000 rates[317] ac ag at cg ct gt: 1.710319 6.356760 1.825198 0.622534 3.938562 1.000000 alpha[318]: 0.020000 rates[318] ac ag at cg ct gt: 0.440931 3.777533 3.517772 1.358630 10.341181 1.000000 alpha[319]: 0.020000 rates[319] ac ag at cg ct gt: 6.944941 9.934294 2.362264 0.769583 13.923412 1.000000 alpha[320]: 0.020000 rates[320] ac ag at cg ct gt: 1.010351 5.089519 0.904024 0.254823 4.411763 1.000000 alpha[321]: 0.442510 rates[321] ac ag at cg ct gt: 0.000100 8.691245 2.361451 5.612719 7.544191 1.000000 alpha[322]: 0.020000 rates[322] ac ag at cg ct gt: 0.748551 7.351481 0.954474 0.866328 2.596470 1.000000 alpha[323]: 0.046547 rates[323] ac ag at cg ct gt: 0.684530 4.558035 2.249626 0.978069 3.812160 1.000000 alpha[324]: 0.020000 rates[324] ac ag at cg ct gt: 0.721685 4.112529 0.620560 0.229171 2.809840 1.000000 alpha[325]: 0.020000 rates[325] ac ag at cg ct gt: 0.457216 3.068158 0.635839 0.108123 1.380850 1.000000 alpha[326]: 0.020000 rates[326] ac ag at cg ct gt: 1.058085 4.085683 1.362031 0.053348 2.822536 1.000000 alpha[327]: 0.436350 rates[327] ac ag at cg ct gt: 1.424812 11.691763 3.688445 1.199546 6.141931 1.000000 alpha[328]: 0.095231 rates[328] ac ag at cg ct gt: 1.354407 7.082219 1.742901 0.161006 4.369152 1.000000 alpha[329]: 0.020000 rates[329] ac ag at cg ct gt: 0.000100 14.651701 1.975425 0.657795 7.715399 1.000000 alpha[330]: 0.020000 rates[330] ac ag at cg ct gt: 0.303463 1.369574 0.000100 0.000100 3.136617 1.000000 alpha[331]: 0.020000 rates[331] ac ag at cg ct gt: 1.450027 4.551598 1.571644 0.447847 3.834198 1.000000 alpha[332]: 0.020000 rates[332] ac ag at cg ct gt: 1.383414 7.616954 3.322550 0.597154 13.030047 1.000000 alpha[333]: 0.020000 rates[333] ac ag at cg ct gt: 0.211685 2.508159 1.808838 0.000100 1.802313 1.000000 alpha[334]: 0.020000 rates[334] ac ag at cg ct gt: 0.696708 6.920407 1.630640 1.388833 3.653308 1.000000 alpha[335]: 0.145302 rates[335] ac ag at cg ct gt: 1.355067 4.059709 0.904710 0.795930 2.311422 1.000000 alpha[336]: 0.177109 rates[336] ac ag at cg ct gt: 1.120335 3.483506 1.207698 0.572216 1.829892 1.000000 alpha[337]: 0.020000 rates[337] ac ag at cg ct gt: 0.926653 5.981312 0.911242 0.317910 3.590543 1.000000 alpha[338]: 0.020000 rates[338] ac ag at cg ct gt: 0.868568 6.448847 0.924117 0.527309 3.947605 1.000000 alpha[339]: 0.020000 rates[339] ac ag at cg ct gt: 0.944684 2.735042 1.177766 0.187858 3.802610 1.000000 alpha[340]: 0.020000 rates[340] ac ag at cg ct gt: 1.482601 17.407190 0.360244 0.000100 6.551731 1.000000 alpha[341]: 0.157705 rates[341] ac ag at cg ct gt: 1.984142 5.833637 2.547823 2.958823 2.698923 1.000000 alpha[342]: 0.020000 rates[342] ac ag at cg ct gt: 0.927150 4.505087 1.419079 0.257492 3.786084 1.000000 alpha[343]: 0.174319 rates[343] ac ag at cg ct gt: 0.507683 3.386194 1.869575 0.724775 3.586216 1.000000 alpha[344]: 1.441260 rates[344] ac ag at cg ct gt: 1.032285 1.758669 1.438329 1.448182 1.743718 1.000000 alpha[345]: 0.020000 rates[345] ac ag at cg ct gt: 0.561882 5.902302 0.566863 0.548103 5.527179 1.000000 alpha[346]: 0.020000 rates[346] ac ag at cg ct gt: 0.324421 0.613851 0.537208 0.229901 4.427111 1.000000 alpha[347]: 0.020000 rates[347] ac ag at cg ct gt: 0.383355 2.871079 0.590256 0.106351 2.186576 1.000000 alpha[348]: 0.113341 rates[348] ac ag at cg ct gt: 1.103937 4.234946 1.475707 0.623444 2.100726 1.000000 alpha[349]: 0.020000 rates[349] ac ag at cg ct gt: 1.124194 6.077756 1.125968 1.813034 4.772918 1.000000 alpha[350]: 0.020000 rates[350] ac ag at cg ct gt: 0.601790 4.803667 1.382971 0.292022 2.780248 1.000000 alpha[351]: 0.116599 rates[351] ac ag at cg ct gt: 1.282219 3.139621 0.728543 1.075418 4.866236 1.000000 alpha[352]: 0.020000 rates[352] ac ag at cg ct gt: 0.676789 5.190095 1.369328 0.610923 3.466709 1.000000 alpha[353]: 0.020000 rates[353] ac ag at cg ct gt: 0.178397 0.809750 0.566358 0.336112 2.897722 1.000000 alpha[354]: 0.020000 rates[354] ac ag at cg ct gt: 25.244061 47.540573 39.080989 0.000100 5.445482 1.000000 alpha[355]: 0.020000 rates[355] ac ag at cg ct gt: 0.980328 5.568073 2.265554 0.000100 4.247055 1.000000 alpha[356]: 0.020000 rates[356] ac ag at cg ct gt: 0.386700 1.612522 0.828695 0.938792 0.990530 1.000000 alpha[357]: 0.020000 rates[357] ac ag at cg ct gt: 1.541058 4.499751 18.798526 0.000100 17.095505 1.000000 alpha[358]: 0.020000 rates[358] ac ag at cg ct gt: 1.802823 11.928097 1.592406 0.000100 9.692336 1.000000 alpha[359]: 0.020000 rates[359] ac ag at cg ct gt: 0.285006 4.680383 0.742847 1.239678 0.592395 1.000000 alpha[360]: 0.020000 rates[360] ac ag at cg ct gt: 1.024622 16.417421 1.576252 0.000100 7.380968 1.000000 alpha[361]: 0.109234 rates[361] ac ag at cg ct gt: 1.835084 4.102940 1.127193 0.134406 3.861813 1.000000 alpha[362]: 0.020000 rates[362] ac ag at cg ct gt: 1.384871 5.229771 2.819309 1.032678 6.220871 1.000000 alpha[363]: 0.020000 rates[363] ac ag at cg ct gt: 1.278240 16.285937 11.286571 5.030879 18.914742 1.000000 alpha[364]: 0.020000 rates[364] ac ag at cg ct gt: 2.221081 4.901232 2.526162 0.161804 8.809583 1.000000 alpha[365]: 0.020000 rates[365] ac ag at cg ct gt: 3.181089 6.038864 1.509761 1.387759 4.377060 1.000000 alpha[366]: 0.020000 rates[366] ac ag at cg ct gt: 1.418318 5.219284 3.404118 6.654042 8.619186 1.000000 alpha[367]: 0.961362 rates[367] ac ag at cg ct gt: 1.111293 3.217809 4.858827 1.344818 2.523219 1.000000 alpha[368]: 0.020000 rates[368] ac ag at cg ct gt: 1.913980 10.221816 2.616006 0.000100 5.429612 1.000000 alpha[369]: 0.020000 rates[369] ac ag at cg ct gt: 0.982134 3.248464 1.455224 0.243011 4.139650 1.000000 alpha[370]: 0.020000 rates[370] ac ag at cg ct gt: 0.553025 4.137697 1.094750 0.908457 2.601415 1.000000 alpha[371]: 0.020000 rates[371] ac ag at cg ct gt: 0.727454 3.910639 2.130157 0.943337 5.333290 1.000000 alpha[372]: 0.512214 rates[372] ac ag at cg ct gt: 1.308765 5.029996 1.445949 2.570463 3.907494 1.000000 alpha[373]: 0.020000 rates[373] ac ag at cg ct gt: 1.286894 9.426362 2.689430 0.000100 6.965493 1.000000 alpha[374]: 0.020000 rates[374] ac ag at cg ct gt: 2.745919 8.428524 3.367574 1.080125 5.984793 1.000000 alpha[375]: 0.020000 rates[375] ac ag at cg ct gt: 0.874633 1.863516 0.906889 0.212642 1.614597 1.000000 alpha[376]: 0.020000 rates[376] ac ag at cg ct gt: 0.183737 1.474257 1.039836 0.000100 4.155828 1.000000 alpha[377]: 0.020000 rates[377] ac ag at cg ct gt: 1.736117 12.041400 6.348333 0.000100 22.630010 1.000000 alpha[378]: 0.020000 rates[378] ac ag at cg ct gt: 1.883394 6.873938 2.026024 0.635486 4.465991 1.000000 alpha[379]: 0.348195 rates[379] ac ag at cg ct gt: 0.416874 3.398087 1.223169 1.153990 2.300301 1.000000 alpha[380]: 0.020000 rates[380] ac ag at cg ct gt: 1.179984 9.286535 3.276787 0.927178 5.182183 1.000000 alpha[381]: 1000.000000 rates[381] ac ag at cg ct gt: 3.445970 3.298192 1.410268 0.475513 2.069720 1.000000 alpha[382]: 0.202251 rates[382] ac ag at cg ct gt: 0.970347 6.088883 1.484879 0.193721 2.846364 1.000000 alpha[383]: 0.020000 rates[383] ac ag at cg ct gt: 0.560557 1.960405 0.542885 0.256926 2.435470 1.000000 alpha[384]: 0.131940 rates[384] ac ag at cg ct gt: 1.612302 5.752073 1.566578 1.464548 4.510027 1.000000 alpha[385]: 0.020000 rates[385] ac ag at cg ct gt: 1.843665 8.833756 0.760212 0.000100 5.935553 1.000000 alpha[386]: 0.020000 rates[386] ac ag at cg ct gt: 0.653826 3.568557 0.538398 0.335002 1.661312 1.000000 alpha[387]: 0.020000 rates[387] ac ag at cg ct gt: 0.875831 10.195892 1.659084 0.533953 7.365465 1.000000 alpha[388]: 0.020000 rates[388] ac ag at cg ct gt: 2.923981 6.116938 2.276414 0.283738 5.629793 1.000000 alpha[389]: 0.020000 rates[389] ac ag at cg ct gt: 0.297025 2.079082 1.148152 0.591773 2.218781 1.000000 alpha[390]: 0.020000 rates[390] ac ag at cg ct gt: 0.237753 2.266866 0.864006 0.192296 1.663040 1.000000 alpha[391]: 0.393193 rates[391] ac ag at cg ct gt: 1.368065 3.440883 2.414641 1.045374 5.369765 1.000000 alpha[392]: 0.020000 rates[392] ac ag at cg ct gt: 1.549247 4.887013 0.721547 0.000100 3.355072 1.000000 alpha[393]: 0.020000 rates[393] ac ag at cg ct gt: 0.742307 4.235659 2.147108 0.736981 6.629410 1.000000 alpha[394]: 0.020000 rates[394] ac ag at cg ct gt: 0.239074 4.184924 0.650900 0.272384 4.784638 1.000000 alpha[395]: 0.020000 rates[395] ac ag at cg ct gt: 3.130949 11.006042 1.574701 2.125996 6.082656 1.000000 alpha[396]: 0.333464 rates[396] ac ag at cg ct gt: 1.148159 2.121529 0.531960 0.527401 2.156579 1.000000 alpha[397]: 0.020000 rates[397] ac ag at cg ct gt: 2.308529 18.767882 3.782064 0.837215 10.806478 1.000000 alpha[398]: 0.288225 rates[398] ac ag at cg ct gt: 0.727293 2.334375 1.109325 0.407517 2.245498 1.000000 alpha[399]: 0.020000 rates[399] ac ag at cg ct gt: 1.032761 5.018270 1.214599 0.878116 3.806603 1.000000 alpha[400]: 0.164804 rates[400] ac ag at cg ct gt: 0.450734 2.461220 0.962643 0.340016 2.352290 1.000000 alpha[401]: 0.020000 rates[401] ac ag at cg ct gt: 1.200497 6.083577 1.576674 2.886224 2.662397 1.000000 alpha[402]: 0.020000 rates[402] ac ag at cg ct gt: 0.486467 14.182081 1.378520 0.000100 3.481310 1.000000 alpha[403]: 0.020000 rates[403] ac ag at cg ct gt: 1.017134 4.590795 2.053030 0.116387 2.931585 1.000000 alpha[404]: 0.020000 rates[404] ac ag at cg ct gt: 4.197193 28.956411 5.264568 0.000100 23.373607 1.000000 alpha[405]: 0.020000 rates[405] ac ag at cg ct gt: 0.467481 13.122935 3.651004 1.700370 6.889790 1.000000 alpha[406]: 0.020000 rates[406] ac ag at cg ct gt: 0.791083 5.329490 0.325405 0.000100 1.363442 1.000000 alpha[407]: 0.020000 rates[407] ac ag at cg ct gt: 1.067686 2.949415 0.667564 0.486404 1.204339 1.000000 alpha[408]: 0.020000 rates[408] ac ag at cg ct gt: 3.084543 10.894411 1.908714 0.658436 3.901705 1.000000 alpha[409]: 0.020000 rates[409] ac ag at cg ct gt: 1.295721 4.799213 1.623646 0.314982 3.758855 1.000000 alpha[410]: 0.166747 rates[410] ac ag at cg ct gt: 0.960603 2.149633 1.052977 0.579410 2.536229 1.000000 alpha[411]: 0.020000 rates[411] ac ag at cg ct gt: 0.279261 7.960041 1.566540 0.352432 2.536445 1.000000 alpha[412]: 0.020000 rates[412] ac ag at cg ct gt: 2.996681 5.010121 2.335048 1.227007 4.917833 1.000000 alpha[413]: 0.020000 rates[413] ac ag at cg ct gt: 4.918381 10.348658 4.027903 1.197061 6.824758 1.000000 alpha[414]: 0.020000 rates[414] ac ag at cg ct gt: 4.189291 4.962211 5.099097 0.000100 7.426883 1.000000 alpha[415]: 0.020000 rates[415] ac ag at cg ct gt: 1.545657 5.622224 2.488604 0.586128 4.244669 1.000000 alpha[416]: 0.020000 rates[416] ac ag at cg ct gt: 1.074399 9.715269 2.441583 0.000100 4.215907 1.000000 alpha[417]: 0.020000 rates[417] ac ag at cg ct gt: 0.588670 2.726771 0.540696 0.077323 1.337787 1.000000 alpha[418]: 0.020000 rates[418] ac ag at cg ct gt: 0.000100 5.751900 0.912085 0.000100 14.016716 1.000000 alpha[419]: 0.020000 rates[419] ac ag at cg ct gt: 0.874607 1.961001 1.091471 0.000100 1.316056 1.000000 alpha[420]: 0.020000 rates[420] ac ag at cg ct gt: 0.230432 2.824468 0.512577 0.334429 1.934805 1.000000 alpha[421]: 0.020000 rates[421] ac ag at cg ct gt: 9.111890 13.594256 3.773033 0.000100 28.699450 1.000000 alpha[422]: 0.158475 rates[422] ac ag at cg ct gt: 0.870769 3.093150 0.880279 1.762974 2.076477 1.000000 alpha[423]: 0.077306 rates[423] ac ag at cg ct gt: 1.503360 6.151725 1.648197 0.754568 5.795929 1.000000 alpha[424]: 0.020000 rates[424] ac ag at cg ct gt: 0.529963 5.421908 0.540423 0.060495 0.703378 1.000000 alpha[425]: 0.020000 rates[425] ac ag at cg ct gt: 1.851132 1.271717 0.613468 0.000100 2.439620 1.000000 alpha[426]: 0.020000 rates[426] ac ag at cg ct gt: 0.451148 27.481355 1.852961 0.000100 2.537781 1.000000 alpha[427]: 0.020000 rates[427] ac ag at cg ct gt: 0.820121 1.256739 1.471333 0.000100 2.438985 1.000000 alpha[428]: 0.239497 rates[428] ac ag at cg ct gt: 1.806612 3.336302 1.619375 0.653590 4.490390 1.000000 alpha[429]: 0.020000 rates[429] ac ag at cg ct gt: 4.650826 10.823713 6.959437 0.455161 10.994168 1.000000 alpha[430]: 0.020000 rates[430] ac ag at cg ct gt: 0.909410 3.732674 0.327900 0.101828 4.160987 1.000000 alpha[431]: 0.020000 rates[431] ac ag at cg ct gt: 0.384578 2.306600 0.254575 0.000100 7.412140 1.000000 alpha[432]: 0.020000 rates[432] ac ag at cg ct gt: 1.372954 8.535120 1.014953 0.000100 3.183199 1.000000 alpha[433]: 0.020000 rates[433] ac ag at cg ct gt: 0.754432 3.398210 3.601817 0.000100 5.665328 1.000000 alpha[434]: 0.020000 rates[434] ac ag at cg ct gt: 0.187256 3.535679 0.744987 0.242703 3.501396 1.000000 alpha[435]: 0.020000 rates[435] ac ag at cg ct gt: 1.051877 9.706629 4.102204 0.000100 6.414169 1.000000 alpha[436]: 0.020000 rates[436] ac ag at cg ct gt: 3.930655 5.867649 3.602877 0.000100 10.557225 1.000000 alpha[437]: 0.020000 rates[437] ac ag at cg ct gt: 0.761373 2.342583 0.825447 0.354148 2.491744 1.000000 alpha[438]: 0.020000 rates[438] ac ag at cg ct gt: 2.976660 3.425837 1.079293 0.866206 2.503943 1.000000 alpha[439]: 0.020000 rates[439] ac ag at cg ct gt: 4.817506 9.233449 2.986382 1.163485 9.852973 1.000000 alpha[440]: 0.406485 rates[440] ac ag at cg ct gt: 0.643538 2.066807 0.996409 0.092141 3.276719 1.000000 alpha[441]: 0.020000 rates[441] ac ag at cg ct gt: 2.348710 16.526424 3.401157 1.637321 4.283988 1.000000 alpha[442]: 0.020000 rates[442] ac ag at cg ct gt: 1.655030 6.243101 1.840984 0.607355 3.504268 1.000000 alpha[443]: 0.020000 rates[443] ac ag at cg ct gt: 0.689220 3.331353 0.951174 0.191400 2.109934 1.000000 alpha[444]: 0.020000 rates[444] ac ag at cg ct gt: 1.642278 9.326063 2.195241 1.504794 5.093648 1.000000 alpha[445]: 0.020000 rates[445] ac ag at cg ct gt: 1.065181 2.120813 1.047935 0.049737 2.077318 1.000000 alpha[446]: 0.020000 rates[446] ac ag at cg ct gt: 0.945302 2.376420 1.226506 0.155183 1.543440 1.000000 alpha[447]: 0.031300 rates[447] ac ag at cg ct gt: 0.648133 3.555699 1.026667 0.115655 4.311441 1.000000 alpha[448]: 0.020000 rates[448] ac ag at cg ct gt: 0.899127 10.615940 0.517053 0.000100 2.394950 1.000000 alpha[449]: 0.020000 rates[449] ac ag at cg ct gt: 0.585037 2.593433 1.000081 0.352096 2.490497 1.000000 alpha[450]: 2.400779 rates[450] ac ag at cg ct gt: 0.741298 2.085043 1.090000 0.720424 2.914057 1.000000 alpha[451]: 0.877408 rates[451] ac ag at cg ct gt: 1.351521 2.869358 1.282340 1.027483 2.931967 1.000000 alpha[452]: 0.020000 rates[452] ac ag at cg ct gt: 1.151970 10.038247 2.528764 0.650878 4.220517 1.000000 alpha[453]: 0.020000 rates[453] ac ag at cg ct gt: 2.135095 3.925975 1.557528 1.114757 5.883733 1.000000 alpha[454]: 0.020000 rates[454] ac ag at cg ct gt: 2.560366 66.571001 13.739328 0.000100 26.245672 1.000000 alpha[455]: 0.020000 rates[455] ac ag at cg ct gt: 12.517185 12.125800 7.740780 0.000100 19.087931 1.000000 alpha[456]: 0.020000 rates[456] ac ag at cg ct gt: 1.535080 5.864085 0.381374 1.652866 2.466417 1.000000 alpha[457]: 0.020000 rates[457] ac ag at cg ct gt: 0.991404 3.056595 0.867247 0.278106 3.398427 1.000000 alpha[458]: 0.020000 rates[458] ac ag at cg ct gt: 0.000100 32.668808 11.383867 0.000100 40.047398 1.000000 alpha[459]: 0.020000 rates[459] ac ag at cg ct gt: 0.798557 2.642677 1.399094 0.198087 2.523906 1.000000 alpha[460]: 0.020000 rates[460] ac ag at cg ct gt: 3.537048 22.556006 1.487531 0.000100 9.718176 1.000000 alpha[461]: 0.020000 rates[461] ac ag at cg ct gt: 1.124371 5.788817 1.568320 0.750029 4.622889 1.000000 alpha[462]: 0.020000 rates[462] ac ag at cg ct gt: 2.549864 72.248221 4.219558 11.637916 25.971645 1.000000 alpha[463]: 0.020000 rates[463] ac ag at cg ct gt: 4.386068 36.784964 10.191437 5.084752 13.747595 1.000000 alpha[464]: 0.020000 rates[464] ac ag at cg ct gt: 1.384533 8.127110 2.117672 0.547527 7.720002 1.000000 alpha[465]: 0.020000 rates[465] ac ag at cg ct gt: 1.608863 5.558969 2.076812 1.084736 8.167992 1.000000 alpha[466]: 0.020000 rates[466] ac ag at cg ct gt: 0.579360 6.971158 2.149381 0.413967 4.143921 1.000000 alpha[467]: 0.304467 rates[467] ac ag at cg ct gt: 0.863734 6.931718 1.941978 1.235031 3.785122 1.000000 alpha[468]: 0.063658 rates[468] ac ag at cg ct gt: 1.565251 5.438714 3.306897 0.433265 5.948672 1.000000 alpha[469]: 0.186575 rates[469] ac ag at cg ct gt: 1.047488 4.315617 1.594329 0.805926 2.799292 1.000000 alpha[470]: 0.020000 rates[470] ac ag at cg ct gt: 0.493771 3.131579 1.113084 0.886803 1.092838 1.000000 alpha[471]: 1.584517 rates[471] ac ag at cg ct gt: 1.428791 3.113110 1.527157 1.300933 3.304379 1.000000 alpha[472]: 0.020000 rates[472] ac ag at cg ct gt: 1.863945 16.092377 3.414800 2.708322 8.967474 1.000000 alpha[473]: 0.020000 rates[473] ac ag at cg ct gt: 1.394875 3.139556 1.434434 1.227495 2.793010 1.000000 alpha[474]: 0.020000 rates[474] ac ag at cg ct gt: 0.980620 5.438555 2.883460 0.945457 4.485294 1.000000 alpha[475]: 0.020000 rates[475] ac ag at cg ct gt: 4.639176 12.014565 3.578051 1.689063 10.908198 1.000000 alpha[476]: 0.020000 rates[476] ac ag at cg ct gt: 1.011575 4.255920 1.315582 0.535594 3.769648 1.000000 alpha[477]: 0.020000 rates[477] ac ag at cg ct gt: 0.676084 11.846078 1.670973 0.000100 2.845264 1.000000 alpha[478]: 0.020000 rates[478] ac ag at cg ct gt: 0.860758 3.363345 2.050923 0.766050 1.837229 1.000000 alpha[479]: 0.020000 rates[479] ac ag at cg ct gt: 2.942348 8.857510 1.967038 0.383643 5.474685 1.000000 alpha[480]: 0.020000 rates[480] ac ag at cg ct gt: 2.108498 1.835379 0.504915 1.497222 5.094185 1.000000 alpha[481]: 0.020000 rates[481] ac ag at cg ct gt: 2.306357 5.591033 3.156244 0.000100 8.253974 1.000000 alpha[482]: 0.020000 rates[482] ac ag at cg ct gt: 0.601720 5.214201 0.998462 0.087739 2.553189 1.000000 alpha[483]: 0.145621 rates[483] ac ag at cg ct gt: 1.897658 3.744768 2.018872 0.667675 4.014190 1.000000 alpha[484]: 0.020000 rates[484] ac ag at cg ct gt: 1.613039 16.880532 7.183845 0.609507 13.834120 1.000000 alpha[485]: 0.020000 rates[485] ac ag at cg ct gt: 0.905573 8.558404 4.169725 0.000100 9.405601 1.000000 alpha[486]: 0.020000 rates[486] ac ag at cg ct gt: 5.907562 8.654840 3.815191 1.367666 7.926079 1.000000 alpha[487]: 0.143463 rates[487] ac ag at cg ct gt: 3.318821 6.908536 2.675488 1.070233 3.991305 1.000000 alpha[488]: 0.020000 rates[488] ac ag at cg ct gt: 1.327892 3.972478 1.726278 0.000100 2.271757 1.000000 alpha[489]: 0.020000 rates[489] ac ag at cg ct gt: 4.259266 6.060495 2.947958 0.327492 11.962750 1.000000 alpha[490]: 0.020000 rates[490] ac ag at cg ct gt: 0.932383 10.939235 2.217231 0.654425 3.431434 1.000000 alpha[491]: 0.020000 rates[491] ac ag at cg ct gt: 0.685602 2.870324 2.093000 1.013605 6.158404 1.000000 alpha[492]: 0.020000 rates[492] ac ag at cg ct gt: 1.204807 1.351862 3.034738 0.869593 1.317797 1.000000 alpha[493]: 0.020000 rates[493] ac ag at cg ct gt: 1.105792 4.684580 2.492070 0.436960 2.306271 1.000000 alpha[494]: 0.020000 rates[494] ac ag at cg ct gt: 1.575979 3.991767 1.942211 0.403090 2.983743 1.000000 alpha[495]: 0.020000 rates[495] ac ag at cg ct gt: 2.552959 5.118855 1.738631 0.885842 6.544961 1.000000 alpha[496]: 0.101122 rates[496] ac ag at cg ct gt: 2.253043 7.269847 1.112965 1.737926 5.047399 1.000000 alpha[497]: 0.020000 rates[497] ac ag at cg ct gt: 3.168701 8.624446 2.360706 0.886256 11.786095 1.000000 alpha[498]: 0.843862 rates[498] ac ag at cg ct gt: 1.466736 3.332205 1.108649 0.824070 3.441717 1.000000 alpha[499]: 0.020000 rates[499] ac ag at cg ct gt: 0.358763 5.987925 1.213079 0.341587 7.227718 1.000000 alpha[500]: 0.020000 rates[500] ac ag at cg ct gt: 0.000100 3.586812 1.625854 1.108786 4.510212 1.000000 alpha[501]: 0.020000 rates[501] ac ag at cg ct gt: 2.183164 7.052466 1.701440 0.000100 7.510974 1.000000 alpha[502]: 0.020000 rates[502] ac ag at cg ct gt: 5.710312 16.696693 4.966152 0.000100 8.700170 1.000000 alpha[503]: 0.020000 rates[503] ac ag at cg ct gt: 0.578333 2.495677 0.753811 0.695092 1.536895 1.000000 alpha[504]: 0.161368 rates[504] ac ag at cg ct gt: 0.552604 2.794894 1.020223 0.362725 1.694217 1.000000 alpha[505]: 0.020000 rates[505] ac ag at cg ct gt: 0.679477 6.517084 1.639874 2.176044 13.104685 1.000000 alpha[506]: 0.376848 rates[506] ac ag at cg ct gt: 1.713764 3.375409 1.150526 0.210725 2.590285 1.000000 alpha[507]: 0.269357 rates[507] ac ag at cg ct gt: 1.539583 3.169769 1.309909 0.593760 2.135408 1.000000 alpha[508]: 0.020000 rates[508] ac ag at cg ct gt: 1.661733 5.794814 1.361987 0.431892 4.795068 1.000000 alpha[509]: 0.299755 rates[509] ac ag at cg ct gt: 1.661488 2.478837 1.619831 0.904788 1.533277 1.000000 alpha[510]: 0.020000 rates[510] ac ag at cg ct gt: 1.725696 10.137354 1.555892 0.960459 3.789764 1.000000 alpha[511]: 0.020000 rates[511] ac ag at cg ct gt: 1.201891 7.459761 2.603551 0.481248 12.219451 1.000000 alpha[512]: 0.089527 rates[512] ac ag at cg ct gt: 0.519924 4.818567 1.353683 0.863875 2.959998 1.000000 alpha[513]: 0.020000 rates[513] ac ag at cg ct gt: 0.745118 3.734012 1.095544 0.222583 1.383008 1.000000 alpha[514]: 0.020000 rates[514] ac ag at cg ct gt: 0.777363 2.404086 1.139610 0.444212 2.439651 1.000000 alpha[515]: 0.131483 rates[515] ac ag at cg ct gt: 1.079885 5.241195 1.707835 0.894164 3.408095 1.000000 alpha[516]: 0.020000 rates[516] ac ag at cg ct gt: 0.526833 4.528928 1.299842 1.313407 3.006132 1.000000 alpha[517]: 0.080743 rates[517] ac ag at cg ct gt: 0.713437 7.938582 1.026913 1.198762 3.854783 1.000000 alpha[518]: 0.289774 rates[518] ac ag at cg ct gt: 0.665561 3.611007 0.478374 1.584684 1.519453 1.000000 alpha[519]: 0.020000 rates[519] ac ag at cg ct gt: 2.069255 7.032428 1.877996 2.088340 5.147133 1.000000 alpha[520]: 0.020000 rates[520] ac ag at cg ct gt: 0.586643 3.794062 1.365975 0.105177 2.778726 1.000000 alpha[521]: 0.020000 rates[521] ac ag at cg ct gt: 1.423389 5.335823 1.372677 0.097800 3.406310 1.000000 alpha[522]: 0.020000 rates[522] ac ag at cg ct gt: 1.027415 3.858268 0.715028 0.462982 3.619853 1.000000 alpha[523]: 0.530141 rates[523] ac ag at cg ct gt: 2.191264 4.147115 2.970916 1.415730 4.087900 1.000000 alpha[524]: 0.020000 rates[524] ac ag at cg ct gt: 1.191248 2.028024 1.026482 0.745273 3.189079 1.000000 alpha[525]: 0.020000 rates[525] ac ag at cg ct gt: 0.596862 14.341798 11.954685 0.000100 4.560566 1.000000 alpha[526]: 0.020000 rates[526] ac ag at cg ct gt: 1.692803 12.582848 3.468489 2.752954 7.378864 1.000000 alpha[527]: 0.020000 rates[527] ac ag at cg ct gt: 2.001249 4.246401 1.233192 1.014758 6.079343 1.000000 alpha[528]: 0.143515 rates[528] ac ag at cg ct gt: 0.555105 2.064805 0.736694 0.593790 2.410083 1.000000 alpha[529]: 0.020000 rates[529] ac ag at cg ct gt: 2.113218 15.604462 1.886408 0.649647 7.436955 1.000000 alpha[530]: 0.020000 rates[530] ac ag at cg ct gt: 1.725590 9.455499 10.283502 1.616610 8.895563 1.000000 alpha[531]: 0.020000 rates[531] ac ag at cg ct gt: 1.432774 8.656970 3.942533 0.000100 3.424350 1.000000 alpha[532]: 0.216128 rates[532] ac ag at cg ct gt: 1.283899 5.857508 2.165581 0.293250 4.621391 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 381 with the name "OG0003386"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0] final GAMMA-based Likelihood: -1219145.938138 tree written to file /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/RAxML_result.repeat24
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -1219145.938138 .... 
+
+Final GAMMA-based Score of best tree -1219145.938138
+
+Program execution info written to /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/RAxML_info.repeat24
+Best-scoring ML tree written to: /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/RAxML_bestTree.repeat24
+
+Overall execution time: 714.750758 secs or 0.198542 hours or 0.008273 days
+

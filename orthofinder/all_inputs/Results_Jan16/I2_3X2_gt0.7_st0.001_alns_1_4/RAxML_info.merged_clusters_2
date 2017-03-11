@@ -1,0 +1,44 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_bootstrap.merged_clusters_1 onto tree in file RAxML_bestTree.merged_clusters_0
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -f b -s merged_clusters.phy -t RAxML_bestTree.merged_clusters_0 -z RAxML_bootstrap.merged_clusters_1 -m GTRGAMMA -n merged_clusters_2 
+
+
+
+
+Found 1 tree in File RAxML_bestTree.merged_clusters_0
+
+
+
+Found 100 trees in File RAxML_bootstrap.merged_clusters_1
+
+
+
+Found 1 tree in File RAxML_bestTree.merged_clusters_0
+
+
+
+Time for Computation of Bipartitions 0.007422
+Tree with bipartitions written to file:  /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/RAxML_bipartitions.merged_clusters_2
+Tree with bipartitions as branch labels written to file:  /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/RAxML_bipartitionsBranchLabels.merged_clusters_2
+Execution information file written to :  /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/RAxML_info.merged_clusters_2
