@@ -1,0 +1,118 @@
+
+
+IMPORTANT WARNING: Sequences MincW1_g7486_f0 and Minc557R_g7486_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g7486_f0 and MincA14_g7486_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g7486_f0 and MincHarC_g7486_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g7486_f0 and MincL19_g7486_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g7486_f0 and MincL27_g7486_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g158_f0 and MjavVW5_g158_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g158_f0 and MincL15_g158_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g158_f0 and MincL17_g158_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g158_f0 and MjavL57_g158_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g7435_f0 and MjavVW5_g7435_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g7435_f0 and MincL15_g7435_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g7435_f0 and MincL17_g7435_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincL9_g7486_f0 and MincVW6_g7486_f0 are exactly identical
+
+IMPORTANT WARNING
+Found 13 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0005292.aln.trm.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 99 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 11.67%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 99
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/457031/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -w /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree -p 123 -s /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0005292.aln.trm.fasta -T 28 -n 207161484757013.97_OG0005292 -m GTRGAMMA 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.326 0.201 0.176 0.296 
+
+Inference[0]: Time 0.323709 GAMMA-based likelihood -1677.071444, best rearrangement setting 5
+alpha[0]: 0.370367 rates[0] ac ag at cg ct gt: 1.007799 2.243657 1.113812 0.113147 1.231815 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -1677.071410 tree written to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_result.207161484757013.97_OG0005292
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -1677.071410 .... 
+
+Final GAMMA-based Score of best tree -1677.071407
+
+Program execution info written to /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_info.207161484757013.97_OG0005292
+Best-scoring ML tree written to: /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_bestTree.207161484757013.97_OG0005292
+
+Overall execution time: 0.855971 secs or 0.000238 hours or 0.000010 days
+

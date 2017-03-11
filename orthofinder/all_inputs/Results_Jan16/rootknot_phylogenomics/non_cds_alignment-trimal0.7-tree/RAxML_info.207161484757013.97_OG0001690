@@ -1,0 +1,142 @@
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MfloSJF1_g1001_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MfloSJF1_g1272_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MfloSJF1_g7531_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and Minc557R_g23718_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MincL9_g23718_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MincHarC_g23718_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MincL19_g23718_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MincL27_g23718_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g23718_f0 and MincVW6_g23718_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g15703_f0 and Minc557R_g15703_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g15703_f0 and MincL9_g15703_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g15703_f0 and MincHarC_g15703_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g15703_f0 and MincL19_g15703_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g15703_f0 and MincL27_g15703_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g15703_f0 and MincVW6_g15703_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g2380_f0 and MincL15_g2380_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g2380_f0 and MincL17_g2380_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g9368_f0 and MincL15_g9368_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g9368_f0 and MincL17_g9368_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g9368_f0 and MjavL57_g9368_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MareL28_g29187_f0 and MareL32_g29187_f0 are exactly identical
+
+IMPORTANT WARNING
+Found 21 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0001690.aln.trm.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 63 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 6.46%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 63
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/457031/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -w /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree -p 123 -s /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0001690.aln.trm.fasta -T 28 -n 207161484757013.97_OG0001690 -m GTRGAMMA 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.367 0.167 0.201 0.265 
+
+Inference[0]: Time 0.578261 GAMMA-based likelihood -889.072447, best rearrangement setting 5
+alpha[0]: 0.283357 rates[0] ac ag at cg ct gt: 2.096730 5.605136 2.182056 0.753980 5.355769 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -889.072397 tree written to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_result.207161484757013.97_OG0001690
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -889.072397 .... 
+
+Final GAMMA-based Score of best tree -889.071900
+
+Program execution info written to /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_info.207161484757013.97_OG0001690
+Best-scoring ML tree written to: /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_bestTree.207161484757013.97_OG0001690
+
+Overall execution time: 1.328700 secs or 0.000369 hours or 0.000015 days
+

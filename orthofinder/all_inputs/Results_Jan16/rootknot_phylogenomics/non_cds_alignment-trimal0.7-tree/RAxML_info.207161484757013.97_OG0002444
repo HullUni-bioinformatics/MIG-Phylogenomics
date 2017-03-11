@@ -1,0 +1,118 @@
+
+
+IMPORTANT WARNING: Sequences MincW1_g14350_f0 and Minc557R_g14350_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and Minc557R_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and MincL9_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and MincA14_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and MincHarC_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and MincL19_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and MincL27_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g5500_f0 and MincVW6_g5500_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g12331_f0 and MjavL57_g12331_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincL17_g12442_f0 and MjavL57_g12442_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincL9_g14350_f0 and MincA14_g14350_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincL19_g14350_f0 and MincL27_g14350_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincL19_g14350_f0 and MincVW6_g14350_f0 are exactly identical
+
+IMPORTANT WARNING
+Found 13 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0002444.aln.trm.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 150 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 3.21%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 150
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/457031/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -w /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree -p 123 -s /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0002444.aln.trm.fasta -T 28 -n 207161484757013.97_OG0002444 -m GTRGAMMA 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.365 0.196 0.208 0.231 
+
+Inference[0]: Time 0.634677 GAMMA-based likelihood -2649.954665, best rearrangement setting 5
+alpha[0]: 0.179418 rates[0] ac ag at cg ct gt: 1.906482 5.416541 2.432667 0.810020 3.931864 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -2649.954637 tree written to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_result.207161484757013.97_OG0002444
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -2649.954637 .... 
+
+Final GAMMA-based Score of best tree -2649.953655
+
+Program execution info written to /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_info.207161484757013.97_OG0002444
+Best-scoring ML tree written to: /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_bestTree.207161484757013.97_OG0002444
+
+Overall execution time: 1.562882 secs or 0.000434 hours or 0.000018 days
+

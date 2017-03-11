@@ -1,0 +1,130 @@
+
+
+IMPORTANT WARNING: Sequences MincW1_g4136_f0 and Minc557R_g4136_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4136_f0 and MincA14_g4136_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4136_f0 and MincHarC_g4136_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4136_f0 and MincL19_g4136_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4136_f0 and MincVW6_g4136_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MareHarA_g9739_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and Minc557R_g4138_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MareL32_g9739_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MincL9_g4138_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MincHarC_g4138_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MincL19_g4138_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MincL27_g4138_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g4138_f0 and MincVW6_g4138_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MfloSJF1_g4683_f0 and MfloSJF1_g7613_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MareHarA_g12454_f0 and MareL28_g12454_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g207_f0 and MincL17_g207_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g207_f0 and MjavL57_g207_f0 are exactly identical
+
+IMPORTANT WARNING
+Found 17 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0003894.aln.trm.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 48 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 2.83%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 48
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/457031/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -w /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree -p 123 -s /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0003894.aln.trm.fasta -T 28 -n 207161484757013.97_OG0003894 -m GTRGAMMA 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.389 0.174 0.168 0.269 
+
+Inference[0]: Time 0.430754 GAMMA-based likelihood -839.019533, best rearrangement setting 10
+alpha[0]: 2.513128 rates[0] ac ag at cg ct gt: 0.744613 2.558993 0.788619 0.254966 1.274773 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -839.019402 tree written to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_result.207161484757013.97_OG0003894
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -839.019402 .... 
+
+Final GAMMA-based Score of best tree -839.019296
+
+Program execution info written to /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_info.207161484757013.97_OG0003894
+Best-scoring ML tree written to: /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_bestTree.207161484757013.97_OG0003894
+
+Overall execution time: 1.036002 secs or 0.000288 hours or 0.000012 days
+

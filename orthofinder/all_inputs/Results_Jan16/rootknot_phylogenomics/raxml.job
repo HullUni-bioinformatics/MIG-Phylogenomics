@@ -1,0 +1,19 @@
+#!/bin/bash
+#SBATCH -J phylo_I2
+#SBATCH --array=1-1000
+#SBATCH -N 1
+#SBATCH --ntasks-per-node 1
+#SBATCH -o phylo.out
+#SBATCH -e phylo.err
+#SBATCH -p compute
+#SBATCH --exclusive
+module add gcc/4.9.3
+module add python/anaconda/4.0/2.7
+
+
+echo $SLURM_ARRAY_TASK_ID
+echo "--"
+python ./raxml.py $SLURM_ARRAY_TASK_ID 207161484757013.97
+
+module purge
+

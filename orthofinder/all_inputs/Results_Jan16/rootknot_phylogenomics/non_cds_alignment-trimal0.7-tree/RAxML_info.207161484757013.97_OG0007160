@@ -1,0 +1,103 @@
+
+
+IMPORTANT WARNING: Sequences MincW1_g6711_f0 and Minc557R_g6711_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g6711_f0 and MincHarC_g6711_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g6711_f0 and MincL27_g6711_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MincW1_g6711_f0 and MincVW6_g6711_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW4_g18692_f0 and MareHarA_g14788_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g18692_f0 and MincL15_g18692_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g18692_f0 and MincL17_g18692_f0 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MjavVW5_g18692_f0 and MjavL57_g18692_f0 are exactly identical
+
+IMPORTANT WARNING
+Found 8 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0007160.aln.trm.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 48 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 9.05%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 48
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/457031/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -w /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree -p 123 -s /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7/207161484757013.97_OG0007160.aln.trm.fasta -T 28 -n 207161484757013.97_OG0007160 -m GTRGAMMA 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.480 0.066 0.116 0.338 
+
+Inference[0]: Time 0.270682 GAMMA-based likelihood -509.373949, best rearrangement setting 5
+alpha[0]: 2.329779 rates[0] ac ag at cg ct gt: 4824.207579 15590.547344 4959.571972 0.000100 22803.224557 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -509.373949 tree written to file /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_result.207161484757013.97_OG0007160
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -509.373949 .... 
+
+Final GAMMA-based Score of best tree -509.373856
+
+Program execution info written to /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_info.207161484757013.97_OG0007160
+Best-scoring ML tree written to: /home/457031/rootknot_phylogenomics/non_cds_alignment-trimal0.7-tree/RAxML_bestTree.207161484757013.97_OG0007160
+
+Overall execution time: 0.606061 secs or 0.000168 hours or 0.000007 days
+
