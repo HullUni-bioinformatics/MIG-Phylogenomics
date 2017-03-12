@@ -1,0 +1,42 @@
+def formatdb(ref):
+    from subprocess import Popen, PIPE
+    cline = 'makeblastdb -in %s -dbtype nucl' % ref
+    p = Popen(cline, shell=True, stdout=PIPE, stderr=PIPE)
+    out, err = p.communicate()
+    
+def write_temp_window(seq,start,end, filename='temp'):
+    with open(filename,'wt') as hndl:
+        hndl.write('>window\n%s\n'%seq[start:end])
+        
+def first_and_second_match(db, query='temp', xml='temp.xml', clean=True):
+    from subprocess import Popen, PIPE
+    import os
+    from Bio import SearchIO, SeqIO
+    cline = 'blastn -query %s -db %s -outfmt 5 -out %s -evalue 0.01 -num_threads 13' % (query, db, xml)
+    if len(SeqIO.read(query,'fasta')) < 50:
+        cline += " -word_size 7 -penalty -3 -reward 1 -dust no"
+    
+    p = Popen(cline, shell=True, stdout=PIPE, stderr=PIPE)
+    out, err = p.communicate()
+    q = SearchIO.read(xml,'blast-xml')
+    if len(q.hits) == 0:
+        return [None,None,None,None,None,None]
+    elif len(q.hits) == 1:
+        return [q[0][0].hit_id, q[0][0].hit_span, q[0][0].ident_num, None,None,None]
+    elif len(q.hits) > 0:
+        return [q[0][0].hit_id, q[0][0].hit_span, q[0][0].ident_num, 
+                q[1][0].hit_id, q[1][0].hit_span, q[1][0].ident_num]
+    if clean:
+        os.remove(query)
+        os.remove(xml)
+        
+def slide(query, db):
+    from Bio import SeqIO
+    window_matches = []
+    for i in range(0,len(query)-winlen,slidelen):
+        write_temp_window(str(query.seq),i,i+winlen)
+        try:
+            window_matches.append(first_and_second_match(db=db))
+        except:
+            pass
+    return window_matches
