@@ -1,0 +1,44 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_bootstrap.539991488208463.95_no_og1 onto tree in file RAxML_bestTree.539991488208463.95_no_og0
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -f b -m PROTGAMMAJTT -n 539991488208463.95_no_og2 -q 539991488208463.95_no_og_partfile -p 218 -s 539991488208463.95_no_og.fasta -t RAxML_bestTree.539991488208463.95_no_og0 -T 2 -z RAxML_bootstrap.539991488208463.95_no_og1 
+
+
+
+
+Found 1 tree in File RAxML_bestTree.539991488208463.95_no_og0
+
+
+
+Found 100 trees in File RAxML_bootstrap.539991488208463.95_no_og1
+
+
+
+Found 1 tree in File RAxML_bestTree.539991488208463.95_no_og0
+
+
+
+Time for Computation of Bipartitions 0.004011
+Tree with bipartitions written to file:  /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/RAxML_bipartitions.539991488208463.95_no_og2
+Tree with bipartitions as branch labels written to file:  /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/RAxML_bipartitionsBranchLabels.539991488208463.95_no_og2
+Execution information file written to :  /home/amir/Dropbox/Nematodes/Meloidogyne_hybrids/Homeologue_phylogenomics/RAxML_info.539991488208463.95_no_og2
