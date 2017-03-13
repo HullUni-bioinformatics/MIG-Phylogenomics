@@ -45,38 +45,25 @@ These were used for mitochondrial genome assembly, based on the first read trimm
   
 ## Figure created in this repository
 ### Main figures
-*Figure 1, Notebook 8*  
-![Figure 1](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true)  
-*Figure 2, Notebook 3*
-![Figure 2](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers.png?raw=true)  
-*Figure 3, Notebook 4*  
-![Figure 4](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true)  
-*Figure 4, Notebook 12*  
-[!Figure 4a](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true)  
-![Figure 4b](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true)  
-*Figure 5, Notebook 9*  
-![Figure 5](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit_all_samples.png?raw=true)
-### Suplementary Figures
-*Figure S1, Notebook 3*  
-![Figure S1](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers_sup.png?raw=true)  
-*Figure S5, Notebook 4*  
+*Figure 1, Notebook 8*   
+![Figure 1](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true)   
+*Figure 2, Notebook 3*  
+![Figure 2](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers.png?raw=true)   
+*Figure 3, Notebook 4*   
+![Figure 4](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true)   
+*Figure 4, Notebook 12*    
+[!Figure 4a](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true)   
+![Figure 4b](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true)   
+*Figure 5, Notebook 9*   
+![Figure 5](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit_all_samples.png?raw=true)  
+### Suplementary Figures  
+*Figure S1, Notebook 3*   
+![Figure S1](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers_sup.png?raw=true)   
+*Figure S5, Notebook 4*    
 ![Figure S5](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true)   
-*Figure S6, Notebook 4*  
-![Figure S6B](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true)
-![Figure S6C](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true)
-
-
-
-### Mitochondrial tree
-[Mitochondrial tree conbined](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)  
-[Mitochondrial tree rooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)  
-[Mitochondrial tree unrooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png)  
-
-### Nuclear tree
-[astral tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png)  
-[supermatrix tree](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml.png)   
-[strict consensus of the astral randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png)  
-[strict consensus of the supermatrix randomization analysis](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png)
+*Figure S6, Notebook 4*   
+![Figure S6B](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true)  
+![Figure S6C](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true)  
 
 
 ## Notebooks and related files
