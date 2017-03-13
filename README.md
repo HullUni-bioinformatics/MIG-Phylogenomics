@@ -2,17 +2,11 @@
 
 ## Read data
 
-The data is backed up on BioPC8. 
-Files, as recived from Laura are in :   
-`/media/amir/BACKUP/Read_data`  
-Slightly organised files are in:  
-`/media/amir/DATA/Read_data`   
-This is also mirrored on the synology drive, in:  
-`Amir/Read_data`   
-Quality trimmed read data can be found in all of the above and also in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/7/2018.
+The read data for this analysis is in SRA under accession number `PRJNA340324`
 
 ### Raw paired read libraries 
-  
+Expect read-1 and read-2 fastq files for each of the following libraries. FIle paths in notebooks my need to be adjusted depending on where you place the files on your machine (big data is usually placed outsied the work drive and the path for those are system specific)  
+
 Sample | Library | insert size | Used in analysis
 :--- |:---|:---:|:---:
 MincA14 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-021 | ? | +
@@ -44,12 +38,15 @@ MfloSJF1 | 160426_K00166_0058_AH7WLVBBXX_8_TP-D7-005_TP-D5-003 |  |
 
   
 ### Quality trimmed paired read file 
-These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018.
+These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018. Aternatively, the can be created in notebook 2.
     
 ### 25M read dubset of the first trimmed read file  
-These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset.
+These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset. The links will need to be recreated on your system. These files are created in notebook 5.
   
-## Key figures
+## Figure created in this repository
+### Main figures
+*Figure 1*  
+![Figure 1](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true)
 ### Mitochondrial tree
 [Mitochondrial tree conbined](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/mito.png)  
 [Mitochondrial tree rooted](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/raw/master/mitochondrial_assemblies/phylogenetic_analysis/full.png)  
