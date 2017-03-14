@@ -77,16 +77,16 @@ These were used for mitochondrial genome assembly, based on the first read trimm
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">
   
 *Figure S8, Notebook 9*  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="600">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="200">
    
 *Figure S9, Notebook 9*   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="400">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="200">
 
 *Figure S10, Notebook 9*   
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">
 
 *Figure S11, Notebook 10*   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/synteny/fig.png?raw=true" alt="alt text" width="200">
 
 *Figure S12, Notebook 11*   
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">
