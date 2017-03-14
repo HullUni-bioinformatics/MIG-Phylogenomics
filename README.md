@@ -70,9 +70,26 @@ These were used for mitochondrial genome assembly, based on the first read trimm
   
 *Figure S6, Notebook 4*   
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true" alt="alt text" width="200">
-
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png?raw=true" alt="alt text" width="200">
+  
+*Figure S7, Notebook 7*  
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/full.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">
+  
+*Figure S8, Notebook 9*  
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="600">
+   
+*Figure S9, Notebook 9*   
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="400">
 
+*Figure S10, Notebook 9*   
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">
+
+*Figure S11, Notebook 10*   
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">
+
+*Figure S12, Notebook 11*   
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">
 
 ## Notebooks and related files
 
