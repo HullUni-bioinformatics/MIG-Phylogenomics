@@ -7,41 +7,44 @@ The read data for this analysis is in SRA under accession number `PRJNA340324`
 ### Raw paired read libraries 
 Expect read-1 and read-2 fastq files for each of the following libraries. FIle paths in notebooks my need to be adjusted depending on where you place the files on your machine (big data is usually placed outsied the work drive and the path for those are system specific)  
 
-Sample | Library | insert size | Used in analysis
-:--- |:---|:---:|:---:
-MincA14 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-021 | ? | +
-MareHarA | 150403_D00261_0236_AC6E37ANXX_8_IL-TP-021 | 550 | +
-MareHarA | 150403_D00261_0236_AC6E37ANXX_8_IL-TP-023 | ? | 
-MareHarA | 150521_D00200_0260_AC6V40ANXX_2_IL-TP-021 | ? | 
-MareHarA | 150521_D00200_0260_AC6V40ANXX_2_IL-TP-023 | ? | 
-MjavLD15 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-010 | ? | +
-MincL19 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-011 | ? | +
-MareL32 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-022 | ? | +
-MareL28 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-008 | ? | +
-MjavL57 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-001 | ? | +
-MjavVW4 | mjavanicaVW4_500 | 500 | +
-MjavVW4 | mjavanicaVW4_300 | 300 |
-MincW1 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-013 | 500 | +
-MincW1 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-005 | 300 | 
-MincVW6 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-007 | 500 | +  
-MincVW6 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-002 | 300 |  
-MincHarC | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-012 | 550 | +
-MincHarC | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-004 | 350 |
-Minc557R | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-006 | 550 | +
-MincL9 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-009 | ? | +
-MincL27 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-020 | ? | +
-MjavLD17 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-003 | ? | +
-MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-005 | ? | +
-MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-019 | ? | 
-MfloSJF1 | 160425_E00397_0014_AHLYG7CCXX_1_TP-D7-003 |  | 
-MfloSJF1 | 160426_K00166_0058_AH7WLVBBXX_8_TP-D7-005_TP-D5-003 |  | 
+Sample | Library  | Used in analysis
+:--- |:---|:---:
+MincA14 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-021 | +
+MareHarA | 150403_D00261_0236_AC6E37ANXX_8_IL-TP-021  | +
+MareHarA | 150403_D00261_0236_AC6E37ANXX_8_IL-TP-023  | 
+MareHarA | 150521_D00200_0260_AC6V40ANXX_2_IL-TP-021  | 
+MareHarA | 150521_D00200_0260_AC6V40ANXX_2_IL-TP-023  | 
+MjavLD15 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-010  | +
+MincL19 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-011  | +
+MareL32 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-022  | +
+MareL28 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-008  | +
+MjavL57 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-001 | +
+MjavVW4 | mjavanicaVW4_500  | +
+MjavVW4 | mjavanicaVW4_300  |
+MincW1 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-013  | +
+MincW1 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-005  | 
+MincVW6 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-007  | +  
+MincVW6 | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-002  |  
+MincHarC | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-012  | +
+MincHarC | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-004  |
+Minc557R | 150212_D00261_0225_AC6EKCANXX_1_IL-TP-006  | +
+MincL9 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-009  | +
+MincL27 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-020  | +
+MjavLD17 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-003  | +
+MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-005  | +
+MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-019  | 
+MfloSJF1 | 160425_E00397_0014_AHLYG7CCXX_1_TP-D7-003 | 
+MfloSJF1 | 160426_K00166_0058_AH7WLVBBXX_8_TP-D7-005_TP-D5-003 | 
 
   
 ### Quality trimmed paired read file 
 These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018. Aternatively, the can be created in notebook 2.
     
 ### 25M read dubset of the first trimmed read file  
-These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset. The links will need to be recreated on your system. These files are created in notebook 5.
+These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset. The links will need to be recreated on your system. These files are created in notebook 5.  
+  
+## [Genome assembly scripts](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)  
+
   
 ## Figure created in this repository
 ### Main figures
