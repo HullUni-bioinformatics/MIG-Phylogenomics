@@ -114,8 +114,8 @@ Notebook file name: [`Nuclear_phylogenomics.ipynb`](https://github.com/HullUni-b
 `orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st_0.01_alns_1-4/ RAxML_StrictConsensusTree<AstStrict | RaxStrict>`: strict consensus trees that resulted from the two randomization analyses with astral and raxml.  
 
 `orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st_0.01_alns_1-4/ RAxML_<>.merged_clusters_<>`:  
-A through raxml tree reconstrction of a supermatrix of all the OCs, following a treeCL analysis confirming their shared phylogeny.  
- ####Figures
+A through raxml tree reconstrction of a supermatrix of all the OCs, following a treeCL analysis confirming their shared phylogeny.   
+#### Figures  
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png?raw=true" alt="alt text" width="200">  
  
 ### 5. Mitochondrial genome assembly
