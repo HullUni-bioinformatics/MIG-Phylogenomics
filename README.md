@@ -55,8 +55,8 @@ These were used for mitochondrial genome assembly, based on the first read trimm
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true" alt="alt text" width="200">Notebook 4  
       
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true" alt="alt text" width="200">
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true" alt="alt text" width="200">Notebook 12  
-  
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true" alt="alt text" width="200">Notebook 12    
+    
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit_all_samples.png?raw=true" alt="alt text" width="200">Notebook 9   
     
 ### Suplementary Figures  
