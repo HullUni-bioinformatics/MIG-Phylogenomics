@@ -169,7 +169,7 @@ Notebook file name: [`TE.ipynb`](https://github.com/HullUni-bioinformatics/MIG-P
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">  
 
 ### 12. Intra and interspecific genetic diversity
-Notebook file name: [`GeneticVariation.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/GeneticVariation.ipynb)
-####Figures
+Notebook file name: [`GeneticVariation.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/GeneticVariation.ipynb)  
+#### Figures  
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true" alt="alt text" width="200">
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true" alt="alt text" width="200">
