@@ -48,51 +48,54 @@ These were used for mitochondrial genome assembly, based on the first read trimm
   
 ## Figure created in this repository
 ### Main figures
-*Figure 1, Notebook 8*   
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true" alt="alt text" width="200">  
+*Notebook 8*   
   
-*Figure 2, Notebook 3*  
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers.png?raw=true" alt="alt text" width="200">
-     
-*Figure 3, Notebook 4*   
+*Notebook 3*  
+       
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true" alt="alt text" width="200">
-  
-*Figure 4, Notebook 12*    
+*Notebook 4* 
+    
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true" alt="alt text" width="200">
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true" alt="alt text" width="200">
-  
-*Figure 5, Notebook 9*   
+*Notebook 12*   
+    
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit_all_samples.png?raw=true" alt="alt text" width="200">
+* Notebook 9*   
   
 ### Suplementary Figures  
-*Figure S1, Notebook 3*   
+*Notebook 3*   
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers_sup.png?raw=true" alt="alt text" width="200">
   
-*Figure S5, Notebook 4*    
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true" alt="alt text" width="200">
+*Notebook 4*    
   
-*Figure S6, Notebook 4*   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true" alt="alt text" width="200">
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true" alt="alt text" width="200">  
+*Notebook 4*   
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png?raw=true" alt="alt text" width="200">  
+*Notebook 4*   
   
-*Figure S7, Notebook 7*  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/full.png?raw=true" alt="alt text" width="200">
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">
-  
-*Figure S8, Notebook 9*  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="200">
+
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/full.png?raw=true" alt="alt text" width="200">  
+*Notebook 7*    
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">  
+*Notebook 7*  
    
-*Figure S9, Notebook 9*   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="200">  
+*Notebook 9*   
+   
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="200">  
+*Notebook 9*   
 
-*Figure S10, Notebook 9*   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">  
+*Notebook 9*   
 
-*Figure S11, Notebook 10*   
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/synteny/fig.png?raw=true" alt="alt text" width="200">
+*Notebook 10*   
 
-*Figure S12, Notebook 11*   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">  
+*Notebook 11*   
 
 ## Notebooks and related files
 
