@@ -45,50 +45,11 @@ These were used for mitochondrial genome assembly, based on the first read trimm
   
 ## [Genome assembly scripts](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)  
 
-  
-## Figure created in this repository
-### Main figures
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true" alt="alt text" width="200">Notebook 8  
-
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers.png?raw=true" alt="alt text" width="200">Notebook 3  
-        
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true" alt="alt text" width="200">Notebook 4  
-      
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true" alt="alt text" width="200">
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true" alt="alt text" width="200">Notebook 12    
-    
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit_all_samples.png?raw=true" alt="alt text" width="200">Notebook 9   
-    
-### Suplementary Figures  
-
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers_sup.png?raw=true" alt="alt text" width="200">Notebook 3  
-    
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true" alt="alt text" width="200">Notebook 4  
-   
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true" alt="alt text" width="200">Notebook 4  
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png?raw=true" alt="alt text" width="200">Notebook 4
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/full.png?raw=true" alt="alt text" width="200">Notebook 7   
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">Notebook 7
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="200">Notebook 9
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="200">Notebook 9
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">Notebook 9  
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/synteny/fig.png?raw=true" alt="alt text" width="200">Notebook 10  
-  
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">Notebook 11  
-  
 ## Notebooks and related files
 
 ### 0. Dependencies
 Notebook file name:  [`Dependencies.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Dependencies.ipynb)
-#### Related files:
-None
+  
 ### 1. CDSs and proteins from genome assemblies
 Notebook file name: [`CDSs_and_proteins_from_genome_assemblies.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/CDSs_and_proteins_from_genome_assemblies.ipynb)
 #### Related files:
@@ -135,7 +96,9 @@ Notebook file name: [`Orthology_clustering.ipynb`](https://github.com/HullUni-bi
 `orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st_0.01_alns_<1-4 | all2 | flo2>`: Sequence alignments of orthology clusters in which inparalogues are collapsed into a single sequence, OCs with fragmanted orthologs are excluded and each genome copy contains up to one copy per sample.  
 `1-4`: all the orthology clusters  in which there are at least 3 reference samples with 2 gene copies.
 `all2`: a subset of `1-4` in which all the reference samples have two gene copies.  
-`flo2`: a subset of `1-4` in which all MfloSJF1 has two gene copies.  
+`flo2`: a subset of `1-4` in which all MfloSJF1 has two gene copies.   
+#### Figures  
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers_sup.png?raw=true" alt="alt text" width="200">
   
 ### 4. Nuclear phylogenomics
 Notebook file name: [`Nuclear_phylogenomics.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Nuclear_phylogenomics.ipynb)
@@ -152,6 +115,8 @@ Notebook file name: [`Nuclear_phylogenomics.ipynb`](https://github.com/HullUni-b
 
 `orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st_0.01_alns_1-4/ RAxML_<>.merged_clusters_<>`:  
 A through raxml tree reconstrction of a supermatrix of all the OCs, following a treeCL analysis confirming their shared phylogeny.  
+ ####Figures
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/raxml_strict.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/astral_strict.png?raw=true" alt="alt text" width="200">  
  
 ### 5. Mitochondrial genome assembly
 Notebook file name:[ `Mitochondrial_genome_assembly.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Mitochondrial_genome_assembly.ipynb)  
@@ -168,11 +133,15 @@ Notebook file name: [`Mitochondrial_genomes_annotation.ipynb`](https://github.co
 Notebook file name: [`Mitochondrial_genomes_tree.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Mitochondrial_genomes_tree.ipynb)
 #### Related files:   
 `mitochondrial_assemblies/phylogenetic_analysis`:  all the files associated with the reprophylo pipeline.  
+#### Figures
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/full.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">
   
 ### 8. Intra-genome identity among homeologue gene pairs
 Notebook file name:[ `Intra_genome_sequence_divergence.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Intra_genome_sequence_divergence.ipynb)
 #### Related files:   
 `intrablast_p_ident_dict.pkl`:  pairwise homoeolog identity values for all the samples.  
+#### Figures:
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true" alt="alt text" width="200">
     
 ### 9. Coverage ratio between homeologue contigs within a genome
 Notebook file name: [`Median_ratio.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Median_ratio.ipynb)  
@@ -182,16 +151,25 @@ Notebook file name: [`Median_ratio.ipynb`](https://github.com/HullUni-bioinforma
 `genes_to_contigs.pkl`: contig assignment of genes.  
 `OG_contig_relationship.pkl`:  contig assignments of OCs.  
 `contig_pairs_data`: fasta files with contigs pairs.  
+#### Figures
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/median_hist_with_best_gaus_fit_all_samples.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/FigureS5.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/Figure4.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/coverage_ratio_histograms/venn.png?raw=true" alt="alt text" width="200">
 
 ### 10. Gene Conversion
 Notebook file name: [`GeneConversion.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/GeneConversion.ipynb)
 #### Related files:   
 `synteny`: all the related files.  
+#### Figures
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/synteny/fig.png?raw=true" alt="alt text" width="200">  
 
 ### 11. Transposable elements
 Notebook file name: [`TE.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TE.ipynb)
 #### Related files:   
 `TEs`: all the related files.  
+#### Figures
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/TEs/bars.png?raw=true" alt="alt text" width="200">  
 
 ### 12. Intra and interspecific genetic diversity
 Notebook file name: [`GeneticVariation.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/GeneticVariation.ipynb)
+####Figures
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_dist1.png?raw=true" alt="alt text" width="200">
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/seq_ident.png?raw=true" alt="alt text" width="200">
