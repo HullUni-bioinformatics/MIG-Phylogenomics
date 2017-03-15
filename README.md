@@ -48,8 +48,8 @@ These were used for mitochondrial genome assembly, based on the first read trimm
   
 ## Figure created in this repository
 ### Main figures
-<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true" alt="alt text" width="200"> Notebook 8   
-    
+<img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true" alt="alt text" width="200">Notebook 8  
+
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/copy_numbers.png?raw=true" alt="alt text" width="200">Notebook 3  
         
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st0.001_alns_1_4/Figure3.png?raw=true" alt="alt text" width="200">Notebook 4  
