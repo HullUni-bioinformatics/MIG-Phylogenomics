@@ -1,12 +1,21 @@
 # MIG-Phylogenomics
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.399475.svg)](https://doi.org/10.5281/zenodo.399475)  
   
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-  
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+  with this work has waived all copyright and related or neighboring
+  rights to this work.
+</p>  
 
 ## Read data
 
-The read data for this analysis is in SRA under accession number `PRJNA340324`
+The read data for this analysis is in SRA under accession number [`PRJNA340324`](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA340324)
 
 ### Raw paired read libraries 
 Expect read-1 and read-2 fastq files for each of the following libraries. FIle paths in notebooks my need to be adjusted depending on where you place the files on your machine (big data is usually placed outsied the work drive and the path for those are system specific)  
@@ -37,18 +46,18 @@ MincL27 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-020  | +
 MjavLD17 | 150715_D00248_0103_AC75KUANXX_4_IL-TP-003  | +
 MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-005  | +
 MentL30 | 150716_D00248_0104_BC75KYANXX_3_IL-TP-019  | 
-MfloSJF1 | 160425_E00397_0014_AHLYG7CCXX_1_TP-D7-003 | 
+MfloSJF1 | 160425_E00397_0014_AHLYG7CCXX_1_TP-D7-003 | +
 MfloSJF1 | 160426_K00166_0058_AH7WLVBBXX_8_TP-D7-005_TP-D5-003 | 
 
+### [Genome assembly scripts](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)   
+Genome assembly scripts by Dr. Laura Salazar are available [here](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)
   
 ### Quality trimmed paired read file 
-These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018. Aternatively, the can be created in notebook 2.
+These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018. Aternatively, they can be created in notebook 2.
     
 ### 25M read dubset of the first trimmed read file  
 These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset. The links will need to be recreated on your system. These files are created in notebook 5.  
   
-## [Genome assembly scripts](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)  
-
 ## Notebooks and related files
 
 ### 0. Dependencies
@@ -90,14 +99,14 @@ Notebook file name: [`Orthology_clustering.ipynb`](https://github.com/HullUni-bi
   
 `orthofinder/all_inputs/Results_Jan16/<inflation value>_OrthologousGroup.csv`: Orthology clusters, with `<inflation value>` representign the mcl inflation parameter, except for 0, representing an inflation of 1.5, and 1, representing inflation of 1.1.   
   
-`orthofinder/all_inputs/Results_Jan16/WorkingDirectory`: OrthoFinder inputs and putputs of the Blast step.  
+`orthofinder/all_inputs/Results_Jan16/WorkingDirectory`: OrthoFinder inputs and outputs of the Blast step.  
 `orthofinder/all_inputs/Results_Jan16/OGs_I2_1-4.gb.gz`: A genbank file with coding and protein sequences of orthology clusters with 1 to 4 gene copies for each reference sample`.  
   
 `orthofinder/all_inputs/Results_Jan16/OGs_I2_1-4.gb.loci.<csv|txt>`: ReproPhylo formated list of the loci that are in the genbank file.
   
 `orthofinder/all_inputs/Results_Jan16/rootknot_phylogenomics`: Input and output files of the OC filtering and correction pipeline, with trimal settings of gt=0.7 and st=0.01`  
   
-`orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st_0.01_alns_<1-4 | all2 | flo2>`: Sequence alignments of orthology clusters in which inparalogues are collapsed into a single sequence, OCs with fragmanted orthologs are excluded and each genome copy contains up to one copy per sample.  
+`orthofinder/all_inputs/Results_Jan16/I2_3X2_gt0.7_st_0.01_alns_<1-4 | all2 | flo2>`: Sequence alignments of orthology clusters in which inparalogs are collapsed into a single sequence, OCs with fragmanted orthologs are excluded and each genome copy contains up to one copy per sample.  
 `1-4`: all the orthology clusters  in which there are at least 3 reference samples with 2 gene copies.
 `all2`: a subset of `1-4` in which all the reference samples have two gene copies.  
 `flo2`: a subset of `1-4` in which all MfloSJF1 has two gene copies.   
@@ -107,9 +116,9 @@ Notebook file name: [`Orthology_clustering.ipynb`](https://github.com/HullUni-bi
 ### 4. Nuclear phylogenomics
 Notebook file name: [`Nuclear_phylogenomics.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Nuclear_phylogenomics.ipynb)
 #### Related files:   
-`orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st_0.01_alns_1-4/<astralshuffeled | raxmlshuffled>`: randomization analyses in which homeologue 1 and homeologue 2 are randomly determined for each gene.  
-`astralshuffeled`: 100 astral runs, in which hom 1 and 2 were randomly determined for each gene.   
-`raxmlshuffled`: 100 raxml supermatrix trees, in which hom 1 and 2 were randomly determined for each gene, prior to the concatenation of the supermatrix.  
+`orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st_0.01_alns_1-4/<astralshuffeled | raxmlshuffled>`: randomization analyses in which homeolog 1 and homeolog 2 are randomly assigned for each gene.  
+`astralshuffeled`: 100 astral runs, in which hom 1 and 2 were randomly assigend for each gene.   
+`raxmlshuffled`: 100 raxml supermatrix trees, in which hom 1 and 2 were randomly assigned for each gene, prior to the concatenation of the supermatrix.  
   
 `orthofinder/all_inputs/Results_Jul02/I2_3X2_gt0.7_st_0.01_alns_1-4/trees.txt`: a list of gene trees that were used for astral (non randomized)  
   
@@ -140,14 +149,14 @@ Notebook file name: [`Mitochondrial_genomes_tree.ipynb`](https://github.com/Hull
 #### Figures
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/full.png?raw=true" alt="alt text" width="200"><img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/mitochondrial_assemblies/phylogenetic_analysis/no_og.png?raw=true" alt="alt text" width="200">
   
-### 8. Intra-genome identity among homeologue gene pairs
+### 8. Intra-genome identity among homeolog gene pairs
 Notebook file name:[ `Intra_genome_sequence_divergence.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Intra_genome_sequence_divergence.ipynb)
 #### Related files:   
 `intrablast_p_ident_dict.pkl`:  pairwise homoeolog identity values for all the samples.  
 #### Figures:
 <img src="https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/intra_blast.png?raw=true" alt="alt text" width="200">
     
-### 9. Coverage ratio between homeologue contigs within a genome
+### 9. Coverage ratio between homeolog contigs within a genome
 Notebook file name: [`Median_ratio.ipynb`](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/blob/master/Median_ratio.ipynb)  
 #### Related files:   
 `<sample>_contig_pairs_bwa`: read mapping to homoeolog contig pairs.  
