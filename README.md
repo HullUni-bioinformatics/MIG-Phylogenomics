@@ -55,7 +55,7 @@ Genome assembly scripts by Dr. Laura Salazar are available [here](https://github
 ### Quality trimmed paired read file 
 These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018. Aternatively, they can be created in notebook 2.
     
-### 25M read dubset of the first trimmed read file  
+### 25M read subset of the first trimmed read file  
 These were used for mitochondrial genome assembly, based on the first read trimmed file. When link is provided instead of a file, the trimmed read one file had less than 25 M reads in it and was also used as the subset. The links will need to be recreated on your system. These files are created in notebook 5.  
   
 ## Notebooks and related files
