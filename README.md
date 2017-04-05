@@ -50,7 +50,7 @@ MfloSJF1 | 160425_E00397_0014_AHLYG7CCXX_1_TP-D7-003 | +
 MfloSJF1 | 160426_K00166_0058_AH7WLVBBXX_8_TP-D7-005_TP-D5-003 | 
 
 ### [Genome assembly scripts](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)   
-Genome assembly scripts by Dr. Laura Salazar are available [here](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes)
+Genome assembly scripts by Dr. Laura Salazar are available [here](https://github.com/lauraalazar/Meloidogyne_Genomes/tree/998e775cf2507f93a6d1c077d777ab2d874dba3e#meloidogyne_genomes). The genome assembly files are in [this repository](https://github.com/HullUni-bioinformatics/MIG-Phylogenomics/tree/master/meloidogyne_assemblies).
   
 ### Quality trimmed paired read file 
 These were used for mapping of genes and of contig pairs, based on raw read libraries indicated by +  . They are available in [this location](https://1drv.ms/f/s!An9b1MJGDGMhgQU6nCh-hCDFkjuU) until 25/6/2018. Aternatively, they can be created in notebook 2.
